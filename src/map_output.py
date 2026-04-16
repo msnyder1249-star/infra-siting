@@ -53,6 +53,8 @@ def _popup_html(row: pd.Series) -> str:
           {escape(str(row['TIER']))}
         </span>
       </div>
+      <div style="margin-top: 8px;"><strong>Hosting band:</strong> {escape(str(row.get('hosting_band', 'UNKNOWN')))}</div>
+      <div><strong>Confidence:</strong> {escape(str(row.get('hosting_confidence', 'LOW')))} | <strong>Limiter:</strong> {escape(str(row.get('primary_limiter', 'unknown')))}</div>
       <div style="margin-top: 8px;"><strong>LMP avg:</strong> {row.get('lmp_avg', 'N/A')}</div>
       <div><strong>Hub spread:</strong> {row.get('lmp_hub_spread', 'N/A')}</div>
       <div><strong>Shadow price:</strong> {row.get('shadow_price_nearby', 'N/A')}</div>
@@ -95,7 +97,7 @@ def build_capacity_map(
     <div style="position: fixed; top: 10px; left: 50px; z-index: 9999; background: white;
                 padding: 10px 14px; border: 1px solid #cbd5e1; border-radius: 8px;
                 box-shadow: 0 4px 12px rgba(0,0,0,0.08); font-family: Arial, sans-serif;">
-      <div style="font-size: 18px; font-weight: 700;">ERCOT Substation Capacity Index</div>
+      <div style="font-size: 18px; font-weight: 700;">Infrastructure Siting Index</div>
       <div style="font-size: 12px; color: #475569;">{escape(timestamp)}</div>
     </div>
     """
@@ -129,7 +131,7 @@ def build_capacity_map(
     <div style="position: fixed; bottom: 24px; right: 24px; z-index: 9999; background: white;
                 padding: 12px 14px; border: 1px solid #cbd5e1; border-radius: 8px;
                 box-shadow: 0 4px 12px rgba(0,0,0,0.08); font-family: Arial, sans-serif; font-size: 13px;">
-      <div style="font-weight: 700; margin-bottom: 8px;">Tier Legend</div>
+      <div style="font-weight: 700; margin-bottom: 8px;">Index Legend</div>
       <div><span style="color:#22c55e;">●</span> AVAILABLE (70-100)</div>
       <div><span style="color:#f59e0b;">●</span> MARGINAL (40-69)</div>
       <div><span style="color:#ef4444;">●</span> CONSTRAINED (&lt;40)</div>

@@ -12,7 +12,10 @@ from config import PROCESSED_DIR
 from src.capacity_score import score_substations
 from src.crosswalk import build_crosswalk
 from src.fetch_ercot import fetch_all_ercot_data
+from src.fetch_projects import load_project_data
+from src.fetch_queue import load_queue_data
 from src.fetch_substations import get_tx_substations
+from src.hosting_band import apply_hosting_bands
 from src.map_output import build_capacity_map
 from src.publish_site import publish_docs
 
@@ -57,22 +60,31 @@ def main() -> None:
 
     print("4. Scoring substations...")
     scored_df = score_substations(substations_df, crosswalk_df, ercot_bundle)
+    print("5. Applying Phase 2 hosting bands...")
+    queue_bundle = load_queue_data()
+    project_bundle = load_project_data()
+    scored_df = apply_hosting_bands(scored_df, queue_bundle.df, project_bundle.df)
+    print(
+        f"   Queue files: {len(queue_bundle.source_files)} | "
+        f"Project files: {len(project_bundle.source_files)}"
+    )
     PROCESSED_DIR.mkdir(parents=True, exist_ok=True)
     csv_path = PROCESSED_DIR / "substation_capacity_scores.csv"
     scored_df.to_csv(csv_path, index=False)
     tier_counts = scored_df["TIER"].value_counts(dropna=False).to_dict()
     print(f"   Tier distribution: {tier_counts}")
+    print(f"   Hosting bands: {scored_df['hosting_band'].value_counts(dropna=False).to_dict()}")
 
-    print("5. Generating interactive map...")
+    print("6. Generating interactive map...")
     timestamp = pd.Timestamp.utcnow().isoformat()
     map_path = build_capacity_map(scored_df, timestamp=timestamp, min_voltage=args.min_voltage)
     print(f"   Map written to: {map_path}")
 
-    print("6. Export complete.")
+    print("7. Export complete.")
     print(f"   CSV written to: {csv_path}")
     if args.publish_docs:
         published = publish_docs()
-        print("7. Published docs for GitHub Pages.")
+        print("8. Published docs for GitHub Pages.")
         print(f"   Docs map: {published['map']}")
         print(f"   Docs CSV: {published['scores_csv']}")
 

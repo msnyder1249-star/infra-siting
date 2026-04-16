@@ -1,6 +1,6 @@
-# ERCOT Capacity
+# Infrastructure Siting Index
 
-Python project for identifying Texas substations with indicative grid capacity for large-load interconnection, using the existing `output/texas_private_substations.csv` dataset as the primary seed list and supplementing from HIFLD when available.
+Python project for screening Texas energy infrastructure locations using public reference data, market signals, and normalized substation inventory inputs.
 
 ## Project Layout
 
@@ -108,6 +108,10 @@ Important score fields:
 - `constraint_hours`: number of shadow-price-positive hours
 - `CAPACITY_SCORE`: weighted 0-100 composite score
 - `TIER`: `AVAILABLE`, `MARGINAL`, `CONSTRAINED`, or `UNSCORED`
+- `hosting_band`: Phase 2 public-data hosting estimate band
+- `hosting_confidence`: confidence in the hosting-band estimate
+- `primary_limiter`: dominant public-data limiter signal
+- `upgrade_pressure`: rough pressure indicator from future project data when available
 - `ercot_bus_matched`: matched ERCOT bus name(s)
 - `match_confidence`: crosswalk confidence
 - `data_source`: `live`, `sample`, or `unscored`
