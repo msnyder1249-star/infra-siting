@@ -1,0 +1,1925 @@
+ercot_bus,substation_name,match_method,match_confidence,latitude,longitude
+0009_EB,Payne Substation,ercot_reference_exact,1.0,34.8923993,-97.5548792
+0100_LD1,Mozart Substation,ercot_reference_exact,1.0,32.9942365,-100.5316381
+1246_EB,Payne Substation,ercot_reference_exact,1.0,34.8923993,-97.5548792
+138KV,Seguin Substation,ercot_reference_exact,1.0,29.5943554,-97.9564296
+138_BUS1,Oleander Substation,ercot_reference_exact,1.0,26.2066613,-97.6645579
+345KV_1,Riley Substation,ercot_reference_exact,1.0,34.0852615,-99.1453349
+345KV_2,Riley Substation,ercot_reference_exact,1.0,34.0852615,-99.1453349
+69_BUS1,Oleander Substation,ercot_reference_exact,1.0,26.2066613,-97.6645579
+9_EBUS,#9,exact,0.99,34.1423094,-103.1438579
+AFTON_L_A,Afton Substation,ercot_reference_exact,1.0,33.7338394,-100.8418655
+AILEEN_L_A,Abilene Aileen Substation,alias,1.0,32.4886637,-99.7002004
+AIRCO_8,Airco Substation,ercot_reference_exact,1.0,28.5098979,-96.7959532
+AIRLINE_LD01,Airline Substation,ercot_reference_exact,1.0,27.6957668,-97.3733939
+AIRLINE_LD02,Airline Substation,ercot_reference_exact,1.0,27.6957668,-97.3733939
+AIRLINE_LD03,Airline Substation,ercot_reference_exact,1.0,27.6957668,-97.3733939
+AIRLINE_LD04,Airline Substation,ercot_reference_exact,1.0,27.6957668,-97.3733939
+AIRLINE_V_A,Airline Substation,ercot_reference_exact,1.0,27.6957668,-97.3733939
+AIRLINE_V_B,Airline Substation,ercot_reference_exact,1.0,27.6957668,-97.3733939
+AIRPORT_AG1,Airport Substation,ercot_reference_exact,1.0,30.9030669,-102.9191557
+AIRPRT69T,Airport Substation,ercot_reference_exact,1.0,30.9030669,-102.9191557
+AIRP_EB,Airport Substation,ercot_reference_exact,1.0,30.9030669,-102.9191557
+ALAZAN_L_A,Alazan Substation,ercot_reference_exact,1.0,27.5598557,-97.5022098
+ALBANY_L_A,Albany Substation,ercot_reference_exact,1.0,32.72364,-99.2926454
+ALBANY_V_A,Albany Substation,ercot_reference_exact,1.0,32.72364,-99.2926454
+ALCOA_L_A,Alcoa Substation,ercot_reference_exact,1.0,28.6575689,-96.5576281
+ALCOA_L_B,Alcoa Substation,ercot_reference_exact,1.0,28.6575689,-96.5576281
+ALICE_L_A,Alice Substation,ercot_reference_exact,1.0,27.7298352,-98.0874594
+ALICE_L_B,Alice Substation,ercot_reference_exact,1.0,27.7298352,-98.0874594
+ALICE_V_A,Alice Substation,ercot_reference_exact,1.0,27.7298352,-98.0874594
+ALP1,Bronco Substation,ercot_reference_exact,1.0,33.3005596,-103.0589404
+ALPINE_L_A,Alpine Substation,ercot_reference_exact,1.0,30.3556125,-103.6632475
+ALPINE_L_B,Alpine Substation,ercot_reference_exact,1.0,30.3556125,-103.6632475
+ALPINE_V_A,Alpine Substation,ercot_reference_exact,1.0,30.3556125,-103.6632475
+ALTUDA_L_A,Altuda Substation,ercot_reference_exact,1.0,30.2357894,-103.4380096
+ALVIN,Alvin Substation,exact,0.99,29.4333127,-95.2494409
+ALVIN_6490,Alvin Substation,ercot_reference_exact,1.0,29.4333127,-95.2494409
+ALVIN_RN,Alvin Substation,ercot_reference_exact,1.0,29.4333127,-95.2494409
+AMOCO_9X,Amoco Substation,ercot_reference_exact,1.0,31.6495484,-100.8653448
+ANA,Anacacho Substation,ercot_reference_exact,1.0,29.204646,-100.1712142
+ANACACHO_ANA,Anacacho Substation,ercot_reference_exact,1.0,29.204646,-100.1712142
+ANA_LINE,Anacacho Substation,ercot_reference_exact,1.0,29.204646,-100.1712142
+ANA_LOAD,Anacacho Substation,ercot_reference_exact,1.0,29.204646,-100.1712142
+ANDERSON_A,Anderson Substation,exact,0.99,29.483879,-98.7183807
+ANDERSON_L_A,Anderson Substation,exact,0.99,29.483879,-98.7183807
+ANDERSON_V_A,Anderson Substation,exact,0.99,29.483879,-98.7183807
+ANDICE_7702,Andice Substation,ercot_reference_exact,1.0,30.7489665,-97.875798
+ANDICE_7722,Andice Substation,ercot_reference_exact,1.0,30.7489665,-97.875798
+ANDICE_7732,Andice Substation,ercot_reference_exact,1.0,30.7489665,-97.875798
+ANDICE_7752,Andice Substation,ercot_reference_exact,1.0,30.7489665,-97.875798
+ANGL_6619,Angleton Substation,ercot_reference_exact,1.0,29.1669775,-95.4406374
+ANGL_6620,Angleton Substation,ercot_reference_exact,1.0,29.1669775,-95.4406374
+ANG_S794,Angstrom Substation,ercot_reference_exact,1.0,28.0443093,-97.4383661
+APACHE_6388,Apache Substation,ercot_reference_exact,1.0,29.3787017,-94.9475574
+APACHE_6389,Apache Substation,ercot_reference_exact,1.0,29.3787017,-94.9475574
+ARROWHEAD,Arrowhead Substation,exact,0.99,35.105527,-101.8134737
+ASHERTON4315,Asherton Substation,ercot_reference_exact,1.0,28.4423395,-99.7557185
+ASHERTON4319,Asherton Substation,ercot_reference_exact,1.0,28.4423395,-99.7557185
+ASHERTON4323,Asherton Substation,ercot_reference_exact,1.0,28.4423395,-99.7557185
+ASHERTONL150,Asherton Substation,ercot_reference_exact,1.0,28.4423395,-99.7557185
+ASHERTONL160,Asherton Substation,ercot_reference_exact,1.0,28.4423395,-99.7557185
+ASHERTON_KH,Asherton Substation,ercot_reference_exact,1.0,28.4423395,-99.7557185
+ASHERTON_LD0,Asherton Substation,ercot_reference_exact,1.0,28.4423395,-99.7557185
+ASHERTON_V_A,Asherton Substation,ercot_reference_exact,1.0,28.4423395,-99.7557185
+ASHERTON_V_C,Asherton Substation,ercot_reference_exact,1.0,28.4423395,-99.7557185
+ATKINS_2193,Atkins Substation,ercot_reference_exact,1.0,30.6466224,-96.3742315
+ATKINS_2194,Atkins Substation,ercot_reference_exact,1.0,30.6466224,-96.3742315
+ATKINS_8001,Atkins Substation,ercot_reference_exact,1.0,30.6466224,-96.3742315
+ATKINS_8003,Atkins Substation,ercot_reference_exact,1.0,30.6466224,-96.3742315
+ATKINS_9123,Atkins Substation,ercot_reference_exact,1.0,30.6466224,-96.3742315
+ATKINS_9124,Atkins Substation,ercot_reference_exact,1.0,30.6466224,-96.3742315
+ATKINS_9127,Atkins Substation,ercot_reference_exact,1.0,30.6466224,-96.3742315
+ATKINS_9129,Atkins Substation,ercot_reference_exact,1.0,30.6466224,-96.3742315
+ATKINS_9130,Atkins Substation,ercot_reference_exact,1.0,30.6466224,-96.3742315
+ATKINS_EPS2,Atkins Substation,ercot_reference_exact,1.0,30.6466224,-96.3742315
+ATKINS_KKE,Atkins Substation,ercot_reference_exact,1.0,30.6466224,-96.3742315
+ATKINS_KP,Atkins Substation,ercot_reference_exact,1.0,30.6466224,-96.3742315
+ATKINS_KR,Atkins Substation,ercot_reference_exact,1.0,30.6466224,-96.3742315
+ATK_ATKINSG7,Atkins Substation,ercot_reference_exact,1.0,30.6466224,-96.3742315
+AUBREY,Aubrey Substation,exact,0.99,33.3050741,-96.9998454
+AURORA_KJ,Aurora Substation,ercot_reference_exact,1.0,33.0512223,-97.5482651
+AUSTIN_K,Austin Substation,ercot_reference_exact,1.0,31.7830319,-106.4200852
+AUSTIN_KN,Austin Substation,ercot_reference_exact,1.0,31.7830319,-106.4200852
+AUSTIN_KQ,Austin Substation,ercot_reference_exact,1.0,31.7830319,-106.4200852
+AUTO_DIVIDE,Divide Substation,ercot_reference_exact,1.0,31.8695145,-100.7771803
+AUTO_EPS_465,Apache Substation,ercot_reference_exact,1.0,29.3787017,-94.9475574
+AUTO_EPS_466,Apache Substation,ercot_reference_exact,1.0,29.3787017,-94.9475574
+AVIATOR,Divide Substation,ercot_reference_exact,1.0,31.8695145,-100.7771803
+AVIAT_ALL,Divide Substation,ercot_reference_exact,1.0,31.8695145,-100.7771803
+AVLIN_6487,Alvin Substation,ercot_reference_exact,1.0,29.4333127,-95.2494409
+B143,Gauss Substation,ercot_reference_exact,1.0,33.4789378,-99.6615509
+BADERSUB92,Bader Substation,ercot_reference_exact,1.0,29.3705766,-98.9425006
+BADERSUB9Y,Bader Substation,ercot_reference_exact,1.0,29.3705766,-98.9425006
+BAFFIN_0012,Baffin Substation,ercot_reference_exact,1.0,27.1840025,-97.5969359
+BAFFIN_ALL,Baffin Substation,ercot_reference_exact,1.0,27.1840025,-97.5969359
+BAFFIN_UNIT1,Baffin Substation,ercot_reference_exact,1.0,27.1840025,-97.5969359
+BAFFIN_UNIT2,Baffin Substation,ercot_reference_exact,1.0,27.1840025,-97.5969359
+BAIRD_L_A,Baird City Substation,alias,1.0,32.4093367,-99.3866208
+BANDERA_A,Bandera Substation,exact,0.99,29.7364823,-99.111568
+BANDERA_B,Bandera Substation,exact,0.99,29.7364823,-99.111568
+BANDERA_C,Bandera Substation,exact,0.99,29.7364823,-99.111568
+BANQUETE_L_A,Banquete Substation,ercot_reference_exact,1.0,27.7968908,-97.7914207
+BARCLAY,Barclay Substation,ercot_reference_exact,1.0,31.0759216,-97.1149891
+BARNHCV_K,Barnhart Substation,ercot_reference_exact,1.0,31.2981785,-101.1623452
+BARRY,Barry Substation,exact,0.99,32.1490812,-96.6659063
+BARRY1_9W,Barry Substation,ercot_reference_exact,1.0,32.1490812,-96.6659063
+BARRY1_9X,Barry Substation,ercot_reference_exact,1.0,32.1490812,-96.6659063
+BARTLETT_AG1,Bartlett Substation,ercot_reference_exact,1.0,30.8010352,-97.4283702
+BARTON,Barton Substation,ercot_reference_exact,1.0,30.2661168,-97.8195002
+BARTONW,Barton Substation,ercot_reference_exact,1.0,30.2661168,-97.8195002
+BARTONX,Barton Substation,ercot_reference_exact,1.0,30.2661168,-97.8195002
+BARTONY,Barton Substation,ercot_reference_exact,1.0,30.2661168,-97.8195002
+BARTONZ,Barton Substation,ercot_reference_exact,1.0,30.2661168,-97.8195002
+BARTON_K,Barton Substation,ercot_reference_exact,1.0,30.2661168,-97.8195002
+BATESVILLE,Batesville Substation,exact,0.99,28.8628827,-99.608041
+BAYCITY_2644,Bay City Substation,ercot_reference_exact,1.0,28.9877151,-95.9693319
+BAYCITY_L705,Bay City Substation,ercot_reference_exact,1.0,28.9877151,-95.9693319
+BAYC_BESS_RN,Bay City Substation,ercot_reference_exact,1.0,28.9877151,-95.9693319
+BAY_CITY_KVP,Bay City Substation,ercot_reference_exact,1.0,28.9877151,-95.9693319
+BAY_CITY_KX,Bay City Substation,ercot_reference_exact,1.0,28.9877151,-95.9693319
+BAY_CITY_KZL,Bay City Substation,ercot_reference_exact,1.0,28.9877151,-95.9693319
+BAY_CITY_L_B,Bay City Substation,ercot_reference_exact,1.0,28.9877151,-95.9693319
+BB1E,Romney Substation,ercot_reference_exact,1.0,32.2448282,-98.6739267
+BB1W,Romney Substation,ercot_reference_exact,1.0,32.2448282,-98.6739267
+BB2E,Romney Substation,ercot_reference_exact,1.0,32.2448282,-98.6739267
+BB2W,Romney Substation,ercot_reference_exact,1.0,32.2448282,-98.6739267
+BEDIAS,Bedias Substation,exact,0.99,30.7855213,-95.9657313
+BEEVILLE_L_A,Beeville Substation,ercot_reference_exact,1.0,28.4249497,-97.7978679
+BEEVILLE_L_B,Beeville Substation,ercot_reference_exact,1.0,28.4249497,-97.7978679
+BEEVILLE_V_A,Beeville Substation,ercot_reference_exact,1.0,28.4249497,-97.7978679
+BEEV_EB,Tynan Substation,ercot_reference_exact,1.0,28.1831975,-97.7722993
+BEL1,Bronco Substation,ercot_reference_exact,1.0,33.3005596,-103.0589404
+BENJAMIN_LD1,Benjamin Substation,ercot_reference_exact,1.0,33.5845785,-99.8009689
+BERCLAIR_EB1,Berclair Substation,ercot_reference_exact,1.0,28.4933013,-97.5985205
+BERCLAIR_L_A,Berclair Substation,ercot_reference_exact,1.0,28.4933013,-97.5985205
+BIGFT_BUS1,Big Foot Substation,ercot_reference_exact,1.0,29.0597324,-98.9503588
+BIG_FOOT_V_B,Big Foot Substation,ercot_reference_exact,1.0,29.0597324,-98.9503588
+BISHOP_L_A,Bishop Substation,ercot_reference_exact,1.0,30.9045037,-95.8028353
+BISSETT,Bissett Substation,exact,0.99,33.3516818,-100.2099813
+BLESSING,Blessing Substation,exact,0.99,28.8865088,-96.1907981
+BLESSING_L_A,Blessing Substation,ercot_reference_exact,1.0,28.8865088,-96.1907981
+BLESSING_V_A,Blessing Substation,ercot_reference_exact,1.0,28.8865088,-96.1907981
+BLESSING_V_B,Blessing Substation,ercot_reference_exact,1.0,28.8865088,-96.1907981
+BLT_FLK,Faulkner Substation,ercot_reference_exact,1.0,31.261031,-103.7931847
+BLUEJAY_RN,Iola Substation,ercot_reference_exact,1.0,30.7315278,-96.0463321
+BLUFFS_L_A,Bluffs Substation,ercot_reference_exact,1.0,31.4355093,-100.5072218
+BOBCAT_K,Bobcat Hills Substation,alias,1.0,31.1050037,-102.2965739
+BOCEN,Bordas Substation,ercot_reference_exact,1.0,27.3211338,-98.9980687
+BOO1,Matador Substation,ercot_reference_exact,1.0,34.0112867,-100.8318732
+BOOTLEG_UN1,Bootleg Substation,ercot_reference_exact,1.0,30.994457,-102.2914862
+BORDAS_345,Bordas Substation,ercot_reference_exact,1.0,27.3211338,-98.9980687
+BOSQUE,Bosque Substation,ercot_reference_exact,1.0,31.6858773,-97.3750445
+BOTINES_L_A,Botines Substation,ercot_reference_exact,1.0,27.6854295,-99.480509
+BOYD,Boyd Substation,ercot_reference_exact,1.0,35.2119602,-97.4755592
+BRAND,Brand Substation,ercot_reference_exact,1.0,32.7834986,-100.944338
+BRAND_B_BD,Brand Substation,ercot_reference_exact,1.0,32.7834986,-100.944338
+BRAND_B_FAIR,Brand Substation,ercot_reference_exact,1.0,32.7834986,-100.944338
+BRAND_T2,Brand Substation,ercot_reference_exact,1.0,32.7834986,-100.944338
+BRAUNIG,Braunig Switchyard,alias,1.0,29.2580309,-98.3826843
+BRAUNIG_CC1,Braunig Switchyard,alias,1.0,29.2580309,-98.3826843
+BRAUNIG_E,Braunig Switchyard,alias,1.0,29.2580309,-98.3826843
+BRAZ_0025,Brazoria Substation,ercot_reference_exact,1.0,29.0622656,-95.5775752
+BRAZ_6633,Brazoria Substation,ercot_reference_exact,1.0,29.0622656,-95.5775752
+BRAZ_6634,Brazoria Substation,ercot_reference_exact,1.0,29.0622656,-95.5775752
+BRAZ_6637,Brazoria Substation,ercot_reference_exact,1.0,29.0622656,-95.5775752
+BRAZ_6638,Brazoria Substation,ercot_reference_exact,1.0,29.0622656,-95.5775752
+BRIAR,Briar Substation,ercot_reference_exact,1.0,32.9792464,-97.5496874
+BRIDGES,Bridges Substation,exact,0.99,33.1232187,-96.8597684
+BRISCOE_WIND,Briscoe Wind Farm Substation,alias,1.0,34.3925076,-101.314887
+BRNT_L_A,Bronte Substation,ercot_reference_exact,1.0,31.891341,-100.2933062
+BROADVIEW_C,Broadview Substation,exact,0.99,29.4790491,-98.5862856
+BRODIE_K,Brodie Lane Substation,alias,1.0,30.1876914,-97.8482193
+BROOKS_A,Brooks Field Substation,alias,1.0,29.334543,-98.4497995
+BROOKS_B,Brooks Field Substation,alias,1.0,29.334543,-98.4497995
+BROOKS_L_A,Brooks Field Substation,alias,1.0,29.334543,-98.4497995
+BRPANGLE_RN,Angleton Substation,ercot_reference_exact,1.0,29.1669775,-95.4406374
+BRP_BRAZ_RN,Brazoria Substation,ercot_reference_exact,1.0,29.0622656,-95.5775752
+BRP_PBL1_RN,Pueblo Substation,ercot_reference_exact,1.0,28.6789845,-100.4637508
+BRP_PBL2_RN,Pueblo Substation,ercot_reference_exact,1.0,28.6789845,-100.4637508
+BRP_SWNY_RN,Sweeny Substation,ercot_reference_exact,1.0,29.0554086,-95.6871314
+BRUNI_AG1,Bruni Substation,ercot_reference_exact,1.0,27.4355266,-98.8299803
+BRYNST2_8Y,Bryan Substation,ercot_reference_exact,1.0,28.9195013,-95.3760689
+BRYNST2_8Z,Bryan Substation,ercot_reference_exact,1.0,28.9195013,-95.3760689
+BRYN_DANG1,Dansby Substation,ercot_reference_exact,1.0,30.7221456,-96.4588366
+BRYN_DANG2,Dansby Substation,ercot_reference_exact,1.0,30.7221456,-96.4588366
+BRYN_DANG3,Dansby Substation,ercot_reference_exact,1.0,30.7221456,-96.4588366
+BRYN_DSBY13Y,Dansby Substation,ercot_reference_exact,1.0,30.7221456,-96.4588366
+BRYN_DSBY69,Dansby Substation,ercot_reference_exact,1.0,30.7221456,-96.4588366
+BRYN_EAST138,East Plant Substation,ercot_reference_exact,1.0,35.2144763,-101.804028
+BRYN_EAST13Y,East Plant Substation,ercot_reference_exact,1.0,35.2144763,-101.804028
+BRYN_EAST69,East Plant Substation,ercot_reference_exact,1.0,35.2144763,-101.804028
+BRYN_EAST69P,East Plant Substation,ercot_reference_exact,1.0,35.2144763,-101.804028
+BRYN_EAST69V,East Plant Substation,ercot_reference_exact,1.0,35.2144763,-101.804028
+BRYN_MILLICZ,Millican Substation,ercot_reference_exact,1.0,30.4756794,-96.2159379
+BRYN_SNOOKZ,Snook Substation,ercot_reference_exact,1.0,30.5365844,-96.4497755
+BRYN_SOUTHZ,South Substation,ercot_reference_exact,1.0,33.0062875,-97.0108813
+BRYN_TABOR,Tabor Substation,ercot_reference_exact,1.0,30.7159983,-96.3646632
+BS_MILO4A,Milo Substation,ercot_reference_exact,1.0,27.6110314,-99.4999283
+BTLG_1,Bootleg Substation,ercot_reference_exact,1.0,30.994457,-102.2914862
+BTMN1_EB,Butman Substation,ercot_reference_exact,1.0,32.449401,-100.0739313
+BU789,Burleson Substation,ercot_reference_exact,1.0,30.214689,-97.7367219
+BUCKEYE_A,Buckeye Substation,exact,0.99,32.8281471,-103.6075603
+BUCKEYE_L_A,Buckeye Substation,exact,0.99,32.8281471,-103.6075603
+BUCKHOLTS,Buckholts Substation,exact,0.99,30.8505013,-97.1945171
+BUDA_1388,Buda Substation,ercot_reference_exact,1.0,30.0753952,-97.851129
+BUDA_1389,Buda Substation,ercot_reference_exact,1.0,30.0753952,-97.851129
+BUDA_3180,Buda Substation,ercot_reference_exact,1.0,30.0753952,-97.851129
+BUDA_3830,Buda Substation,ercot_reference_exact,1.0,30.0753952,-97.851129
+BUDA_5192,Buda Substation,ercot_reference_exact,1.0,30.0753952,-97.851129
+BUDA_RN,Buda Substation,ercot_reference_exact,1.0,30.0753952,-97.851129
+BUNSEN_BUS1,Bunsen Substation,ercot_reference_exact,1.0,27.7616781,-97.818324
+BUNSEN_BUS2,Bunsen Substation,ercot_reference_exact,1.0,27.7616781,-97.818324
+BURLES13,Burleson Substation,ercot_reference_exact,1.0,30.214689,-97.7367219
+BURLES13S,Burleson Substation,ercot_reference_exact,1.0,30.214689,-97.7367219
+BURLES13X,Burleson Substation,ercot_reference_exact,1.0,30.214689,-97.7367219
+BURLES13Y,Burleson Substation,ercot_reference_exact,1.0,30.214689,-97.7367219
+BURLES13YZ,Burleson Substation,ercot_reference_exact,1.0,30.214689,-97.7367219
+BURLESON,Burleson Substation,exact,0.99,30.214689,-97.7367219
+BUS2,Oleander Substation,ercot_reference_exact,1.0,26.2066613,-97.6645579
+BUSA_1,Formosa Substation,ercot_reference_exact,1.0,28.6836299,-96.5510875
+BUSB_1,Formosa Substation,ercot_reference_exact,1.0,28.6836299,-96.5510875
+BUS_1132,Del Mar Substation,ercot_reference_exact,1.0,27.5761399,-99.4662389
+BUS_138_1,Lyssy Substation,ercot_reference_exact,1.0,28.8943977,-98.1200535
+BUS_B061,Junction Substation,ercot_reference_exact,1.0,30.4924069,-99.770646
+BUS_S147,Airline Substation,ercot_reference_exact,1.0,27.6957668,-97.3733939
+BUS_S576,Gregory Substation,ercot_reference_exact,1.0,27.9232997,-97.3092544
+BUS_S718,Airline Substation,ercot_reference_exact,1.0,27.6957668,-97.3733939
+BUS_SWT04H5,Gohlke Substation,ercot_reference_exact,1.0,28.7464532,-96.7331978
+BUTLER,Butler Substation,exact,0.99,30.3894531,-97.3247387
+BYRDR_ES_ALL,Sweeny Substation,ercot_reference_exact,1.0,29.0554086,-95.6871314
+B_DAVIS_CC1,Fort Davis Substation,alias,1.0,30.5852055,-103.8985511
+B_DAVIS_K,Fort Davis Substation,alias,1.0,30.5852055,-103.8985511
+B_DAVIS_L_A,Fort Davis Substation,alias,1.0,30.5852055,-103.8985511
+B_DAVIS_V_A,Fort Davis Substation,alias,1.0,30.5852055,-103.8985511
+B_DAVIS_V_B,Fort Davis Substation,alias,1.0,30.5852055,-103.8985511
+CABANISS_LD2,Cabaniss Substation,ercot_reference_exact,1.0,27.7204189,-97.4377315
+CABANISS_L_A,Cabaniss Substation,ercot_reference_exact,1.0,27.7204189,-97.4377315
+CADDO_8X,Caddo Substation,ercot_reference_exact,1.0,29.3795655,-94.9441281
+CAGNON_L_A,Cagnon Road Substation,alias,1.0,29.4161433,-98.7181849
+CALHOUN_ALL,Joslin Substation,ercot_reference_exact,1.0,28.6487411,-96.5464448
+CALLAHAN_V_A,Callahan Divide Wind Substation,alias,1.0,32.3005452,-99.9740716
+CALVERT_K,Calvert Substation,ercot_reference_exact,1.0,31.0084926,-96.8020353
+CALVERT_KQ,Calvert Substation,ercot_reference_exact,1.0,31.0084926,-96.8020353
+CAMERON,Cameron Substation,ercot_reference_exact,1.0,29.9187179,-95.6499714
+CAMERONY,Cameron Substation,ercot_reference_exact,1.0,29.9187179,-95.6499714
+CAMERONZ,Cameron Substation,ercot_reference_exact,1.0,29.9187179,-95.6499714
+CAMERON_X,Cameron Substation,ercot_reference_exact,1.0,29.9187179,-95.6499714
+CAMERON_Z,Cameron Substation,ercot_reference_exact,1.0,29.9187179,-95.6499714
+CANTWELL_K,Cantwell Substation,ercot_reference_exact,1.0,27.8114012,-97.4443703
+CANTWELL_L_A,Cantwell Substation,ercot_reference_exact,1.0,27.8114012,-97.4443703
+CANTWELL_L_B,Cantwell Substation,ercot_reference_exact,1.0,27.8114012,-97.4443703
+CANTWELL_V_A,Cantwell Substation,ercot_reference_exact,1.0,27.8114012,-97.4443703
+CANTWELL_V_B,Cantwell Substation,ercot_reference_exact,1.0,27.8114012,-97.4443703
+CANTWELL_V_D,Cantwell Substation,ercot_reference_exact,1.0,27.8114012,-97.4443703
+CANYON,Canyon Substation,exact,0.99,29.9115328,-97.9000971
+CAPITOL_C,Capitol Cement Substation,alias,1.0,29.5479943,-98.4196778
+CAPITOL_D,Capitol Cement Substation,alias,1.0,29.5479943,-98.4196778
+CAPOTE_K,Capote Substation,ercot_reference_exact,1.0,29.5683694,-97.8782545
+CAPRIDG4_CR4,Divide Substation,ercot_reference_exact,1.0,31.8695145,-100.7771803
+CAPRIDGE_ALL,Divide Substation,ercot_reference_exact,1.0,31.8695145,-100.7771803
+CARDINAL_K,Cardinal Substation,ercot_reference_exact,1.0,32.4217772,-103.1907153
+CARDINAL_KF,Cardinal Substation,ercot_reference_exact,1.0,32.4217772,-103.1907153
+CARDINAL_KO,Cardinal Substation,ercot_reference_exact,1.0,32.4217772,-103.1907153
+CARDINAL_Z,Cardinal Substation,ercot_reference_exact,1.0,32.4217772,-103.1907153
+CARLOS,Carlos Substation,exact,0.99,30.5929156,-96.1000618
+CARLTON,Carlton Substation,ercot_reference_exact,1.0,31.9835266,-98.1902108
+CASTLE_A,Castle Substation,exact,0.99,32.9213526,-96.6141921
+CASTLE_B,Castle Substation,exact,0.99,32.9213526,-96.6141921
+CASTLE_C,Castle Substation,exact,0.99,32.9213526,-96.6141921
+CAYOTE_AG1,Cayote Substation,ercot_reference_exact,1.0,31.8144658,-97.3964502
+CBRT_L_A,Carlsbad Sub,ercot_reference_exact,1.0,32.445269,-104.200344
+CFB_LOAD3,Formosa Substation,ercot_reference_exact,1.0,28.6836299,-96.5510875
+CFB_LOAD4,Formosa Substation,ercot_reference_exact,1.0,28.6836299,-96.5510875
+CHOATE_1,Choate Substation,ercot_reference_exact,1.0,28.8155136,-97.7406401
+CHT_M,Choate Substation,ercot_reference_exact,1.0,28.8155136,-97.7406401
+CHT_X,Choate Substation,ercot_reference_exact,1.0,28.8155136,-97.7406401
+CHULIE_A,Chulie Substation,exact,0.99,29.5112259,-98.4771356
+CHULIE_D,Chulie Substation,exact,0.99,29.5112259,-98.4771356
+CHURCH1_EB,Church Substation,ercot_reference_exact,1.0,32.3671438,-99.5255088
+CITGO_NO_V_A,Citgo North Oak Park Substation,alias,1.0,27.8142737,-97.4270482
+CITGO_NO_V_B,Citgo North Oak Park Substation,alias,1.0,27.8142737,-97.4270482
+CLCR1_KV,Gauss Substation,ercot_reference_exact,1.0,33.4789378,-99.6615509
+CLYDE_L_A,Clyde Substation,ercot_reference_exact,1.0,32.4156708,-99.5044195
+CLYDE_V_A,Clyde Substation,ercot_reference_exact,1.0,32.4156708,-99.5044195
+CN2,Mcneil Substation,ercot_reference_exact,1.0,30.3929592,-97.6892898
+COLETO_L_A,Coleto Creek Substation,alias,1.0,28.7168943,-97.2128424
+COLETO_L_K,Coleto Creek Substation,alias,1.0,28.7168943,-97.2128424
+COLETO_V_A,Coleto Creek Substation,alias,1.0,28.7168943,-97.2128424
+COLETO_V_B,Coleto Creek Substation,alias,1.0,28.7168943,-97.2128424
+COLISEUM_A,Coliseum Substation,exact,0.99,29.4326262,-98.4443385
+COLISEUM_B,Coliseum Substation,exact,0.99,29.4326262,-98.4443385
+COLISEUM_C,Coliseum Substation,exact,0.99,29.4326262,-98.4443385
+COMANCHE_8,Comanche,alias,1.0,34.5436294,-98.3224236
+COMSTO_B131,Comstock Substation,ercot_reference_exact,1.0,29.7474583,-101.1394552
+COMSTO_LD02,Comstock Substation,ercot_reference_exact,1.0,29.7474583,-101.1394552
+CONCHO1KV_BS,Rusthill Substation,ercot_reference_exact,1.0,31.4517257,-100.4248235
+CONCHO2KV_BS,Rusthill Substation,ercot_reference_exact,1.0,31.4517257,-100.4248235
+CONOCO_L_A,Conoco Substation,ercot_reference_exact,1.0,30.6392413,-102.943661
+CONOCO_L_B,Conoco Substation,ercot_reference_exact,1.0,30.6392413,-102.943661
+CONOCO_V_A,Conoco Substation,ercot_reference_exact,1.0,30.6392413,-102.943661
+CONOCO_V_B,Conoco Substation,ercot_reference_exact,1.0,30.6392413,-102.943661
+CORDELE_1,Cordele Substation,ercot_reference_exact,1.0,29.0780313,-96.5541101
+CORDELE_2,Cordele Substation,ercot_reference_exact,1.0,29.0780313,-96.5541101
+COTULLA_LD_1,Cotulla Substation,ercot_reference_exact,1.0,28.4481734,-99.2549959
+COTULLA_LD_2,Cotulla Substation,ercot_reference_exact,1.0,28.4481734,-99.2549959
+COTULLA_RN,Cotulla Substation,ercot_reference_exact,1.0,28.4481734,-99.2549959
+COTULL_B131,Cotulla Substation,ercot_reference_exact,1.0,28.4481734,-99.2549959
+COTULL_B132,Cotulla Substation,ercot_reference_exact,1.0,28.4481734,-99.2549959
+COT_L473,Cotulla Substation,ercot_reference_exact,1.0,28.4481734,-99.2549959
+COT_L958,Cotulla Substation,ercot_reference_exact,1.0,28.4481734,-99.2549959
+CRANE_9,Crane Substation,ercot_reference_exact,1.0,31.4098418,-102.3386148
+CRANE_9W,Crane Substation,ercot_reference_exact,1.0,31.4098418,-102.3386148
+CRAWFORD,Crawford Substation,ercot_reference_exact,1.0,31.5402084,-97.4089206
+CROSS_1,Cross Substation,ercot_reference_exact,1.0,34.3439922,-100.8939338
+CRWL_L_A,Crowell Substation,ercot_reference_exact,1.0,33.9822943,-99.7227764
+CRWL_V_A,Crowell Substation,ercot_reference_exact,1.0,33.9822943,-99.7227764
+CRYO_LD01,Cryo Substation,ercot_reference_exact,1.0,31.0468014,-103.72069
+CRYSTAL_V_A,Crystal City Substation,alias,1.0,28.6900179,-99.8121491
+CTE5TR1,Coyote Substation,ercot_reference_exact,1.0,31.8134055,-106.178402
+CTEMOBILE,Coyote Substation,ercot_reference_exact,1.0,31.8134055,-106.178402
+CUSTER,Custer Substation,exact,0.99,33.1598323,-96.7524443
+CY01,Coyote Substation,ercot_reference_exact,1.0,31.8134055,-106.178402
+CY02,Coyote Substation,ercot_reference_exact,1.0,31.8134055,-106.178402
+CYU1,Coyote Substation,ercot_reference_exact,1.0,31.8134055,-106.178402
+CYU2,Coyote Substation,ercot_reference_exact,1.0,31.8134055,-106.178402
+CYU3,Coyote Substation,ercot_reference_exact,1.0,31.8134055,-106.178402
+DANSBY_0001,Dansby Substation,ercot_reference_exact,1.0,30.7221456,-96.4588366
+DANSBY_2584,Dansby Substation,ercot_reference_exact,1.0,30.7221456,-96.4588366
+DANSBY_2590,Dansby Substation,ercot_reference_exact,1.0,30.7221456,-96.4588366
+DANSBY_6953,Dansby Substation,ercot_reference_exact,1.0,30.7221456,-96.4588366
+DANSBY_6954,Dansby Substation,ercot_reference_exact,1.0,30.7221456,-96.4588366
+DANSBY_8603,Dansby Substation,ercot_reference_exact,1.0,30.7221456,-96.4588366
+DANSBY_ALL,Dansby Substation,ercot_reference_exact,1.0,30.7221456,-96.4588366
+DEL_KUNITZ,Kunitz Substation,ercot_reference_exact,1.0,31.7348475,-104.7490473
+DEL_MAR_LD02,Del Mar Substation,ercot_reference_exact,1.0,27.5761399,-99.4662389
+DEL_MAR_L_B,Del Mar Substation,ercot_reference_exact,1.0,27.5761399,-99.4662389
+DEL_MAR_V_A,Del Mar Substation,ercot_reference_exact,1.0,27.5761399,-99.4662389
+DEL_RIO_L_A,Del Rio Substation,ercot_reference_exact,1.0,29.3670389,-100.8932854
+DEL_RIO_L_B,Del Rio Substation,ercot_reference_exact,1.0,29.3670389,-100.8932854
+DEL_RI_B131,Del Rio Substation,ercot_reference_exact,1.0,29.3670389,-100.8932854
+DEL_RI_B132,Del Rio Substation,ercot_reference_exact,1.0,29.3670389,-100.8932854
+DERMOTT_ALL,Coyote Substation,ercot_reference_exact,1.0,31.8134055,-106.178402
+DERMOTT_LD1,Dermott Wind Substation,ercot_reference_exact,1.0,32.8638347,-101.0096822
+DERMOTT_LD2,Dermott Wind Substation,ercot_reference_exact,1.0,32.8638347,-101.0096822
+DERMOTT_LN,Dermott Wind Substation,ercot_reference_exact,1.0,32.8638347,-101.0096822
+DERMOTT_W1,Dermott Wind Substation,ercot_reference_exact,1.0,32.8638347,-101.0096822
+DERMOTT_W2,Dermott Wind Substation,ercot_reference_exact,1.0,32.8638347,-101.0096822
+DESSAU,Dessau Substation,ercot_reference_exact,1.0,30.3734836,-97.643015
+DESSAUM,Dessau Substation,ercot_reference_exact,1.0,30.3734836,-97.643015
+DESSAUV,Dessau Substation,ercot_reference_exact,1.0,30.3734836,-97.643015
+DESSAUW,Dessau Substation,ercot_reference_exact,1.0,30.3734836,-97.643015
+DESSAUX,Dessau Substation,ercot_reference_exact,1.0,30.3734836,-97.643015
+DESSAUY,Dessau Substation,ercot_reference_exact,1.0,30.3734836,-97.643015
+DESSAUZ,Dessau Substation,ercot_reference_exact,1.0,30.3734836,-97.643015
+DESSAU_K,Dessau Substation,ercot_reference_exact,1.0,30.3734836,-97.643015
+DESSAU_L,Dessau Substation,ercot_reference_exact,1.0,30.3734836,-97.643015
+DESSAU_L_C,Dessau Substation,ercot_reference_exact,1.0,30.3734836,-97.643015
+DESSAU_L_D,Dessau Substation,ercot_reference_exact,1.0,30.3734836,-97.643015
+DEVINE_XFR1,Devine Substation,ercot_reference_exact,1.0,29.1339644,-98.8974241
+DEVINE_XFR2,Devine Substation,ercot_reference_exact,1.0,29.1339644,-98.8974241
+DILLEY,Dilley Substation,exact,0.99,28.6805149,-99.2019092
+DIMMIT_LD01,Dimmit Substation,ercot_reference_exact,1.0,28.5091892,-99.8736653
+DIVIDE_0014,Divide Substation,ercot_reference_exact,1.0,31.8695145,-100.7771803
+DIVIDE_0015,Divide Substation,ercot_reference_exact,1.0,31.8695145,-100.7771803
+DIVIDE_0028,Divide Substation,ercot_reference_exact,1.0,31.8695145,-100.7771803
+DIVIDE_0353,Divide Substation,ercot_reference_exact,1.0,31.8695145,-100.7771803
+DIVIDE_EPS1,Divide Substation,ercot_reference_exact,1.0,31.8695145,-100.7771803
+DIVIDE_E_1,Divide Substation,ercot_reference_exact,1.0,31.8695145,-100.7771803
+DIVIDE_E_12,Divide Substation,ercot_reference_exact,1.0,31.8695145,-100.7771803
+DM07,Dermott Wind Substation,ercot_reference_exact,1.0,32.8638347,-101.0096822
+DNLP123,Dunlap Substation,ercot_reference_exact,1.0,30.2753841,-97.5397323
+DOWNING1,Downing Substation,ercot_reference_exact,1.0,32.0209572,-98.5517548
+DRESDEN_A,Dresden Drive Substation,alias,1.0,29.4986732,-98.5082673
+DRESDEN_B,Dresden Drive Substation,alias,1.0,29.4986732,-98.5082673
+DRESDEN_C,Dresden Drive Substation,alias,1.0,29.4986732,-98.5082673
+DUNLAPM1,Dunlap Substation,ercot_reference_exact,1.0,30.2753841,-97.5397323
+DUNLAPM2,Dunlap Substation,ercot_reference_exact,1.0,30.2753841,-97.5397323
+DUNLAPM3,Dunlap Substation,ercot_reference_exact,1.0,30.2753841,-97.5397323
+DUNLAPM4,Dunlap Substation,ercot_reference_exact,1.0,30.2753841,-97.5397323
+EB0001A,Shiloh Substation,ercot_reference_exact,1.0,32.9004807,-96.6668772
+EB0004_1,Shiloh Substation,ercot_reference_exact,1.0,32.9004807,-96.6668772
+EB0007,Shiloh Substation,ercot_reference_exact,1.0,32.9004807,-96.6668772
+EB0008,Lorena Substation,ercot_reference_exact,1.0,31.3553175,-97.2129077
+EB0012,Shiloh Substation,ercot_reference_exact,1.0,32.9004807,-96.6668772
+EB0015,Shiloh Substation,ercot_reference_exact,1.0,32.9004807,-96.6668772
+EB0020,Shiloh Substation,ercot_reference_exact,1.0,32.9004807,-96.6668772
+EB0021,Henry Substation,ercot_reference_exact,1.0,34.430514,-100.2274439
+EB008,Heights Substation,ercot_reference_exact,1.0,29.3897114,-94.9499464
+EB012,Trent Substation,ercot_reference_exact,1.0,32.4927396,-100.1179747
+EB014,Trent Substation,ercot_reference_exact,1.0,32.4927396,-100.1179747
+EB016,Trent Substation,ercot_reference_exact,1.0,32.4927396,-100.1179747
+EB017,Heights Substation,ercot_reference_exact,1.0,29.3897114,-94.9499464
+EB131,Resnik Substation,ercot_reference_exact,1.0,27.903611,-97.2584776
+EB132,Resnik Substation,ercot_reference_exact,1.0,27.903611,-97.2584776
+EB192021,Seaholm Substation,ercot_reference_exact,1.0,30.2668613,-97.7513792
+EB1_0002,Tippet Substation,ercot_reference_exact,1.0,30.9921472,-102.1338353
+EB1_8509,Tippet Substation,ercot_reference_exact,1.0,30.9921472,-102.1338353
+EB1_8521,Tippet Substation,ercot_reference_exact,1.0,30.9921472,-102.1338353
+EB1_8531,Tippet Substation,ercot_reference_exact,1.0,30.9921472,-102.1338353
+EB1_LS20,Olmito Substation,ercot_reference_exact,1.0,26.0015288,-97.5198154
+EB1_LS21,Olmito Substation,ercot_reference_exact,1.0,26.0015288,-97.5198154
+EB1_WPEC_EPS,Pecos Substation,ercot_reference_exact,1.0,31.4295051,-103.4987029
+EB4131,Arco Substation,ercot_reference_exact,1.0,29.3481669,-94.9394131
+EB4231,Arco Substation,ercot_reference_exact,1.0,29.3481669,-94.9394131
+EB4271,Arco Substation,ercot_reference_exact,1.0,29.3481669,-94.9394131
+EB4371,Arco Substation,ercot_reference_exact,1.0,29.3481669,-94.9394131
+EB4431,Arco Substation,ercot_reference_exact,1.0,29.3481669,-94.9394131
+EB4531,Arco Substation,ercot_reference_exact,1.0,29.3481669,-94.9394131
+EB4702,Arco Substation,ercot_reference_exact,1.0,29.3481669,-94.9394131
+EB4802,Arco Substation,ercot_reference_exact,1.0,29.3481669,-94.9394131
+EB60,Dansby Substation,ercot_reference_exact,1.0,30.7221456,-96.4588366
+EB6419,Whitney Substation,ercot_reference_exact,1.0,32.4697175,-94.7152066
+EB687,Eden Substation,ercot_reference_exact,1.0,31.2157406,-99.8362262
+EB9101,Pearsall Substation,ercot_reference_exact,1.0,28.8881174,-99.0793245
+EBATK8002,Atkins Substation,ercot_reference_exact,1.0,30.6466224,-96.3742315
+EBBUS1,Arco Substation,ercot_reference_exact,1.0,29.3481669,-94.9394131
+EBBUS2,Arco Substation,ercot_reference_exact,1.0,29.3481669,-94.9394131
+EBC2,Coyote Substation,ercot_reference_exact,1.0,31.8134055,-106.178402
+EBC3,Coyote Substation,ercot_reference_exact,1.0,31.8134055,-106.178402
+EBCOLT,Colton Substation,ercot_reference_exact,1.0,30.1390534,-97.6789233
+EBDELE,Iraan Substation,ercot_reference_exact,1.0,30.9104815,-101.8996602
+EBLP,Bordas Substation,ercot_reference_exact,1.0,27.3211338,-98.9980687
+EBLS21,Holcomb Substation,ercot_reference_exact,1.0,28.0332546,-99.3616349
+EBSE57,Palacios Substation,ercot_reference_exact,1.0,28.7570091,-96.2121274
+EBSS20,Holcomb Substation,ercot_reference_exact,1.0,28.0332546,-99.3616349
+EBT,Powell Substation,ercot_reference_exact,1.0,29.6264645,-95.0388483
+EBT1,Nebo Substation,ercot_reference_exact,1.0,30.4388922,-98.7473126
+EBT4,Canyon Substation,ercot_reference_exact,1.0,29.9115328,-97.9000971
+EBUS9,Vertigo Wind Substation,ercot_reference_exact,1.0,33.6446357,-99.4213944
+EBZT1,Locust Substation,ercot_reference_exact,1.0,33.2549841,-97.1331342
+EBZT2,Locust Substation,ercot_reference_exact,1.0,33.2549841,-97.1331342
+EBZT3,Locust Substation,ercot_reference_exact,1.0,33.2549841,-97.1331342
+EB_0001,Goat Wind Substation,ercot_reference_exact,1.0,31.9407824,-100.8270485
+EB_0024,Mccree Substation,ercot_reference_exact,1.0,32.8724676,-96.6636433
+EB_0028,Shiloh Substation,ercot_reference_exact,1.0,32.9004807,-96.6668772
+EB_0082,Lonestar Substation,ercot_reference_exact,1.0,31.5942755,-103.2484104
+EB_0185,Vistron Substation,ercot_reference_exact,1.0,28.5745707,-96.8330241
+EB_0195,Vistron Substation,ercot_reference_exact,1.0,28.5745707,-96.8330241
+EB_1000,Newman Substation,ercot_reference_exact,1.0,31.9839419,-106.4348695
+EB_1001,Newman Substation,ercot_reference_exact,1.0,31.9839419,-106.4348695
+EB_1002,Newman Substation,ercot_reference_exact,1.0,31.9839419,-106.4348695
+EB_1006,Henry Substation,ercot_reference_exact,1.0,34.430514,-100.2274439
+EB_1B09,Tnp One Substation,ercot_reference_exact,1.0,31.0912725,-96.6935559
+EB_2552,Alvin Substation,ercot_reference_exact,1.0,29.4333127,-95.2494409
+EB_2B21,Tnp One Substation,ercot_reference_exact,1.0,31.0912725,-96.6935559
+EB_30,Solstice Substation,ercot_reference_exact,1.0,30.9483202,-103.3617143
+EB_35,Bader Substation,ercot_reference_exact,1.0,29.3705766,-98.9425006
+EB_400A,Formosa Substation,ercot_reference_exact,1.0,28.6836299,-96.5510875
+EB_500A,Formosa Substation,ercot_reference_exact,1.0,28.6836299,-96.5510875
+EB_5040,Keo Substation,ercot_reference_exact,1.0,30.8184194,-102.3659149
+EB_5100,Taylor Substation,ercot_reference_exact,1.0,30.5670969,-97.3973345
+EB_5102,Taylor Substation,ercot_reference_exact,1.0,30.5670969,-97.3973345
+EB_5126,Alvin Substation,ercot_reference_exact,1.0,29.4333127,-95.2494409
+EB_61,Bader Substation,ercot_reference_exact,1.0,29.3705766,-98.9425006
+EB_6314,Potosi Substation,ercot_reference_exact,1.0,32.3290469,-99.6230875
+EB_8096,Lonestar Substation,ercot_reference_exact,1.0,31.5942755,-103.2484104
+EB_8097,Lonestar Substation,ercot_reference_exact,1.0,31.5942755,-103.2484104
+EB_9132,Atkins Substation,ercot_reference_exact,1.0,30.6466224,-96.3742315
+EB_ATK_LEO,Atkins Substation,ercot_reference_exact,1.0,30.6466224,-96.3742315
+EB_AVANZADA,Lobo Substation,ercot_reference_exact,1.0,27.5789332,-99.2756424
+EB_B061,Bronco Substation,ercot_reference_exact,1.0,33.3005596,-103.0589404
+EB_B101,Holcomb Substation,ercot_reference_exact,1.0,28.0332546,-99.3616349
+EB_BDT1,Bader Substation,ercot_reference_exact,1.0,29.3705766,-98.9425006
+EB_BDT2,Bader Substation,ercot_reference_exact,1.0,29.3705766,-98.9425006
+EB_BEREA_1,Berea Substation,ercot_reference_exact,1.0,31.3583164,-95.3185643
+EB_BLES_8955,Blessing Substation,ercot_reference_exact,1.0,28.8865088,-96.1907981
+EB_CARD_0008,Cardinal Substation,ercot_reference_exact,1.0,32.4217772,-103.1907153
+EB_DE03,Heard Substation,ercot_reference_exact,1.0,28.2790507,-97.2965985
+EB_HOLM_3123,Holman Substation,ercot_reference_exact,1.0,29.795554,-96.8783831
+EB_L202,Mesquite Substation,ercot_reference_exact,1.0,32.6287758,-99.54042
+EB_L458,Mesquite Substation,ercot_reference_exact,1.0,32.6287758,-99.54042
+EB_L4V,Coyote Substation,ercot_reference_exact,1.0,31.8134055,-106.178402
+EB_LATEXO_1,Latexo Substation,ercot_reference_exact,1.0,31.3643775,-95.4252227
+EB_LATEXO_2,Latexo Substation,ercot_reference_exact,1.0,31.3643775,-95.4252227
+EB_LATEXO_3,Latexo Substation,ercot_reference_exact,1.0,31.3643775,-95.4252227
+EB_LDLXFMR1,Hext Substation,ercot_reference_exact,1.0,30.872309,-99.5382182
+EB_LINE_2,Bootleg Substation,ercot_reference_exact,1.0,30.994457,-102.2914862
+EB_LINE_8,Bootleg Substation,ercot_reference_exact,1.0,30.994457,-102.2914862
+EB_LOAD,Hovey Substation,ercot_reference_exact,1.0,30.9526276,-103.3614053
+EB_LOAD1,Rollans Substation,ercot_reference_exact,1.0,31.9108535,-100.9112753
+EB_LPS1_EPS,Lynx Substation,ercot_reference_exact,1.0,31.0718593,-102.3935068
+EB_MC_0054,Mccree Substation,ercot_reference_exact,1.0,32.8724676,-96.6636433
+EB_MC_0057,Mccree Substation,ercot_reference_exact,1.0,32.8724676,-96.6636433
+EB_MC_0063,Mccree Substation,ercot_reference_exact,1.0,32.8724676,-96.6636433
+EB_MN1,Tnp One Substation,ercot_reference_exact,1.0,31.0912725,-96.6935559
+EB_MN2,Tnp One Substation,ercot_reference_exact,1.0,31.0912725,-96.6935559
+EB_MOZART_02,Mozart Substation,ercot_reference_exact,1.0,32.9942365,-100.5316381
+EB_NE_0001,Newman Substation,ercot_reference_exact,1.0,31.9839419,-106.4348695
+EB_NE_0919,Newman Substation,ercot_reference_exact,1.0,31.9839419,-106.4348695
+EB_PVC,Formosa Substation,ercot_reference_exact,1.0,28.6836299,-96.5510875
+EB_RAILHD_N,Railhead Substation,ercot_reference_exact,1.0,35.4022323,-101.1538371
+EB_RAILHD_S,Railhead Substation,ercot_reference_exact,1.0,35.4022323,-101.1538371
+EB_ROD_69030,Rodgers Substation,ercot_reference_exact,1.0,30.6687793,-96.3467671
+EB_ROD_BRIR,Rodgers Substation,ercot_reference_exact,1.0,30.6687793,-96.3467671
+EB_ROD_EAST,Rodgers Substation,ercot_reference_exact,1.0,30.6687793,-96.3467671
+EB_ROD_RAYBN,Rodgers Substation,ercot_reference_exact,1.0,30.6687793,-96.3467671
+EB_ROD_TR221,Rodgers Substation,ercot_reference_exact,1.0,30.6687793,-96.3467671
+EB_ROD_TR222,Rodgers Substation,ercot_reference_exact,1.0,30.6687793,-96.3467671
+EB_S1L1,Gateway Substation,ercot_reference_exact,1.0,27.5134789,-99.4442097
+EB_S2L2,Gateway Substation,ercot_reference_exact,1.0,27.5134789,-99.4442097
+EB_S610,Junction Substation,ercot_reference_exact,1.0,30.4924069,-99.770646
+EB_S830,Junction Substation,ercot_reference_exact,1.0,30.4924069,-99.770646
+EB_SNOOK8017,Snook Substation,ercot_reference_exact,1.0,30.5365844,-96.4497755
+EB_SNOOK8027,Snook Substation,ercot_reference_exact,1.0,30.5365844,-96.4497755
+EB_SNOOK8057,Snook Substation,ercot_reference_exact,1.0,30.5365844,-96.4497755
+EB_SR,Shamrock Substation,ercot_reference_exact,1.0,34.853864,-100.2096328
+EB_SWNY3816,Sweeny Substation,ercot_reference_exact,1.0,29.0554086,-95.6871314
+EB_SWNY3818,Sweeny Substation,ercot_reference_exact,1.0,29.0554086,-95.6871314
+EB_T0002,Bronco Substation,ercot_reference_exact,1.0,33.3005596,-103.0589404
+EB_TCN1,Alvin Substation,ercot_reference_exact,1.0,29.4333127,-95.2494409
+EB_TCN2,Alvin Substation,ercot_reference_exact,1.0,29.4333127,-95.2494409
+EB_TLINE,Fluvanna Substation,ercot_reference_exact,1.0,32.859328,-101.1151431
+EB_TR052,Snook Substation,ercot_reference_exact,1.0,30.5365844,-96.4497755
+EB_UN1,Fluvanna Substation,ercot_reference_exact,1.0,32.859328,-101.1151431
+EB_UN2,Sirius Substation,ercot_reference_exact,1.0,30.9821054,-102.2740698
+EB_VCM,Formosa Substation,ercot_reference_exact,1.0,28.6836299,-96.5510875
+EB_WIND_1,Mozart Substation,ercot_reference_exact,1.0,32.9942365,-100.5316381
+EB_Y6,Floyd Sub,ercot_reference_exact,1.0,34.2142976,-103.5279941
+ECLIPSE_20,Eclipse Substation,ercot_reference_exact,1.0,29.3239514,-100.3920398
+ECLIPSE_UN1,Eclipse Substation,ercot_reference_exact,1.0,29.3239514,-100.3920398
+ECLIP_LN,Eclipse Substation,ercot_reference_exact,1.0,29.3239514,-100.3920398
+ECLIP_UN,Eclipse Substation,ercot_reference_exact,1.0,29.3239514,-100.3920398
+ECL_LD1,Eclipse Substation,ercot_reference_exact,1.0,29.3239514,-100.3920398
+EDEN_L_A,Eden Substation,ercot_reference_exact,1.0,31.2157406,-99.8362262
+EDEN_V_A,Eden Substation,ercot_reference_exact,1.0,31.2157406,-99.8362262
+EDITHCLA1_LN,Tesla Substation,ercot_reference_exact,1.0,34.3733936,-100.0868415
+EDITHCLA2_LN,Tesla Substation,ercot_reference_exact,1.0,34.3733936,-100.0868415
+EDNA_L_A,Edna Substation,ercot_reference_exact,1.0,28.9565828,-96.6461209
+EDNA_L_B,Edna Substation,ercot_reference_exact,1.0,28.9565828,-96.6461209
+EDROY_L_A,Edroy Substation,ercot_reference_exact,1.0,27.9754312,-97.6847104
+EDTH2_KV,Gauss Substation,ercot_reference_exact,1.0,33.4789378,-99.6615509
+ELD1,Coyote Substation,ercot_reference_exact,1.0,31.8134055,-106.178402
+ELD2,Coyote Substation,ercot_reference_exact,1.0,31.8134055,-106.178402
+ELECTRAW_1_2,Lockett Substation,ercot_reference_exact,1.0,34.0510911,-99.3753229
+ELMDALE_K,Elmdale Substation,ercot_reference_exact,1.0,32.4348783,-99.6392169
+ELMDALE_TR1,Elmdale Substation,ercot_reference_exact,1.0,32.4348783,-99.6392169
+ELMENDORF_C,Elmendorf Substation,exact,0.99,29.270218,-98.3221644
+ELROY,Elroy Substation,ercot_reference_exact,1.0,30.1412902,-97.6243427
+ELYT_L_A,Ely Substation,ercot_reference_exact,1.0,32.4601356,-99.9287059
+EL_CAMPO_L_A,El Campo Substation,ercot_reference_exact,1.0,29.1869921,-96.2674242
+EL_CAMPO_L_B,El Campo Substation,ercot_reference_exact,1.0,29.1869921,-96.2674242
+EL_CAMPO_V_A,El Campo Substation,ercot_reference_exact,1.0,29.1869921,-96.2674242
+EL_CAMPO_V_B,El Campo Substation,ercot_reference_exact,1.0,29.1869921,-96.2674242
+EMMETT,Emmett Substation,ercot_reference_exact,1.0,32.0213195,-96.8115827
+EMMT2,Emmett Substation,ercot_reference_exact,1.0,32.0213195,-96.8115827
+ENCINAL_L_A,Encinal Substation,ercot_reference_exact,1.0,28.0466754,-99.3574469
+ENCINO_A,Encino Park Substation,alias,1.0,29.6156122,-98.4696589
+ENCINO_B,Encino Park Substation,alias,1.0,29.6156122,-98.4696589
+ENDEAVOR,Endeavor Substation,exact,0.99,31.8172045,-101.9755564
+ENERGY,Energy Substation,ercot_reference_exact,1.0,31.7426105,-98.3745875
+EOLA_L_A,Eola Substation,ercot_reference_exact,1.0,31.4140228,-100.0898916
+ESPUELA,Espuela Substation,exact,0.99,33.5438904,-100.8970717
+ESPY_L_A,Espy Wells Substation,alias,1.0,30.5224145,-103.9269196
+ETP_1,Etp Substation,ercot_reference_exact,1.0,29.1082424,-96.5360227
+ETP_2,Etp Substation,ercot_reference_exact,1.0,29.1082424,-96.5360227
+EU05,Eunice Substation,ercot_reference_exact,1.0,32.4429583,-103.1934705
+EU18,Eunice Substation,ercot_reference_exact,1.0,32.4429583,-103.1934705
+EUNICE_12,Eunice Substation,ercot_reference_exact,1.0,32.4429583,-103.1934705
+EUNICE_ALL,Eunice Substation,ercot_reference_exact,1.0,32.4429583,-103.1934705
+EUNI_LD1,Eunice Substation,ercot_reference_exact,1.0,32.4429583,-103.1934705
+EUNI_LD2,Eunice Substation,ercot_reference_exact,1.0,32.4429583,-103.1934705
+EUNI_LN1,Eunice Substation,ercot_reference_exact,1.0,32.4429583,-103.1934705
+EUNI_UN1,Eunice Substation,ercot_reference_exact,1.0,32.4429583,-103.1934705
+EUNI_UN2,Eunice Substation,ercot_reference_exact,1.0,32.4429583,-103.1934705
+EVANTTEMP,Evant Substation,ercot_reference_exact,1.0,31.433615,-98.1731642
+EXGNSND_RN,Randado Substation,ercot_reference_exact,1.0,27.0840868,-98.9285684
+E_B2,Vertigo Wind Substation,ercot_reference_exact,1.0,33.6446357,-99.4213944
+E_HARRIS_B1,Harris Substation,ercot_reference_exact,1.0,30.2882635,-97.7325507
+E_HARRIS_L_B,Harris Substation,ercot_reference_exact,1.0,30.2882635,-97.7325507
+E_HARRIS_L_C,Harris Substation,ercot_reference_exact,1.0,30.2882635,-97.7325507
+E_HARRIS_RN,Harris Substation,ercot_reference_exact,1.0,30.2882635,-97.7325507
+E_HARRIS_V_A,Harris Substation,ercot_reference_exact,1.0,30.2882635,-97.7325507
+E_HAR_BESS1,Harris Substation,ercot_reference_exact,1.0,30.2882635,-97.7325507
+E_SEADRIFT_A,Seadrift Substation,ercot_reference_exact,1.0,28.4166938,-96.667762
+FAIRDL_AG1,Fairdale Substation,ercot_reference_exact,1.0,32.9138613,-96.6615972
+FAIRDL_K,Fairdale Substation,ercot_reference_exact,1.0,32.9138613,-96.6615972
+FAIRDL_KE,Fairdale Substation,ercot_reference_exact,1.0,32.9138613,-96.6615972
+FAIRDL_KK,Fairdale Substation,ercot_reference_exact,1.0,32.9138613,-96.6615972
+FAIRDL_KW,Fairdale Substation,ercot_reference_exact,1.0,32.9138613,-96.6615972
+FARRAR_KB,Farrar Substation,ercot_reference_exact,1.0,31.3841504,-96.2819595
+FARRAR_KX,Farrar Substation,ercot_reference_exact,1.0,31.3841504,-96.2819595
+FASHING_TR1,Fashing Substation,ercot_reference_exact,1.0,28.8378973,-98.1844502
+FAULKNER_RN,Faulkner Substation,ercot_reference_exact,1.0,31.261031,-103.7931847
+FBB1,Formosa Substation,ercot_reference_exact,1.0,28.6836299,-96.5510875
+FBB2,Formosa Substation,ercot_reference_exact,1.0,28.6836299,-96.5510875
+FERMI_ALL,Fermi Substation,ercot_reference_exact,1.0,29.7697421,-100.7875274
+FERMI_LD1,Fermi Substation,ercot_reference_exact,1.0,29.7697421,-100.7875274
+FERMI_LN,Fermi Substation,ercot_reference_exact,1.0,29.7697421,-100.7875274
+FERMI_W1,Fermi Substation,ercot_reference_exact,1.0,29.7697421,-100.7875274
+FERMI_W2,Fermi Substation,ercot_reference_exact,1.0,29.7697421,-100.7875274
+FERRISSUB9,Ferris Substation,ercot_reference_exact,1.0,29.3231291,-99.7453598
+FIESTA,Fiesta Substation,ercot_reference_exact,1.0,32.4072628,-104.2206109
+FIESTAZ,Fiesta Substation,ercot_reference_exact,1.0,32.4072628,-104.2206109
+FIESTA_K,Fiesta Substation,ercot_reference_exact,1.0,32.4072628,-104.2206109
+FIESTA_KC,Fiesta Substation,ercot_reference_exact,1.0,32.4072628,-104.2206109
+FILTER_EB,Filter Plant Substation,ercot_reference_exact,1.0,25.9253272,-97.4653411
+FILTER_PY,Filter Plant Substation,ercot_reference_exact,1.0,25.9253272,-97.4653411
+FILTER_PZ,Filter Plant Substation,ercot_reference_exact,1.0,25.9253272,-97.4653411
+FLATROCK,Flatrock Substation,ercot_reference_exact,1.0,30.5097954,-98.2059858
+FLATROCK2,Flatrock Substation,ercot_reference_exact,1.0,30.5097954,-98.2059858
+FLATTOP_0400,Flat Top Substation,ercot_reference_exact,1.0,31.1995472,-103.3595185
+FLATTOP_0500,Flat Top Substation,ercot_reference_exact,1.0,31.1995472,-103.3595185
+FLATTOP_8132,Flat Top Substation,ercot_reference_exact,1.0,31.1995472,-103.3595185
+FLG,Wirtz Substation,ercot_reference_exact,1.0,30.5596814,-98.3374716
+FLOM_L_A,Flomot Substation,ercot_reference_exact,1.0,34.2524224,-100.9897787
+FLOWERII_RN,Flat Top Substation,ercot_reference_exact,1.0,31.1995472,-103.3595185
+FLTBES1,Flat Top Substation,ercot_reference_exact,1.0,31.1995472,-103.3595185
+FLUEB,Fluvanna Substation,ercot_reference_exact,1.0,32.859328,-101.1151431
+FLUVANNA_1_2,Fluvanna Substation,ercot_reference_exact,1.0,32.859328,-101.1151431
+FLVABES1_ESR,Flat Top Substation,ercot_reference_exact,1.0,31.1995472,-103.3595185
+FM802_EB,Fm 802 Substation,ercot_reference_exact,1.0,25.9509455,-97.4921144
+FM_802V,Fm 802 Substation,ercot_reference_exact,1.0,25.9509455,-97.4921144
+FM_802W,Fm 802 Substation,ercot_reference_exact,1.0,25.9509455,-97.4921144
+FOR11447,Formosa Substation,ercot_reference_exact,1.0,28.6836299,-96.5510875
+FOR11448,Formosa Substation,ercot_reference_exact,1.0,28.6836299,-96.5510875
+FORCFB_0003,Formosa Substation,ercot_reference_exact,1.0,28.6836299,-96.5510875
+FORCFB_0006,Formosa Substation,ercot_reference_exact,1.0,28.6836299,-96.5510875
+FORCFB_1003,Formosa Substation,ercot_reference_exact,1.0,28.6836299,-96.5510875
+FORCFB_1006,Formosa Substation,ercot_reference_exact,1.0,28.6836299,-96.5510875
+FORCFB_CFB1,Formosa Substation,ercot_reference_exact,1.0,28.6836299,-96.5510875
+FORCFB_CFB2,Formosa Substation,ercot_reference_exact,1.0,28.6836299,-96.5510875
+FORMOSA_0076,Formosa Substation,ercot_reference_exact,1.0,28.6836299,-96.5510875
+FORMOSA_2639,Formosa Substation,ercot_reference_exact,1.0,28.6836299,-96.5510875
+FORMOSA_2640,Formosa Substation,ercot_reference_exact,1.0,28.6836299,-96.5510875
+FORMOSA_CC1,Formosa Substation,exact,0.99,28.6836299,-96.5510875
+FORMOSA_CC2,Formosa Substation,exact,0.99,28.6836299,-96.5510875
+FORMOSA_G8,Formosa Substation,ercot_reference_exact,1.0,28.6836299,-96.5510875
+FORMOSA_K,Formosa Substation,ercot_reference_exact,1.0,28.6836299,-96.5510875
+FORMOSA_KY,Formosa Substation,ercot_reference_exact,1.0,28.6836299,-96.5510875
+FORMOSA_L_C,Formosa Substation,ercot_reference_exact,1.0,28.6836299,-96.5510875
+FORMOSA_PUN1,Formosa Substation,ercot_reference_exact,1.0,28.6836299,-96.5510875
+FORMOSA_PUN2,Formosa Substation,ercot_reference_exact,1.0,28.6836299,-96.5510875
+FORMOSA_V_A,Formosa Substation,ercot_reference_exact,1.0,28.6836299,-96.5510875
+FORMOSA_V_B,Formosa Substation,ercot_reference_exact,1.0,28.6836299,-96.5510875
+FORMOSA_V_C,Formosa Substation,ercot_reference_exact,1.0,28.6836299,-96.5510875
+FORMOSA_V_D,Formosa Substation,ercot_reference_exact,1.0,28.6836299,-96.5510875
+FORMOSA_V_E,Formosa Substation,ercot_reference_exact,1.0,28.6836299,-96.5510875
+FORMOSG13,Formosa Substation,ercot_reference_exact,1.0,28.6836299,-96.5510875
+FORMOSG14,Formosa Substation,ercot_reference_exact,1.0,28.6836299,-96.5510875
+FORMOSG15,Formosa Substation,ercot_reference_exact,1.0,28.6836299,-96.5510875
+FORT_SAM_2,Fort Sam Substation,hybrid_fuzzy,0.756,29.4553796,-98.4379455
+FORT_SAM_A,Fort Sam Substation,exact,0.99,29.4553796,-98.4379455
+FORT_SAM_B,Fort Sam Substation,exact,0.99,29.4553796,-98.4379455
+FOSTER_L_A,Foster Field Substation,alias,1.0,28.8195062,-96.9296872
+FOWLERTON_1,Fowlerton Substation,alias,1.0,28.3714601,-98.800778
+FO_FORMOSA11,Formosa Substation,ercot_reference_exact,1.0,28.6836299,-96.5510875
+FO_FORMOSA12,Formosa Substation,ercot_reference_exact,1.0,28.6836299,-96.5510875
+FO_FORMOSG1,Formosa Substation,ercot_reference_exact,1.0,28.6836299,-96.5510875
+FO_FORMOSG10,Formosa Substation,ercot_reference_exact,1.0,28.6836299,-96.5510875
+FO_FORMOSG13,Formosa Substation,ercot_reference_exact,1.0,28.6836299,-96.5510875
+FO_FORMOSG14,Formosa Substation,ercot_reference_exact,1.0,28.6836299,-96.5510875
+FO_FORMOSG15,Formosa Substation,ercot_reference_exact,1.0,28.6836299,-96.5510875
+FO_FORMOSG2,Formosa Substation,ercot_reference_exact,1.0,28.6836299,-96.5510875
+FO_FORMOSG3,Formosa Substation,ercot_reference_exact,1.0,28.6836299,-96.5510875
+FO_FORMOSG4,Formosa Substation,ercot_reference_exact,1.0,28.6836299,-96.5510875
+FO_FORMOSG5,Formosa Substation,ercot_reference_exact,1.0,28.6836299,-96.5510875
+FO_FORMOSG6,Formosa Substation,ercot_reference_exact,1.0,28.6836299,-96.5510875
+FO_FORMOSG7,Formosa Substation,ercot_reference_exact,1.0,28.6836299,-96.5510875
+FO_FORMOSG8,Formosa Substation,ercot_reference_exact,1.0,28.6836299,-96.5510875
+FO_FORMOSG9,Formosa Substation,ercot_reference_exact,1.0,28.6836299,-96.5510875
+FRANKLIN,Franklin Substation,exact,0.99,31.042073,-96.4920515
+FRATT_B,Fratt Substation,exact,0.99,29.5485314,-98.3431154
+FRATT_C,Fratt Substation,exact,0.99,29.5485314,-98.3431154
+FREER_L_A,Freer Substation,ercot_reference_exact,1.0,27.9405117,-98.8683511
+FREER_L_B,Freer Substation,ercot_reference_exact,1.0,27.9405117,-98.8683511
+FREER_V_A,Freer Substation,ercot_reference_exact,1.0,27.9405117,-98.8683511
+FREESTONE,Freestone Substation,exact,0.99,31.5437615,-96.2483046
+FRIENDSHIP,Friendship Substation,exact,0.99,30.1668323,-97.9452067
+FRIEND_L_A,Friend Ranch Substation,alias,1.0,30.708033,-101.1431002
+FRISCO,Frisco Substation,exact,0.99,33.1818275,-96.8316271
+FRYE_LD1,Frye Substation,ercot_reference_exact,1.0,34.4056743,-101.5766119
+FRYE_LD2,Frye Substation,ercot_reference_exact,1.0,34.4056743,-101.5766119
+FRYE_SLR_ALL,Frye Substation,ercot_reference_exact,1.0,34.4056743,-101.5766119
+FRYE_SLR_EB1,Frye Substation,ercot_reference_exact,1.0,34.4056743,-101.5766119
+FRYE_UN1,Frye Substation,ercot_reference_exact,1.0,34.4056743,-101.5766119
+FRYE_UN2,Frye Substation,ercot_reference_exact,1.0,34.4056743,-101.5766119
+G11,Formosa Substation,ercot_reference_exact,1.0,28.6836299,-96.5510875
+G12,Formosa Substation,ercot_reference_exact,1.0,28.6836299,-96.5510875
+GANADO_L_A,Ganado Substation,ercot_reference_exact,1.0,29.0131711,-96.5027179
+GARFIELD,Garfield Substation,ercot_reference_exact,1.0,30.1426409,-97.5453484
+GARZA_L_A,Garza Substation,ercot_reference_exact,1.0,33.1862714,-101.3904968
+GARZA_V_A,Garza Substation,ercot_reference_exact,1.0,33.1862714,-101.3904968
+GARZA_V_B,Garza Substation,ercot_reference_exact,1.0,33.1862714,-101.3904968
+GATESVILLE,Gatesville Substation,exact,0.99,31.503772,-97.7626376
+GDY5TR1,Grady Substation,ercot_reference_exact,1.0,34.8018071,-97.702975
+GDYMOBILE,Grady Substation,ercot_reference_exact,1.0,34.8018071,-97.702975
+GH,Burnet Substation,ercot_reference_exact,1.0,30.7590923,-98.2374492
+GILA_0001,Gila Substation,ercot_reference_exact,1.0,27.8197488,-97.4213144
+GILA_BUS1,Gila Substation,ercot_reference_exact,1.0,27.8197488,-97.4213144
+GILA_BUS2,Gila Substation,ercot_reference_exact,1.0,27.8197488,-97.4213144
+GILA_L153,Gila Substation,ercot_reference_exact,1.0,27.8197488,-97.4213144
+GILA_L878,Gila Substation,ercot_reference_exact,1.0,27.8197488,-97.4213144
+GILA_LD1,Gila Substation,ercot_reference_exact,1.0,27.8197488,-97.4213144
+GILA_LD2,Gila Substation,ercot_reference_exact,1.0,27.8197488,-97.4213144
+GIRARD_L_A,Girard Substation,ercot_reference_exact,1.0,33.359759,-100.664802
+GOAT_0100,Goat Wind Substation,ercot_reference_exact,1.0,31.9407824,-100.8270485
+GOAT_R_A,Goat Wind Substation,ercot_reference_exact,1.0,31.9407824,-100.8270485
+GOA_GOATWIND,Goat Wind Substation,ercot_reference_exact,1.0,31.9407824,-100.8270485
+GOHLKE_B101,Gohlke Substation,ercot_reference_exact,1.0,28.7464532,-96.7331978
+GOHLKE_B102,Gohlke Substation,ercot_reference_exact,1.0,28.7464532,-96.7331978
+GOLIAD_LD01,Goliad Substation,ercot_reference_exact,1.0,28.6621834,-97.3838348
+GOLIAD_LD02,Goliad Substation,ercot_reference_exact,1.0,28.6621834,-97.3838348
+GPI_L_C,Gpi Substation,ercot_reference_exact,1.0,29.6770593,-98.1779746
+GPI_L_D,Gpi Substation,ercot_reference_exact,1.0,29.6770593,-98.1779746
+GRADY_BUS1,Grady Substation,ercot_reference_exact,1.0,34.8018071,-97.702975
+GRANDVIEW,Grandview Substation,exact,0.99,29.4049694,-98.4442747
+GRAPEVINE,Grapevine Interchange,alias,1.0,35.4019438,-100.8909778
+GRAYBAC_LD,Grayback Substation,ercot_reference_exact,1.0,33.9940449,-99.1674591
+GREGORY_LD2,Gregory Substation,ercot_reference_exact,1.0,27.9232997,-97.3092544
+GREGORY_L_B,Gregory Substation,ercot_reference_exact,1.0,27.9232997,-97.3092544
+GREGORY_RN,Gregory Substation,ercot_reference_exact,1.0,27.9232997,-97.3092544
+GRETA_L_A,Greta Substation,ercot_reference_exact,1.0,28.3820951,-97.1924354
+GRISSOM_A,Grissom Road Substation,alias,1.0,29.4764484,-98.6489325
+GRISSOM_C,Grissom Road Substation,alias,1.0,29.4764484,-98.6489325
+GROESBECK,Groesbeck Substation,exact,0.99,31.5141225,-96.4755131
+GROVE,Grove Substation,ercot_reference_exact,1.0,30.216481,-97.7109706
+GROVE2,Grove Substation,ercot_reference_exact,1.0,30.216481,-97.7109706
+GROVE3,Grove Substation,ercot_reference_exact,1.0,30.216481,-97.7109706
+GROVE4,Grove Substation,ercot_reference_exact,1.0,30.216481,-97.7109706
+GROVEX,Grove Substation,ercot_reference_exact,1.0,30.216481,-97.7109706
+GUSTINE,Gustine Substation,ercot_reference_exact,1.0,31.8180339,-98.3443154
+HAI138_BS1,Haisley Substation,ercot_reference_exact,1.0,28.0949434,-97.4936
+HAINE_DR,Oleander Substation,ercot_reference_exact,1.0,26.2066613,-97.6645579
+HAISLEY_LD01,Haisley Substation,ercot_reference_exact,1.0,28.0949434,-97.4936
+HAISLEY_LD02,Haisley Substation,ercot_reference_exact,1.0,28.0949434,-97.4936
+HAISLEY_LDS1,Haisley Substation,ercot_reference_exact,1.0,28.0949434,-97.4936
+HALLSBURG,Hallsburg Substation,exact,0.99,31.5242687,-97.0056924
+HAMILTON_L_A,Hamilton Road Substation,alias,1.0,29.3738202,-100.849181
+HAMILTON_L_B,Hamilton Road Substation,alias,1.0,29.3738202,-100.849181
+HAMILTON_V_A,Hamilton Road Substation,alias,1.0,29.3738202,-100.849181
+HAMILTON_V_B,Hamilton Road Substation,alias,1.0,29.3738202,-100.849181
+HAMILTON_V_C,Hamilton Road Substation,alias,1.0,29.3738202,-100.849181
+HAML_L_A,Hamlin Substation,ercot_reference_exact,1.0,32.8923611,-100.0986327
+HAML_V_A,Hamlin Substation,ercot_reference_exact,1.0,32.8923611,-100.0986327
+HARGRO_B101,Hargrove Substation,ercot_reference_exact,1.0,31.3083107,-100.938971
+HARLNSW,Oleander Substation,ercot_reference_exact,1.0,26.2066613,-97.6645579
+HARMONY_A,Harmony Hills Substation,alias,1.0,29.5540094,-98.5060042
+HARMONY_B,Harmony Hills Substation,alias,1.0,29.5540094,-98.5060042
+HARRIS,Harris Substation,ercot_reference_exact,1.0,30.2882635,-97.7325507
+HARRISV,Harris Substation,ercot_reference_exact,1.0,30.2882635,-97.7325507
+HARRISW,Harris Substation,ercot_reference_exact,1.0,30.2882635,-97.7325507
+HARRISX,Harris Substation,ercot_reference_exact,1.0,30.2882635,-97.7325507
+HARRISY,Harris Substation,ercot_reference_exact,1.0,30.2882635,-97.7325507
+HARRISZ,Harris Substation,ercot_reference_exact,1.0,30.2882635,-97.7325507
+HARRIS_K,Harris Substation,ercot_reference_exact,1.0,30.2882635,-97.7325507
+HARRIS_KF,Harris Substation,ercot_reference_exact,1.0,30.2882635,-97.7325507
+HARRIS_KK,Harris Substation,ercot_reference_exact,1.0,30.2882635,-97.7325507
+HARRIS_KP,Harris Substation,ercot_reference_exact,1.0,30.2882635,-97.7325507
+HARRIS_KS,Harris Substation,ercot_reference_exact,1.0,30.2882635,-97.7325507
+HARRIS_KY,Harris Substation,ercot_reference_exact,1.0,30.2882635,-97.7325507
+HARROLD_L_A,Harrold Substation,ercot_reference_exact,1.0,34.042709,-99.0937444
+HEARD_L_A,Heard Substation,ercot_reference_exact,1.0,28.2790507,-97.2965985
+HEBRON,Hebron Substation,exact,0.99,33.0482825,-96.9039765
+HECKER_BUS1,Hecker Substation,ercot_reference_exact,1.0,27.9048779,-97.2829086
+HECKER_BUS2,Hecker Substation,ercot_reference_exact,1.0,27.9048779,-97.2829086
+HEIGHTS_L_A,Heights Substation,ercot_reference_exact,1.0,29.3897114,-94.9499464
+HEIGHTS_L_B,Heights Substation,ercot_reference_exact,1.0,29.3897114,-94.9499464
+HELENA_1,Helena Substation,ercot_reference_exact,1.0,28.9379598,-97.7999956
+HELIOS_RN,Helios Substation,ercot_reference_exact,1.0,29.2260649,-99.6997463
+HELOTES_A,Helotes Substation,exact,0.99,29.5481778,-98.6818689
+HELOTES_B,Helotes Substation,exact,0.99,29.5481778,-98.6818689
+HIGHLA_KV_BS,Rusthill Substation,ercot_reference_exact,1.0,31.4517257,-100.4248235
+HILCORP_L_A,Hilcorp Substation,ercot_reference_exact,1.0,29.0455961,-95.7453669
+HILCORP_L_B,Hilcorp Substation,ercot_reference_exact,1.0,29.0455961,-95.7453669
+HILLJE_L_A,Hillje Substation,ercot_reference_exact,1.0,29.1909669,-96.3555233
+HIWAY_2_KV,Gila Substation,ercot_reference_exact,1.0,27.8197488,-97.4213144
+HLEB1,Helios Substation,ercot_reference_exact,1.0,29.2260649,-99.6997463
+HLEB2,Helios Substation,ercot_reference_exact,1.0,29.2260649,-99.6997463
+HLEBL,Helios Substation,ercot_reference_exact,1.0,29.2260649,-99.6997463
+HMTN_TL1,Bronco Substation,ercot_reference_exact,1.0,33.3005596,-103.0589404
+HNY_CMB_SLR1,Tynan Substation,ercot_reference_exact,1.0,28.1831975,-97.7722993
+HOCHHEIM_L_A,Hochheim Substation,ercot_reference_exact,1.0,29.27656,-97.2992364
+HOLCOMB_EB1,Holcomb Substation,ercot_reference_exact,1.0,28.0332546,-99.3616349
+HOLCOMB_EB2,Holcomb Substation,ercot_reference_exact,1.0,28.0332546,-99.3616349
+HOLCOMB_LD1,Holcomb Substation,ercot_reference_exact,1.0,28.0332546,-99.3616349
+HOLCOMB_RN1,Holcomb Substation,ercot_reference_exact,1.0,28.0332546,-99.3616349
+HOLLYMB3,Holly Substation,ercot_reference_exact,1.0,27.7084532,-97.3973469
+HOLLY_K,Holly Substation,ercot_reference_exact,1.0,27.7084532,-97.3973469
+HOLMAN_HB_EB,Holman Substation,ercot_reference_exact,1.0,29.795554,-96.8783831
+HOL_PS2,Holcomb Substation,ercot_reference_exact,1.0,28.0332546,-99.3616349
+HOL_PS_1,Holcomb Substation,ercot_reference_exact,1.0,28.0332546,-99.3616349
+HOMEPORT_L_A,Homeport Substation,ercot_reference_exact,1.0,27.8278738,-97.20955
+HONDO_A,Hondo Substation,exact,0.99,29.3155529,-99.1039726
+HONDO_C,Hondo Substation,exact,0.99,29.3155529,-99.1039726
+HORNET_LD01,Hornet Substation,ercot_reference_exact,1.0,30.6870961,-99.8238196
+HOUSEMTN_RN,Bronco Substation,ercot_reference_exact,1.0,33.3005596,-103.0589404
+HOVEY_GEN,Hovey Substation,ercot_reference_exact,1.0,30.9526276,-103.3614053
+HOW_BUS1,Howard Substation,ercot_reference_exact,1.0,35.4308009,-100.2799081
+HOW_BUS2,Howard Substation,ercot_reference_exact,1.0,35.4308009,-100.2799081
+HSKL_L_A,Haskell Substation,ercot_reference_exact,1.0,33.1230926,-99.7478598
+HSKL_V_A,Haskell Substation,ercot_reference_exact,1.0,33.1230926,-99.7478598
+HULD_L_A,Hulldale Substation,ercot_reference_exact,1.0,31.0049199,-100.5553795
+INDNENR_2_RN,Tippet Substation,ercot_reference_exact,1.0,30.9921472,-102.1338353
+IOLA,Iola Substation,ercot_reference_exact,1.0,30.7315278,-96.0463321
+IOLA2,Iola Substation,ercot_reference_exact,1.0,30.7315278,-96.0463321
+IOLA_0001,Iola Substation,ercot_reference_exact,1.0,30.7315278,-96.0463321
+IOLA_0021,Iola Substation,ercot_reference_exact,1.0,30.7315278,-96.0463321
+IOLA_0022,Iola Substation,ercot_reference_exact,1.0,30.7315278,-96.0463321
+IOLA_2205,Iola Substation,ercot_reference_exact,1.0,30.7315278,-96.0463321
+IOLA_B500,Iola Substation,ercot_reference_exact,1.0,30.7315278,-96.0463321
+IRAN_L_A,Iraan Substation,ercot_reference_exact,1.0,30.9104815,-101.8996602
+IRAN_V_A,Iraan Substation,ercot_reference_exact,1.0,30.9104815,-101.8996602
+ISSUE_11,Formosa Substation,ercot_reference_exact,1.0,28.6836299,-96.5510875
+ISSUE_12,Formosa Substation,ercot_reference_exact,1.0,28.6836299,-96.5510875
+ISSUE_13,Formosa Substation,ercot_reference_exact,1.0,28.6836299,-96.5510875
+ISSUE_14,Formosa Substation,ercot_reference_exact,1.0,28.6836299,-96.5510875
+ISSUE_15,Formosa Substation,ercot_reference_exact,1.0,28.6836299,-96.5510875
+ISSUE_16,Formosa Substation,ercot_reference_exact,1.0,28.6836299,-96.5510875
+ISSUE_17,Formosa Substation,ercot_reference_exact,1.0,28.6836299,-96.5510875
+ISSUE_18,Formosa Substation,ercot_reference_exact,1.0,28.6836299,-96.5510875
+ISSUE_19,Formosa Substation,ercot_reference_exact,1.0,28.6836299,-96.5510875
+ISSUE_51,Tnp One Substation,ercot_reference_exact,1.0,31.0912725,-96.6935559
+JADE_TIE,Mhos Substation,ercot_reference_exact,1.0,32.9066717,-101.0077689
+JARDIN_1,Jardin Substation,ercot_reference_exact,1.0,28.5198799,-99.2379085
+JAVEL18,Bordas Substation,ercot_reference_exact,1.0,27.3211338,-98.9980687
+JAVEL20,Bordas Substation,ercot_reference_exact,1.0,27.3211338,-98.9980687
+JAVELINA_L_A,Javelina Substation,ercot_reference_exact,1.0,27.8051322,-97.457036
+JAVELINA_L_B,Javelina Substation,ercot_reference_exact,1.0,27.8051322,-97.457036
+JAVELINA_V_A,Javelina Substation,ercot_reference_exact,1.0,27.8051322,-97.457036
+JAVELINA_V_B,Javelina Substation,ercot_reference_exact,1.0,27.8051322,-97.457036
+JAYTON,Jayton Substation,exact,0.99,33.2709129,-100.6264069
+JE123,Jett Substation,ercot_reference_exact,1.0,30.3747184,-97.8064759
+JERRY,Jerry Substation,exact,0.99,31.2299962,-101.2993888
+JERRY_B101,Jerry Substation,ercot_reference_exact,1.0,31.2299962,-101.2993888
+JETT13,Jett Substation,ercot_reference_exact,1.0,30.3747184,-97.8064759
+JETTZ,Jett Substation,ercot_reference_exact,1.0,30.3747184,-97.8064759
+JOHNSVILLE,Johnsville Substation,exact,0.99,32.1218502,-97.9455339
+JOSLIN_2752,Joslin Substation,ercot_reference_exact,1.0,28.6487411,-96.5464448
+JOSLIN_2754,Joslin Substation,ercot_reference_exact,1.0,28.6487411,-96.5464448
+JOSLIN_2755,Joslin Substation,ercot_reference_exact,1.0,28.6487411,-96.5464448
+JOSLIN_LD02,Joslin Substation,ercot_reference_exact,1.0,28.6487411,-96.5464448
+JOSLIN_T1,Joslin Substation,ercot_reference_exact,1.0,28.6487411,-96.5464448
+JOSLIN_V_A,Joslin Substation,ercot_reference_exact,1.0,28.6487411,-96.5464448
+JOSLIN_V_B,Joslin Substation,ercot_reference_exact,1.0,28.6487411,-96.5464448
+JUNCTION_LD1,Junction Substation,ercot_reference_exact,1.0,30.4924069,-99.770646
+JUNCTION_RN,Junction Substation,ercot_reference_exact,1.0,30.4924069,-99.770646
+KALGARY,Kalgary Substation,exact,0.99,33.4091035,-101.1137575
+KARNES_LYSY1,Lyssy Substation,ercot_reference_exact,1.0,28.8943977,-98.1200535
+KATEMCY_69_1,Katemcy Substation,ercot_reference_exact,1.0,30.9596893,-99.2816902
+KATZ,Katz Substation,exact,0.99,33.3972257,-100.0103621
+KEITH,Keith Substation,exact,0.99,30.6491145,-96.1014988
+KENEDY_BE01,Kenedy Substation,ercot_reference_exact,1.0,28.8799309,-97.8324062
+KENEDY_L_A,Kenedy Substation,ercot_reference_exact,1.0,28.8799309,-97.8324062
+KEO_4000,Keo Substation,ercot_reference_exact,1.0,30.8184194,-102.3659149
+KEO_KEO_SM1,Keo Substation,ercot_reference_exact,1.0,30.8184194,-102.3659149
+KEPLER_LD1,Kepler Substation,ercot_reference_exact,1.0,27.8186367,-97.5047657
+KEPLER_LDE1,Kepler Substation,ercot_reference_exact,1.0,27.8186367,-97.5047657
+KEPLER_LDE2,Kepler Substation,ercot_reference_exact,1.0,27.8186367,-97.5047657
+KEPLER_LN,Osm_Way_488508137,ercot_reference_hybrid_fuzzy,1.0,27.8152704,-97.480535
+KING,King Substation,exact,0.99,33.5189029,-100.1574201
+KIRBY_A,Kirby Substation,exact,0.99,29.4653848,-98.3924152
+KIRBY_B,Kirby Substation,exact,0.99,29.4653848,-98.3924152
+KIRBY_C,Kirby Substation,exact,0.99,29.4653848,-98.3924152
+KIRBY_F,Kirby Substation,exact,0.99,29.4653848,-98.3924152
+KIRKLAND_L_A,Kirkland Substation,ercot_reference_exact,1.0,34.377595,-100.0664328
+KLEBERG_L_A,Kleberg Substation,ercot_reference_exact,1.0,27.4922344,-97.8551151
+KLEBERG_L_B,Kleberg Substation,ercot_reference_exact,1.0,27.4922344,-97.8551151
+KLEBERG_V_A,Kleberg Substation,ercot_reference_exact,1.0,27.4922344,-97.8551151
+KLEBERG_V_B,Kleberg Substation,ercot_reference_exact,1.0,27.4922344,-97.8551151
+KNIPPA_L_A,Knippa Substation,ercot_reference_exact,1.0,29.2886401,-99.6460336
+KNOX,Knox Substation,exact,0.99,33.3889313,-99.8914482
+KOENIG,Koenig Lane Substation,alias,1.0,30.3283718,-97.7269485
+KOENIG_Z,Koenig Lane Substation,alias,1.0,30.3283718,-97.7269485
+KOSSE,Kosse Substation,ercot_reference_exact,1.0,31.3038955,-96.5112155
+KUNITZ_DEL,Kunitz Substation,ercot_reference_exact,1.0,31.7348475,-104.7490473
+KUNITZ_EPS,Kunitz Substation,ercot_reference_exact,1.0,31.7348475,-104.7490473
+KURTEN_AG1,Kurten Substation,ercot_reference_exact,1.0,30.7997729,-96.2928396
+KURTEN_JKCK,Kurten Substation,ercot_reference_exact,1.0,30.7997729,-96.2928396
+KV1,Gregory Substation,ercot_reference_exact,1.0,27.9232997,-97.3092544
+KV2,Gregory Substation,ercot_reference_exact,1.0,27.9232997,-97.3092544
+KYLE_KC,Kyle Substation,ercot_reference_exact,1.0,29.949868,-97.8842778
+LAGUNA_LD01,Laguna Substation,ercot_reference_exact,1.0,27.648995,-97.2919754
+LAKEWAYX,Lakeway Substation,ercot_reference_exact,1.0,30.3586728,-97.9787637
+LAKEWAYZ,Lakeway Substation,ercot_reference_exact,1.0,30.3586728,-97.9787637
+LAKEWOOD,Lakewood Substation,exact,0.99,32.6232241,-104.4150068
+LAREDO_0006,Laredo Plant Substation,ercot_reference_exact,1.0,27.5675198,-99.5069824
+LAREDO_0007,Laredo Plant Substation,ercot_reference_exact,1.0,27.5675198,-99.5069824
+LAREDO_0344,Laredo Plant Substation,ercot_reference_exact,1.0,27.5675198,-99.5069824
+LAREDO_2666,Laredo Plant Substation,ercot_reference_exact,1.0,27.5675198,-99.5069824
+LAREDO_4500,Laredo Plant Substation,ercot_reference_exact,1.0,27.5675198,-99.5069824
+LAREDO_4523,Laredo Plant Substation,ercot_reference_exact,1.0,27.5675198,-99.5069824
+LAREDO_4602,Laredo Plant Substation,ercot_reference_exact,1.0,27.5675198,-99.5069824
+LAREDO_6561,Laredo Plant Substation,ercot_reference_exact,1.0,27.5675198,-99.5069824
+LAREDO_L_A,Laredo Plant Substation,ercot_reference_exact,1.0,27.5675198,-99.5069824
+LAREDO_L_B,Laredo Plant Substation,ercot_reference_exact,1.0,27.5675198,-99.5069824
+LAREDO_V_A,Laredo Plant Substation,ercot_reference_exact,1.0,27.5675198,-99.5069824
+LAREDO_V_B,Laredo Plant Substation,ercot_reference_exact,1.0,27.5675198,-99.5069824
+LAREDO_V_C,Laredo Plant Substation,ercot_reference_exact,1.0,27.5675198,-99.5069824
+LAREDO_V_D,Laredo Plant Substation,ercot_reference_exact,1.0,27.5675198,-99.5069824
+LASCRU,Milo Substation,ercot_reference_exact,1.0,27.6110314,-99.4999283
+LASSO_GEN,Bronco Substation,ercot_reference_exact,1.0,33.3005596,-103.0589404
+LASSO_LOAD,Lasso Substation,ercot_reference_exact,1.0,30.4650044,-103.4753293
+LASSO_TLINE,Lasso Substation,ercot_reference_exact,1.0,30.4650044,-103.4753293
+LASSO_UNIT1,Lasso Substation,ercot_reference_exact,1.0,30.4650044,-103.4753293
+LAURELES_L_A,Laureles Substation,ercot_reference_exact,1.0,26.1225981,-97.5472631
+LAUR_9999_EB,Laureles Substation,ercot_reference_exact,1.0,26.1225981,-97.5472631
+LAUR_BESS_RN,Laureles Substation,ercot_reference_exact,1.0,26.1225981,-97.5472631
+LAUR_L720_EB,Laureles Substation,ercot_reference_exact,1.0,26.1225981,-97.5472631
+LA_PALMA_V_A,La Palma 69 Kv Substation,alias,1.0,26.1422382,-97.6419133
+LA_PALMA_V_B,La Palma 69 Kv Substation,alias,1.0,26.1422382,-97.6419133
+LA_PALMA_V_C,La Palma 69 Kv Substation,alias,1.0,26.1422382,-97.6419133
+LA_PALMA_V_D,La Palma 69 Kv Substation,alias,1.0,26.1422382,-97.6419133
+LD01,Comstock Substation,ercot_reference_exact,1.0,29.7474583,-101.1394552
+LD02,Comstock Substation,ercot_reference_exact,1.0,29.7474583,-101.1394552
+LD_1,Milton Substation,ercot_reference_exact,1.0,29.0564466,-97.787647
+LD_9457,Haynes Substation,ercot_reference_exact,1.0,32.4434317,-100.3973868
+LE09,Cantwell Substation,ercot_reference_exact,1.0,27.8114012,-97.4443703
+LE36,Cantwell Substation,ercot_reference_exact,1.0,27.8114012,-97.4443703
+LEB,Route 66 Wind Substation,ercot_reference_exact,1.0,35.205911,-101.4349646
+LEBANON,Lebanon Substation,exact,0.99,33.1111554,-96.7747126
+LEHIGH_9474,Lehigh Substation,ercot_reference_exact,1.0,30.0290386,-97.8659726
+LGD_EB_LGD,Santiago Substation,ercot_reference_exact,1.0,31.1162658,-100.5132428
+LGD_EPS1,Santiago Substation,ercot_reference_exact,1.0,31.1162658,-100.5132428
+LGD_LANGFORD,Santiago Substation,ercot_reference_exact,1.0,31.1162658,-100.5132428
+LILLIAN,Lillian Substation,exact,0.99,32.4908734,-97.1950254
+LINE_EB,Hovey Substation,ercot_reference_exact,1.0,30.9526276,-103.3614053
+LIVE_OAK_L_A,Live Oak Substation,ercot_reference_exact,1.0,30.2658895,-98.8881897
+LKT1,Lockett Substation,ercot_reference_exact,1.0,34.0510911,-99.3753229
+LN_16TH_ST,Lynx Substation,ercot_reference_exact,1.0,31.0718593,-102.3935068
+LN_AIR_LIQC,Osm_Way_488508137,ercot_reference_hybrid_fuzzy,1.0,27.8152704,-97.480535
+LN_ASHERTON,Asherton Substation,ercot_reference_exact,1.0,28.4423395,-99.7557185
+LN_BAY_CITY,Magill Substation,ercot_reference_exact,1.0,29.0123491,-95.9693286
+LN_BROOKT,Joslin Substation,ercot_reference_exact,1.0,28.6487411,-96.5464448
+LN_CENIZO,Lobo Substation,ercot_reference_exact,1.0,27.5789332,-99.2756424
+LN_COTULLA,Reveille Substation,ercot_reference_exact,1.0,28.414759,-99.2581054
+LN_ENCINAL,Reveille Substation,ercot_reference_exact,1.0,28.414759,-99.2581054
+LN_FORMOS,Joslin Substation,ercot_reference_exact,1.0,28.6487411,-96.5464448
+LN_GOHLKE,Joslin Substation,ercot_reference_exact,1.0,28.6487411,-96.5464448
+LN_KENEDSW,Tuleta Substation,ercot_reference_exact,1.0,28.5982273,-97.7885435
+LN_KOCH_UP,Kepler Substation,ercot_reference_exact,1.0,27.8186367,-97.5047657
+LN_LARAMIE,Belknap Substation,ercot_reference_exact,1.0,32.6151756,-99.6506096
+LN_LAURELES,Marconi Substation,ercot_reference_exact,1.0,26.0921204,-97.3971221
+LN_LINTERNA,Solstice Substation,ercot_reference_exact,1.0,30.9483202,-103.3617143
+LN_LON_HILL,Lon Hill Substation,hybrid_fuzzy,0.737,27.8438525,-97.6155988
+LN_LOSANGEL,Reveille Substation,ercot_reference_exact,1.0,28.414759,-99.2581054
+LN_P_ISABEL,Marconi Substation,ercot_reference_exact,1.0,26.0921204,-97.3971221
+LN_SANDCR,Joslin Substation,ercot_reference_exact,1.0,28.6487411,-96.5464448
+LN_SGSA,Solstice Substation,ercot_reference_exact,1.0,30.9483202,-103.3617143
+LN_SLKSW,Solstice Substation,ercot_reference_exact,1.0,30.9483202,-103.3617143
+LN_SLKSW2,Solstice Substation,ercot_reference_exact,1.0,30.9483202,-103.3617143
+LN_SLKSW_2Y,Solstice Substation,ercot_reference_exact,1.0,30.9483202,-103.3617143
+LN_SLKSW_3Y,Solstice Substation,ercot_reference_exact,1.0,30.9483202,-103.3617143
+LN_SPTREE,Lynx Substation,ercot_reference_exact,1.0,31.0718593,-102.3935068
+LN_TENARIS,Magill Substation,ercot_reference_exact,1.0,29.0123491,-95.9693286
+LN_TORTUGA1,Gila Substation,ercot_reference_exact,1.0,27.8197488,-97.4213144
+LN_TREB_SLR,Joslin Substation,ercot_reference_exact,1.0,28.6487411,-96.5464448
+LN_VALERO1,Kepler Substation,ercot_reference_exact,1.0,27.8186367,-97.5047657
+LN_VALERO2,Osm_Way_488508137,ercot_reference_hybrid_fuzzy,1.0,27.8152704,-97.480535
+LOAD01,Taylor Substation,ercot_reference_exact,1.0,30.5670969,-97.3973345
+LOADT1,Beback Substation,ercot_reference_exact,1.0,29.7971016,-97.9556043
+LOADT1_,Blanco Substation,ercot_reference_exact,1.0,30.0825998,-98.4121882
+LOADT2_2,Blanco Substation,ercot_reference_exact,1.0,30.0825998,-98.4121882
+LOADT_1,Shiner Substation,ercot_reference_exact,1.0,29.444397,-97.1922224
+LOADT_2,Wilson Substation,ercot_reference_exact,1.0,29.3376671,-98.1728307
+LOBO1397,Lobo Substation,ercot_reference_exact,1.0,27.5789332,-99.2756424
+LOBO1398,Lobo Substation,ercot_reference_exact,1.0,27.5789332,-99.2756424
+LOBO1401,Lobo Substation,ercot_reference_exact,1.0,27.5789332,-99.2756424
+LOBO2002,Lobo Substation,ercot_reference_exact,1.0,27.5789332,-99.2756424
+LOBOL423,Lobo Substation,ercot_reference_exact,1.0,27.5789332,-99.2756424
+LOBOL585,Lobo Substation,ercot_reference_exact,1.0,27.5789332,-99.2756424
+LOBOS613,Lobo Substation,ercot_reference_exact,1.0,27.5789332,-99.2756424
+LOBO_1,Lobo Substation,ercot_reference_exact,1.0,27.5789332,-99.2756424
+LOBO_345_1,Lobo Substation,ercot_reference_exact,1.0,27.5789332,-99.2756424
+LOBO_B131_EB,Lobo Substation,ercot_reference_exact,1.0,27.5789332,-99.2756424
+LOBO_B132_EB,Lobo Substation,ercot_reference_exact,1.0,27.5789332,-99.2756424
+LOBO_EB01,Lobo Substation,ercot_reference_exact,1.0,27.5789332,-99.2756424
+LOBO_L801_EB,Lobo Substation,ercot_reference_exact,1.0,27.5789332,-99.2756424
+LOBO_TORR,Lobo Substation,ercot_reference_exact,1.0,27.5789332,-99.2756424
+LOCKETT1,Lockett Substation,ercot_reference_exact,1.0,34.0510911,-99.3753229
+LOLITA_L_A,Lolita Substation,ercot_reference_exact,1.0,28.8531665,-96.5574016
+LOLITA_V_A,Lolita Substation,ercot_reference_exact,1.0,28.8531665,-96.5574016
+LONESTAR_RN,Lonestar Substation,ercot_reference_exact,1.0,31.5942755,-103.2484104
+LONHILL_0002,Lon Hill Substation,ercot_reference_exact,1.0,27.8438525,-97.6155988
+LONHILL_0007,Lon Hill Substation,ercot_reference_exact,1.0,27.8438525,-97.6155988
+LONHILL_0010,Lon Hill Substation,ercot_reference_exact,1.0,27.8438525,-97.6155988
+LONHILL_0012,Lon Hill Substation,ercot_reference_exact,1.0,27.8438525,-97.6155988
+LONHILL_2000,Lon Hill Substation,ercot_reference_exact,1.0,27.8438525,-97.6155988
+LONHILL_3346,Lon Hill Substation,ercot_reference_exact,1.0,27.8438525,-97.6155988
+LONHILL_3347,Lon Hill Substation,ercot_reference_exact,1.0,27.8438525,-97.6155988
+LONHILL_3348,Lon Hill Substation,ercot_reference_exact,1.0,27.8438525,-97.6155988
+LONHILL_3350,Lon Hill Substation,ercot_reference_exact,1.0,27.8438525,-97.6155988
+LONHILL_3358,Lon Hill Substation,ercot_reference_exact,1.0,27.8438525,-97.6155988
+LONHILL_3359,Lon Hill Substation,ercot_reference_exact,1.0,27.8438525,-97.6155988
+LONHILL_3362,Lon Hill Substation,ercot_reference_exact,1.0,27.8438525,-97.6155988
+LONHILL_3373,Lon Hill Substation,ercot_reference_exact,1.0,27.8438525,-97.6155988
+LONHILL_3378,Lon Hill Substation,ercot_reference_exact,1.0,27.8438525,-97.6155988
+LONHILL_6730,Lon Hill Substation,ercot_reference_exact,1.0,27.8438525,-97.6155988
+LONHILL_6860,Lon Hill Substation,ercot_reference_exact,1.0,27.8438525,-97.6155988
+LON_HILL_V_A,Lon Hill Substation,ercot_reference_exact,1.0,27.8438525,-97.6155988
+LON_HILL_V_B,Lon Hill Substation,ercot_reference_exact,1.0,27.8438525,-97.6155988
+LON_HILL_V_C,Lon Hill Substation,ercot_reference_exact,1.0,27.8438525,-97.6155988
+LON_HILL_V_D,Lon Hill Substation,ercot_reference_exact,1.0,27.8438525,-97.6155988
+LON_HILL_V_E,Lon Hill Substation,ercot_reference_exact,1.0,27.8438525,-97.6155988
+LON_HILL_V_F,Lon Hill Substation,ercot_reference_exact,1.0,27.8438525,-97.6155988
+LON_HI_KV,Haisley Substation,ercot_reference_exact,1.0,28.0949434,-97.4936
+LOYOLASUB8,Loyola Substation,ercot_reference_exact,1.0,27.3185166,-97.8101325
+LOYOLASUB8Y,Loyola Substation,ercot_reference_exact,1.0,27.3185166,-97.8101325
+LOYOLASUB8Z,Loyola Substation,ercot_reference_exact,1.0,27.3185166,-97.8101325
+LS_BESS,Lonestar Substation,ercot_reference_exact,1.0,31.5942755,-103.2484104
+LT1,Lometa Substation,ercot_reference_exact,1.0,31.215333,-98.3907995
+LT2,Smiley Substation,ercot_reference_exact,1.0,29.3170092,-97.630292
+LYNXESS_ESR1,Lynx Substation,ercot_reference_exact,1.0,31.0718593,-102.3935068
+LYNX_ESS_RN,Lynx Substation,ercot_reference_exact,1.0,31.0718593,-102.3935068
+LYNX_LD1,Lynx Substation,ercot_reference_exact,1.0,31.0718593,-102.3935068
+LYNX_LN2,Lynx Substation,ercot_reference_exact,1.0,31.0718593,-102.3935068
+LYNX_WW2,Lynx Substation,ercot_reference_exact,1.0,31.0718593,-102.3935068
+LYONS,Lyons Substation,ercot_reference_exact,1.0,35.5496939,-100.9557734
+LYONS_B1,Lyons Substation,ercot_reference_exact,1.0,35.5496939,-100.9557734
+LYONS_T1,Lyons Substation,ercot_reference_exact,1.0,35.5496939,-100.9557734
+LYONS_T2,Lyons Substation,ercot_reference_exact,1.0,35.5496939,-100.9557734
+LYRIO,Lynx Substation,ercot_reference_exact,1.0,31.0718593,-102.3935068
+LYSSY1,Lyssy Substation,ercot_reference_exact,1.0,28.8943977,-98.1200535
+LYSSY_RN,Lyssy Substation,ercot_reference_exact,1.0,28.8943977,-98.1200535
+LYSY_PLEASA1,Lyssy Substation,ercot_reference_exact,1.0,28.8943977,-98.1200535
+LYTLE_A,Lytle Substation,exact,0.99,29.2506522,-98.8041967
+LYTLE_B,Lytle Substation,exact,0.99,29.2506522,-98.8041967
+LYTOM,Lynx Substation,ercot_reference_exact,1.0,31.0718593,-102.3935068
+LYTTON_S_K,Lytton Springs Substation,alias,1.0,30.0053687,-97.6743116
+L_ALTAIR9_1Y,Altair Substation,ercot_reference_exact,1.0,29.5642646,-96.4624592
+L_ANDICE8_1X,Andice Substation,ercot_reference_exact,1.0,30.7489665,-97.875798
+L_ANDICE8_1Z,Andice Substation,ercot_reference_exact,1.0,30.7489665,-97.875798
+L_ANDICE8_2Y,Andice Substation,ercot_reference_exact,1.0,30.7489665,-97.875798
+L_ANDICE8_3Y,Andice Substation,ercot_reference_exact,1.0,30.7489665,-97.875798
+L_ANDICE8_9Y,Andice Substation,ercot_reference_exact,1.0,30.7489665,-97.875798
+L_ANTLER8_1Y,Antler Substation,ercot_reference_exact,1.0,29.7768041,-98.4133703
+L_ANTLER8_1Z,Antler Substation,ercot_reference_exact,1.0,29.7768041,-98.4133703
+L_BOERNE8_1X,Boerne Substation,ercot_reference_exact,1.0,29.804201,-98.7257622
+L_BOERNE8_1Y,Boerne Substation,ercot_reference_exact,1.0,29.804201,-98.7257622
+L_BOERNE8_1Z,Boerne Substation,ercot_reference_exact,1.0,29.804201,-98.7257622
+L_BUDA__8_1X,Buda Substation,ercot_reference_exact,1.0,30.0753952,-97.851129
+L_BUDA__8_1Y,Buda Substation,ercot_reference_exact,1.0,30.0753952,-97.851129
+L_BUDA__8_1Z,Buda Substation,ercot_reference_exact,1.0,30.0753952,-97.851129
+L_BUDA__9_1Y,Buda Substation,ercot_reference_exact,1.0,30.0753952,-97.851129
+L_BURNET8_3Y,Burnet Substation,ercot_reference_exact,1.0,30.7590923,-98.2374492
+L_BURNET8_7Y,Burnet Substation,ercot_reference_exact,1.0,30.7590923,-98.2374492
+L_BUTLER8_1Y,Butler Substation,ercot_reference_exact,1.0,30.3894531,-97.3247387
+L_CANYON8_1Y,Canyon Substation,ercot_reference_exact,1.0,29.9115328,-97.9000971
+L_CANYON8_2Y,Canyon Substation,ercot_reference_exact,1.0,29.9115328,-97.9000971
+L_CENTEX9_1W,Centex Substation,ercot_reference_exact,1.0,30.0540331,-97.8589175
+L_CENTEX9_1X,Centex Substation,ercot_reference_exact,1.0,30.0540331,-97.8589175
+L_CENTEX9_1Y,Centex Substation,ercot_reference_exact,1.0,30.0540331,-97.8589175
+L_CENTEX9_1Z,Centex Substation,ercot_reference_exact,1.0,30.0540331,-97.8589175
+L_CIBOLO8_1Y,Cibolo Substation,ercot_reference_exact,1.0,29.5782233,-98.2073018
+L_CIBOLO8_2Y,Cibolo Substation,ercot_reference_exact,1.0,29.5782233,-98.2073018
+L_CIBOLO8_4Y,Cibolo Substation,ercot_reference_exact,1.0,29.5782233,-98.2073018
+L_CIBOLO_3Y,Cibolo Substation,ercot_reference_exact,1.0,29.5782233,-98.2073018
+L_COLTON8_1Y,Colton Substation,ercot_reference_exact,1.0,30.1390534,-97.6789233
+L_COMAL_8_1W,Comal Substation,ercot_reference_exact,1.0,29.7068202,-98.1349886
+L_COMAL_8_1X,Comal Substation,ercot_reference_exact,1.0,29.7068202,-98.1349886
+L_COMAL_8_1Y,Comal Substation,ercot_reference_exact,1.0,29.7068202,-98.1349886
+L_COMAL_8_1Z,Comal Substation,ercot_reference_exact,1.0,29.7068202,-98.1349886
+L_COST__9_1Y,Cost Substation,ercot_reference_exact,1.0,29.4385175,-97.5277942
+L_CRANE8_TA,Crane Substation,ercot_reference_exact,1.0,31.4098418,-102.3386148
+L_CUERO_8_2Y,Cuero Substation,ercot_reference_exact,1.0,29.1074722,-97.2724379
+L_CUERO_8_3Y,Cuero Substation,ercot_reference_exact,1.0,29.1074722,-97.2724379
+L_CUERO_8_5Y,Cuero Substation,ercot_reference_exact,1.0,29.1074722,-97.2724379
+L_CUERO_8_6Y,Cuero Substation,ercot_reference_exact,1.0,29.1074722,-97.2724379
+L_CUERO_8_7Y,Cuero Substation,ercot_reference_exact,1.0,29.1074722,-97.2724379
+L_DOSS9___2Y,Doss Substation,ercot_reference_exact,1.0,30.4578773,-99.1308943
+L_DOSS__9_1Y,Doss Substation,ercot_reference_exact,1.0,30.4578773,-99.1308943
+L_ELROY8_2Y,Elroy Substation,ercot_reference_exact,1.0,30.1412902,-97.6243427
+L_ENGLE8_2Y,Engle Substation,ercot_reference_exact,1.0,29.674534,-97.0131056
+L_ENGLE_8_1Y,Engle Substation,ercot_reference_exact,1.0,29.674534,-97.0131056
+L_EVANT_8_1Y,Evant Substation,ercot_reference_exact,1.0,31.433615,-98.1731642
+L_EVANT_8_2Y,Evant Substation,ercot_reference_exact,1.0,31.433615,-98.1731642
+L_GPI___8_1Y,Gpi Substation,ercot_reference_exact,1.0,29.6770593,-98.1779746
+L_GPI___8_1Z,Gpi Substation,ercot_reference_exact,1.0,29.6770593,-98.1779746
+L_HARPER8_5N,Harper Substation,ercot_reference_exact,1.0,30.2989664,-99.2401443
+L_HARPER8_6N,Harper Substation,ercot_reference_exact,1.0,30.2989664,-99.2401443
+L_HENLY_8_1Y,Henly Substation,ercot_reference_exact,1.0,30.2028212,-98.156778
+L_HENNE_8_1Y,Henne Substation,ercot_reference_exact,1.0,29.7735088,-98.050972
+L_HENNE_8_1Z,Henne Substation,ercot_reference_exact,1.0,29.7735088,-98.050972
+L_HENNE_8_2Y,Henne Substation,ercot_reference_exact,1.0,29.7735088,-98.050972
+L_HORTON8_1Y,Horton Substation,ercot_reference_exact,1.0,32.5325845,-99.686367
+L_HORTON8_1Z,Horton Substation,ercot_reference_exact,1.0,32.5325845,-99.686367
+L_HORTON_3Y,Horton Substation,ercot_reference_exact,1.0,32.5325845,-99.686367
+L_HUNTER8_1Y,Hunter Substation,ercot_reference_exact,1.0,29.6014186,-95.0144409
+L_HUNTER8_1Z,Hunter Substation,ercot_reference_exact,1.0,29.6014186,-95.0144409
+L_HUNT__8_1X,Hunt Substation,ercot_reference_exact,1.0,30.0761257,-99.3360162
+L_HUNT__8_1Z,Hunt Substation,ercot_reference_exact,1.0,30.0761257,-99.3360162
+L_KUNITZ1_1Z,Kunitz Substation,ercot_reference_exact,1.0,31.7348475,-104.7490473
+L_LEAKEY9_1X,Leakey Substation,ercot_reference_exact,1.0,29.6810774,-99.7619179
+L_LEAKEY9_1Y,Leakey Substation,ercot_reference_exact,1.0,29.6810774,-99.7619179
+L_LEAKEY9_1Z,Leakey Substation,ercot_reference_exact,1.0,29.6810774,-99.7619179
+L_LEHIGH8_1Y,Lehigh Substation,ercot_reference_exact,1.0,30.0290386,-97.8659726
+L_LOMETA8_1Y,Lometa Substation,ercot_reference_exact,1.0,31.215333,-98.3907995
+L_LYONS_8_1Y,Lyons Substation,ercot_reference_exact,1.0,35.5496939,-100.9557734
+L_MANOR_8_1Y,Manor Substation,ercot_reference_exact,1.0,30.3494801,-97.5092739
+L_MARION5_1Y,Marion Substation,ercot_reference_exact,1.0,29.6208306,-98.1487571
+L_MARION5_1Z,Marion Substation,ercot_reference_exact,1.0,29.6208306,-98.1487571
+L_MARION8_1Y,Marion Substation,ercot_reference_exact,1.0,29.6208306,-98.1487571
+L_MARION8_1Z,Marion Substation,ercot_reference_exact,1.0,29.6208306,-98.1487571
+L_MCNEIL8_1Y,Mcneil Substation,ercot_reference_exact,1.0,30.3929592,-97.6892898
+L_MCNEIL8_1Z,Mcneil Substation,ercot_reference_exact,1.0,30.3929592,-97.6892898
+L_MILLER8_1Y,Miller Substation,ercot_reference_exact,1.0,32.8946015,-96.6023706
+L_NARUNA8_2Y,Naruna Substation,ercot_reference_exact,1.0,31.0476489,-98.1908146
+L_NIMITZ8_1Y,Nimitz Substation,ercot_reference_exact,1.0,30.3068044,-98.8658928
+L_NIXON19_1Y,Nixon Substation,ercot_reference_exact,1.0,29.308137,-97.7408337
+L_OTTINE9_1Y,Ottine Substation,ercot_reference_exact,1.0,29.6137191,-97.478546
+L_OTTINE9_2Y,Ottine Substation,ercot_reference_exact,1.0,29.6137191,-97.478546
+L_PAIGE_8_1Y,Paige Substation,ercot_reference_exact,1.0,30.2144346,-97.1346902
+L_PISEK_8_1Y,Pisek Substation,ercot_reference_exact,1.0,29.9211392,-96.5718993
+L_PISEK_8_2Y,Pisek Substation,ercot_reference_exact,1.0,29.9211392,-96.5718993
+L_PLUM__8_1Y,Plum Substation,ercot_reference_exact,1.0,29.9440691,-97.0120152
+L_PLUM__8_2Y,Plum Substation,ercot_reference_exact,1.0,29.9440691,-97.0120152
+L_QUANEX9_1Y,Quanex Substation,ercot_reference_exact,1.0,29.9020816,-96.2124742
+L_RIVERY8_1Y,Rivery Substation,ercot_reference_exact,1.0,30.6485016,-97.6896452
+L_RIVERY8_1Z,Rivery Substation,ercot_reference_exact,1.0,30.6485016,-97.6896452
+L_ROHR__8_1Y,Rohr Substation,ercot_reference_exact,1.0,29.9355619,-97.8788751
+L_SALEM_8_1Y,Salem Substation,ercot_reference_exact,1.0,30.1112125,-96.4256642
+L_SALEM_8_1Z,Salem Substation,ercot_reference_exact,1.0,30.1112125,-96.4256642
+L_SEAWAY8_1X,Seaway Substation,ercot_reference_exact,1.0,33.8299087,-96.455126
+L_SEAWAY8_1Y,Seaway Substation,ercot_reference_exact,1.0,33.8299087,-96.455126
+L_SEAWAY8_1Z,Seaway Substation,ercot_reference_exact,1.0,33.8299087,-96.455126
+L_SEGUIN8_1Y,Seguin Substation,ercot_reference_exact,1.0,29.5943554,-97.9564296
+L_SEGUIN8_1Z,Seguin Substation,ercot_reference_exact,1.0,29.5943554,-97.9564296
+L_SHINER8_2Y,Shiner Substation,ercot_reference_exact,1.0,29.444397,-97.1922224
+L_TIPPET8_1Y,Tippet Substation,ercot_reference_exact,1.0,30.9921472,-102.1338353
+L_UTOPIA9_1Y,Utopia Substation,ercot_reference_exact,1.0,29.6461984,-99.5217823
+L_WALLER8_1X,Waller Substation,ercot_reference_exact,1.0,30.0766237,-96.0832073
+L_WALLER8_1Y,Waller Substation,ercot_reference_exact,1.0,30.0766237,-96.0832073
+L_WALLER8_1Z,Waller Substation,ercot_reference_exact,1.0,30.0766237,-96.0832073
+L_WARDA8_1Y,Warda Substation,ercot_reference_exact,1.0,30.050317,-96.9208608
+L_WARDA8_2Y,Warda Substation,ercot_reference_exact,1.0,30.050317,-96.9208608
+L_WARDA8_3Y,Warda Substation,ercot_reference_exact,1.0,30.050317,-96.9208608
+L_WEIMAR8_1Y,Weimar Substation,ercot_reference_exact,1.0,29.6836678,-96.783655
+L_WEIMAR8_2Y,Weimar Substation,ercot_reference_exact,1.0,29.6836678,-96.783655
+L_WEIMAR8_3Y,Weimar Substation,ercot_reference_exact,1.0,29.6836678,-96.783655
+L_WEIMAR8_4Y,Weimar Substation,ercot_reference_exact,1.0,29.6836678,-96.783655
+L_WIRTZ_8_1Y,Wirtz Substation,ercot_reference_exact,1.0,30.5596814,-98.3374716
+L_YOAKUM8_1X,Yoakum Substation,ercot_reference_exact,1.0,33.1253054,-102.7660413
+L_YOAKUM8_1Y,Yoakum Substation,ercot_reference_exact,1.0,33.1253054,-102.7660413
+L_YOAKUM8_1Z,Yoakum Substation,ercot_reference_exact,1.0,33.1253054,-102.7660413
+L_ZORN__5_1Y,Zorn Substation,ercot_reference_exact,1.0,29.7726536,-97.9497492
+MAGNOL_LD01,Magnolia Substation,ercot_reference_exact,1.0,29.4883046,-95.1339785
+MAGRUDER_L_A,Magruder Substation,ercot_reference_exact,1.0,28.8412473,-97.009854
+MAGRUDER_L_B,Magruder Substation,ercot_reference_exact,1.0,28.8412473,-97.009854
+MAGRUDER_V_A,Magruder Substation,ercot_reference_exact,1.0,28.8412473,-97.009854
+MAGRUD_BUS_2,Magruder Substation,ercot_reference_exact,1.0,28.8412473,-97.009854
+MALONE_L_A,Malone Substation,ercot_reference_exact,1.0,29.6265555,-97.7212977
+MARFA_L_A,Marfa Substation,ercot_reference_exact,1.0,30.312318,-104.0167993
+MARIONT1,Marion Substation,ercot_reference_exact,1.0,29.6208306,-98.1487571
+MARION_1,Marion Substation,ercot_reference_exact,1.0,29.6208306,-98.1487571
+MARION_2,Marion Substation,ercot_reference_exact,1.0,29.6208306,-98.1487571
+MARION_3810,Marion Substation,ercot_reference_exact,1.0,29.6208306,-98.1487571
+MARION_3811,Marion Substation,ercot_reference_exact,1.0,29.6208306,-98.1487571
+MARION_3818,Marion Substation,ercot_reference_exact,1.0,29.6208306,-98.1487571
+MARION_4536,Marion Substation,ercot_reference_exact,1.0,29.6208306,-98.1487571
+MARION_4537,Marion Substation,ercot_reference_exact,1.0,29.6208306,-98.1487571
+MARION_4538,Marion Substation,ercot_reference_exact,1.0,29.6208306,-98.1487571
+MARION_4543,Marion Substation,ercot_reference_exact,1.0,29.6208306,-98.1487571
+MARION_4544,Marion Substation,ercot_reference_exact,1.0,29.6208306,-98.1487571
+MARION_4545,Marion Substation,ercot_reference_exact,1.0,29.6208306,-98.1487571
+MARKHAM_L_A,Markham Substation,ercot_reference_exact,1.0,28.9667444,-96.0696348
+MARQUIS_8,Marquis Substation,ercot_reference_exact,1.0,32.9020987,-96.6776762
+MARQUIS_BS,Marquis Substation,ercot_reference_exact,1.0,32.9020987,-96.6776762
+MARQUIS_T1,Marquis Substation,ercot_reference_exact,1.0,32.9020987,-96.6776762
+MARQUIS_T2,Marquis Substation,ercot_reference_exact,1.0,32.9020987,-96.6776762
+MARTIN_EB,Martin Substation,ercot_reference_exact,1.0,35.3820925,-101.5403726
+MASON_8Y,Mason Substation,ercot_reference_exact,1.0,30.7380387,-99.2341799
+MASON_LDXFR2,Mason Substation,ercot_reference_exact,1.0,30.7380387,-99.2341799
+MASON_XFR3,Mason Substation,ercot_reference_exact,1.0,30.7380387,-99.2341799
+MATHIS_LD01,Mathis Substation,ercot_reference_exact,1.0,28.1121733,-97.8239071
+MATHIS_LD02,Mathis Substation,ercot_reference_exact,1.0,28.1121733,-97.8239071
+MATH_EB,Tynan Substation,ercot_reference_exact,1.0,28.1831975,-97.7722993
+MATTHEWS_L_A,Matthews Substation,exact,0.99,29.5068446,-96.3326957
+MAVERICK_L_A,Maverick Substation,ercot_reference_exact,1.0,28.8667609,-100.5505902
+MAYO_1_KV,Gila Substation,ercot_reference_exact,1.0,27.8197488,-97.4213144
+MAYO_BUS1,Mayo Substation,ercot_reference_exact,1.0,27.9094819,-97.4246969
+MAYO_LD02,Mayo Substation,ercot_reference_exact,1.0,27.9094819,-97.4246969
+MAYO_LD_1,Mayo Substation,ercot_reference_exact,1.0,27.9094819,-97.4246969
+MB1,Burleson Substation,ercot_reference_exact,1.0,30.214689,-97.7367219
+MCCREE8_B_T1,Mccree Substation,ercot_reference_exact,1.0,32.8724676,-96.6636433
+MCCREE8_T1,Mccree Substation,ercot_reference_exact,1.0,32.8724676,-96.6636433
+MCCREE8_T2,Mccree Substation,ercot_reference_exact,1.0,32.8724676,-96.6636433
+MCCREE9,Mccree Substation,ercot_reference_exact,1.0,32.8724676,-96.6636433
+MCCREE_HB_EB,Mccree Substation,ercot_reference_exact,1.0,32.8724676,-96.6636433
+MCEL_L_A,Mcelroy Substation,ercot_reference_exact,1.0,31.4229337,-102.3156764
+MCEL_L_B,Mcelroy Substation,ercot_reference_exact,1.0,31.4229337,-102.3156764
+MCGREGOR,Mcgregor Substation,ercot_reference_exact,1.0,32.075881,-106.1753494
+MCKENZIE_L_A,Mckenzie Substation,ercot_reference_exact,1.0,27.8057282,-97.5714881
+MCKENZ_MOB1,Mckenzie Substation,ercot_reference_exact,1.0,27.8057282,-97.5714881
+MCLNSLR_RN,Asherton Substation,ercot_reference_exact,1.0,28.4423395,-99.7557185
+MCMURRY_L_A,Abilene Mcmurry Substation,alias,1.0,32.432,-99.7529302
+MCMURRY_L_B,Abilene Mcmurry Substation,alias,1.0,32.432,-99.7529302
+MCNEILMB2,Mcneil Substation,ercot_reference_exact,1.0,30.3929592,-97.6892898
+MCNEILN,Mcneil Substation,ercot_reference_exact,1.0,30.3929592,-97.6892898
+MCNEILNY,Mcneil Substation,ercot_reference_exact,1.0,30.3929592,-97.6892898
+MCNEILNZ,Mcneil Substation,ercot_reference_exact,1.0,30.3929592,-97.6892898
+MCNEILP,Mcneil Substation,ercot_reference_exact,1.0,30.3929592,-97.6892898
+MCNEILS,Mcneil Substation,ercot_reference_exact,1.0,30.3929592,-97.6892898
+MEDIOC_KV,Haisley Substation,ercot_reference_exact,1.0,28.0949434,-97.4936
+MELV_L_A,Melvin Substation,ercot_reference_exact,1.0,31.1963386,-99.5840111
+MERIDA_A,Merida Street Substation,alias,1.0,29.4094873,-98.5397776
+MERIDA_B,Merida Street Substation,alias,1.0,29.4094873,-98.5397776
+MERIDA_C,Merida Street Substation,alias,1.0,29.4094873,-98.5397776
+MERIDA_D,Merida Street Substation,alias,1.0,29.4094873,-98.5397776
+MERIDA_E,Merida Street Substation,alias,1.0,29.4094873,-98.5397776
+MERR_L_A,Mertzon Substation,ercot_reference_exact,1.0,31.2597112,-100.8450737
+MESQUITE_LD1,Mesquite Substation,ercot_reference_exact,1.0,32.6287758,-99.54042
+MESQUITE_LD2,Mesquite Substation,ercot_reference_exact,1.0,32.6287758,-99.54042
+MESQUITE_RN,Mesquite Substation,ercot_reference_exact,1.0,32.6287758,-99.54042
+MESQUITE_RN2,Mesquite Substation,ercot_reference_exact,1.0,32.6287758,-99.54042
+MHOS_BUS1,Mhos Substation,ercot_reference_exact,1.0,32.9066717,-101.0077689
+MHOS_BUS2,Mhos Substation,ercot_reference_exact,1.0,32.9066717,-101.0077689
+MIDTN_EB,Midtown Substation,ercot_reference_exact,1.0,25.938485,-97.5055713
+MIDTOWNV,Midtown Substation,ercot_reference_exact,1.0,25.938485,-97.5055713
+MIDTOWNZ,Midtown Substation,ercot_reference_exact,1.0,25.938485,-97.5055713
+MILANO,Milano Substation,ercot_reference_exact,1.0,30.7635772,-96.8635274
+MILES_B114,Miles Substation,ercot_reference_exact,1.0,31.5933401,-100.1781026
+MILE_V_A,Miles Substation,ercot_reference_exact,1.0,31.5933401,-100.1781026
+MILITARY_V_A,Military Highway Substation,alias,1.0,25.9368506,-97.5356934
+MILITARY_V_B,Military Highway Substation,alias,1.0,25.9368506,-97.5356934
+MILO_L_A,Milo Substation,ercot_reference_exact,1.0,27.6110314,-99.4999283
+MILO_L_B,Milo Substation,ercot_reference_exact,1.0,27.6110314,-99.4999283
+MILTON_LN1,Milton Substation,ercot_reference_exact,1.0,29.0564466,-97.787647
+MILTON_LN2,Milton Substation,ercot_reference_exact,1.0,29.0564466,-97.787647
+MILTON_RN,Milton Substation,ercot_reference_exact,1.0,29.0564466,-97.787647
+MINES,Milo Substation,ercot_reference_exact,1.0,27.6110314,-99.4999283
+MIRAGE_10,Mirage Substation,ercot_reference_exact,1.0,29.6459671,-95.0536446
+MIRAGE_B2,Mirage Substation,ercot_reference_exact,1.0,29.6459671,-95.0536446
+MIRAGE_G1,Mirage Substation,ercot_reference_exact,1.0,29.6459671,-95.0536446
+MIRAGE_GEN1,Mirage Substation,ercot_reference_exact,1.0,29.6459671,-95.0536446
+MIR_0030,Mirage Substation,ercot_reference_exact,1.0,29.6459671,-95.0536446
+MIR_0050,Mirage Substation,ercot_reference_exact,1.0,29.6459671,-95.0536446
+MIR_0070,Mirage Substation,ercot_reference_exact,1.0,29.6459671,-95.0536446
+MKLT_L_A,Scott Substation,ercot_reference_exact,1.0,32.4494014,-100.0750527
+MOB1,Pearsall Substation,ercot_reference_exact,1.0,28.8881174,-99.0793245
+MOBC_EB,Tynan Substation,ercot_reference_exact,1.0,28.1831975,-97.7722993
+MOB_EB1,Holcomb Substation,ercot_reference_exact,1.0,28.0332546,-99.3616349
+MOFFAT,Moffat Substation,ercot_reference_exact,1.0,31.2039518,-97.4375569
+MONT,Mont Substation,ercot_reference_exact,1.0,29.4009892,-97.0090822
+MONTEL_1,Montell Substation,ercot_reference_exact,1.0,29.427929,-100.0017567
+MONT_UNIT1,Mont Substation,exact,0.99,29.4009892,-97.0090822
+MONT_UNIT2,Mont Substation,exact,0.99,29.4009892,-97.0090822
+MOODY,Moody Substation,ercot_reference_exact,1.0,31.2752884,-97.3757786
+MOORE_L_A,Moore County Substation,alias,1.0,35.9667759,-101.8630795
+MOORE_V_A,Moore County Substation,alias,1.0,35.9667759,-101.8630795
+MORRIS_L_A,Morris Substation,ercot_reference_exact,1.0,27.7843998,-97.4055884
+MORRIS_L_B,Morris Substation,ercot_reference_exact,1.0,27.7843998,-97.4055884
+MORRIS_L_C,Morris Substation,ercot_reference_exact,1.0,27.7843998,-97.4055884
+MORRIS_L_D,Morris Substation,ercot_reference_exact,1.0,27.7843998,-97.4055884
+MORRIS_V_A,Morris Substation,ercot_reference_exact,1.0,27.7843998,-97.4055884
+MORRIS_V_B,Morris Substation,ercot_reference_exact,1.0,27.7843998,-97.4055884
+MOUNTARY1,Mountary Substation,ercot_reference_exact,1.0,32.075523,-98.4318283
+MOZART_WIND1,Mozart Substation,ercot_reference_exact,1.0,32.9942365,-100.5316381
+MOZ_WOFG,Mozart Substation,ercot_reference_exact,1.0,32.9942365,-100.5316381
+MRKM_SLR,Bosque Substation,ercot_reference_exact,1.0,31.6858773,-97.3750445
+MRKM_SLR0020,Bosque Substation,ercot_reference_exact,1.0,31.6858773,-97.3750445
+MRKM_SLR3840,Bosque Substation,ercot_reference_exact,1.0,31.6858773,-97.3750445
+MRKM_SLR8101,Bosque Substation,ercot_reference_exact,1.0,31.6858773,-97.3750445
+MRKM_SLR_RN,Bosque Substation,ercot_reference_exact,1.0,31.6858773,-97.3750445
+MUELLER,Mueller Substation,ercot_reference_exact,1.0,30.2899893,-97.6895779
+MUELLERX,Mueller Substation,ercot_reference_exact,1.0,30.2899893,-97.6895779
+MUELLERY,Mueller Substation,ercot_reference_exact,1.0,30.2899893,-97.6895779
+MUNDAY,Munday Substation,exact,0.99,33.4502702,-99.6207603
+MUSQUI_138_1,Musquiz Substation,ercot_reference_exact,1.0,31.2383707,-103.1582934
+MUSTANG_L_A,Mustang Ca Substation,alias,1.0,35.3763216,-97.7429192
+NAAMAN_EB1,Naaman Substation,ercot_reference_exact,1.0,32.9368989,-96.6113491
+NAAMAN_T1,Naaman Substation,ercot_reference_exact,1.0,32.9368989,-96.6113491
+NAAMAN_T2,Naaman Substation,ercot_reference_exact,1.0,32.9368989,-96.6113491
+NARUNA_L_A,Naruna Substation,ercot_reference_exact,1.0,31.0476489,-98.1908146
+NAVO,Navo Substation,ercot_reference_exact,1.0,33.2210505,-96.9179473
+NAVO1,Navo Substation,ercot_reference_exact,1.0,33.2210505,-96.9179473
+NAVO3,Navo Substation,ercot_reference_exact,1.0,33.2210505,-96.9179473
+NAVO4,Navo Substation,ercot_reference_exact,1.0,33.2210505,-96.9179473
+NAVOEB,Navo Substation,ercot_reference_exact,1.0,33.2210505,-96.9179473
+NEWARK,Newark Substation,ercot_reference_exact,1.0,33.0399204,-97.5229079
+NEWMAN_2000,Newman Substation,ercot_reference_exact,1.0,31.9839419,-106.4348695
+NEWMAN_WLNT,Newman Substation,ercot_reference_exact,1.0,31.9839419,-106.4348695
+NF_BRP_RN,Andice Substation,ercot_reference_exact,1.0,30.7489665,-97.875798
+NIMROD1,Nimrod Substation,ercot_reference_exact,1.0,32.2717751,-99.0106737
+NIMROD2,Nimrod Substation,ercot_reference_exact,1.0,32.2717751,-99.0106737
+NORFORK,Norfork Substation,exact,0.99,32.2431282,-98.2236262
+NORTH,North Substation,exact,0.99,30.6912024,-96.3944518
+NOVC_L_A,Novice Substation,ercot_reference_exact,1.0,31.9840284,-99.6692989
+NT2,Henne Substation,ercot_reference_exact,1.0,29.7735088,-98.050972
+NUCOR_8A,Nucor Substation,ercot_reference_exact,1.0,31.3524386,-96.1633532
+NUCOR_ST1_5X,Nucor Substation,ercot_reference_exact,1.0,31.3524386,-96.1633532
+NUCOR_ST1_5Y,Nucor Substation,ercot_reference_exact,1.0,31.3524386,-96.1633532
+NUCOR_ST1_5Z,Nucor Substation,ercot_reference_exact,1.0,31.3524386,-96.1633532
+NUECES_B_CC1,Nueces Bay Substation,alias,1.0,27.8209001,-97.4183686
+NUECES_B_V_A,Nueces Bay Substation,alias,1.0,27.8209001,-97.4183686
+NUECES_B_V_B,Nueces Bay Substation,alias,1.0,27.8209001,-97.4183686
+NUECES_B_V_C,Nueces Bay Substation,alias,1.0,27.8209001,-97.4183686
+NUECES_B_V_D,Nueces Bay Substation,alias,1.0,27.8209001,-97.4183686
+NUECES_EPS9,Gila Substation,ercot_reference_exact,1.0,27.8197488,-97.4213144
+NUE_NUECESG9,Gila Substation,ercot_reference_exact,1.0,27.8197488,-97.4213144
+NUGE_L_A,Nugent Substation,ercot_reference_exact,1.0,32.6937158,-99.6748451
+N_ALAMO_L_A,Alamo Cement Substation,alias,1.0,29.611783,-98.3744229
+N_ALAMO_L_B,Alamo Cement Substation,alias,1.0,29.611783,-98.3744229
+N_ELLA_L_A,North Ella Substation,alias,1.0,27.5286625,-98.1124413
+N_SHARPE_V_A,Nelson Sharpe Substation,alias,1.0,27.560471,-97.6688342
+N_SHARPE_V_B,Nelson Sharpe Substation,alias,1.0,27.560471,-97.6688342
+N_SHARPE_V_C,Nelson Sharpe Substation,alias,1.0,27.560471,-97.6688342
+ODEM_L_A,Odem Substation,ercot_reference_exact,1.0,27.9425339,-97.5737846
+ODEM_L_B,Odem Substation,ercot_reference_exact,1.0,27.9425339,-97.5737846
+OLD1,Devine Substation,ercot_reference_exact,1.0,29.1339644,-98.8974241
+OLD2,Devine Substation,ercot_reference_exact,1.0,29.1339644,-98.8974241
+OLMITO_K,Olmito Substation,ercot_reference_exact,1.0,26.0015288,-97.5198154
+OLMITO_RN,Olmito Substation,ercot_reference_exact,1.0,26.0015288,-97.5198154
+OLMOSSUB9X,Olmos Substation,ercot_reference_exact,1.0,29.4841892,-98.4910556
+OLMOS_B,Olmos Substation,exact,0.99,29.4841892,-98.4910556
+OLMOS_C,Olmos Substation,exact,0.99,29.4841892,-98.4910556
+OLMOS_D,Olmos Substation,exact,0.99,29.4841892,-98.4910556
+OLMOS_K,Olmos Substation,exact,0.99,29.4841892,-98.4910556
+OLMOS_S_1,Olmos Substation,ercot_reference_exact,1.0,29.4841892,-98.4910556
+OLM_MIL_EB,Olmito Substation,ercot_reference_exact,1.0,26.0015288,-97.5198154
+OLM_PAL_EB,Olmito Substation,ercot_reference_exact,1.0,26.0015288,-97.5198154
+ORION_L_A,Orion Substation,ercot_reference_exact,1.0,29.6287037,-95.0450702
+OZNA_L_A,Ozona Substation,ercot_reference_exact,1.0,30.719174,-101.1997574
+OZNA_V_A,Ozona Substation,ercot_reference_exact,1.0,30.719174,-101.1997574
+OZONA_LD02,Ozona Substation,ercot_reference_exact,1.0,30.719174,-101.1997574
+PADUCAH,Paducah City Substation,alias,1.0,34.0146962,-100.2993742
+PAGE_L_A,Page Field Substation,alias,1.0,30.7985235,-100.4642948
+PALACIOS_2,Palacios Substation,alias,1.0,28.7570091,-96.2121274
+PALACIOS_L_A,Palacios Substation,ercot_reference_exact,1.0,28.7570091,-96.2121274
+PALACIOS_L_B,Palacios Substation,ercot_reference_exact,1.0,28.7570091,-96.2121274
+PALACIOS_RN,Palacios Substation,ercot_reference_exact,1.0,28.7570091,-96.2121274
+PALACI_2886,Palacios Substation,ercot_reference_exact,1.0,28.7570091,-96.2121274
+PALACI_2887,Palacios Substation,ercot_reference_exact,1.0,28.7570091,-96.2121274
+PALACI_PS30,Palacios Substation,ercot_reference_exact,1.0,28.7570091,-96.2121274
+PALACI_PS31,Palacios Substation,ercot_reference_exact,1.0,28.7570091,-96.2121274
+PANDA_S_CC1,Panda Temple 1 Substation,alias,1.0,31.0570663,-97.315088
+PANDA_S_CT1,Panda Temple 1 Substation,alias,1.0,31.0570663,-97.315088
+PANDA_S_CT2,Panda Temple 1 Substation,alias,1.0,31.0570663,-97.315088
+PANDA_S_ST1,Panda Temple 1 Substation,alias,1.0,31.0570663,-97.315088
+PARIS_8T,Paris Substation,ercot_reference_exact,1.0,33.6390776,-95.58098
+PARIS_8W,Paris Substation,ercot_reference_exact,1.0,33.6390776,-95.58098
+PARKER_L_A,Parker Substation,ercot_reference_exact,1.0,29.5719349,-96.3840937
+PARSONS_A,Parsons Street Substation,alias,1.0,29.4121069,-98.4795019
+PARSONS_B,Parsons Street Substation,alias,1.0,29.4121069,-98.4795019
+PATRICIA_LD1,Patricia Substation,ercot_reference_exact,1.0,32.5498913,-102.0080729
+PATTON_K,Patton Lane Substation,alias,1.0,30.2382882,-97.8704915
+PAYNE1_8,Payne Substation,ercot_reference_exact,1.0,34.8923993,-97.5548792
+PAYNE1_N8K,Payne Substation,ercot_reference_exact,1.0,34.8923993,-97.5548792
+PAYNE1_S8M,Payne Substation,ercot_reference_exact,1.0,34.8923993,-97.5548792
+PEARSALL,Pearsall Substation,exact,0.99,28.8881174,-99.0793245
+PEARSALL9512,Pearsall Substation,ercot_reference_exact,1.0,28.8881174,-99.0793245
+PEARSALL_1,Pearsall Substation,alias,1.0,28.8881174,-99.0793245
+PEARSALL_AG1,Pearsall Substation,ercot_reference_exact,1.0,28.8881174,-99.0793245
+PEARSALL_AG2,Pearsall Substation,ercot_reference_exact,1.0,28.8881174,-99.0793245
+PEARSALL_EB1,Pearsall Substation,ercot_reference_exact,1.0,28.8881174,-99.0793245
+PEARSALL_EB2,Pearsall Substation,ercot_reference_exact,1.0,28.8881174,-99.0793245
+PEARSALL_RN,Pearsall Substation,ercot_reference_exact,1.0,28.8881174,-99.0793245
+PEARSAL_2422,Pearsall Substation,ercot_reference_exact,1.0,28.8881174,-99.0793245
+PEARSAL_8107,Pearsall Substation,ercot_reference_exact,1.0,28.8881174,-99.0793245
+PEARSAL_8207,Pearsall Substation,ercot_reference_exact,1.0,28.8881174,-99.0793245
+PEARSAL_8307,Pearsall Substation,ercot_reference_exact,1.0,28.8881174,-99.0793245
+PEARSAL_8407,Pearsall Substation,ercot_reference_exact,1.0,28.8881174,-99.0793245
+PEARSAL_8507,Pearsall Substation,ercot_reference_exact,1.0,28.8881174,-99.0793245
+PEARSAL_9502,Pearsall Substation,ercot_reference_exact,1.0,28.8881174,-99.0793245
+PEARSAL_9505,Pearsall Substation,ercot_reference_exact,1.0,28.8881174,-99.0793245
+PECOS_L1,Pecos Substation,ercot_reference_exact,1.0,31.4295051,-103.4987029
+PECOS_S1,Pecos Substation,ercot_reference_exact,1.0,31.4295051,-103.4987029
+PETTEWAY,Petteway Substation,exact,0.99,31.1666079,-96.524504
+PETTUS_L_A,Pettus Substation,ercot_reference_exact,1.0,28.6207008,-97.7953959
+PETTUS_L_B,Pettus Substation,ercot_reference_exact,1.0,28.6207008,-97.7953959
+PH1_UNIT1_2,Railhead Substation,ercot_reference_exact,1.0,35.4022323,-101.1538371
+PH2_U1_U2,Railhead Substation,ercot_reference_exact,1.0,35.4022323,-101.1538371
+PICACHO_0109,Picacho Substation,ercot_reference_exact,1.0,29.4324493,-100.9409377
+PICACHO_0180,Picacho Substation,ercot_reference_exact,1.0,29.4324493,-100.9409377
+PICACHO_LD01,Picacho Substation,ercot_reference_exact,1.0,29.4324493,-100.9409377
+PLACEDO_L_A,Placedo Substation,ercot_reference_exact,1.0,28.6687797,-96.859755
+PLEASANT_L_A,Pleasant Grove Substation,alias,1.0,31.1314562,-96.9030892
+PLEASANT_L_B,Pleasant Grove Substation,alias,1.0,31.1314562,-96.9030892
+PLEASANT_V_A,Pleasant Grove Substation,alias,1.0,31.1314562,-96.9030892
+PLUM_K,Plum Substation,ercot_reference_exact,1.0,29.9440691,-97.0120152
+POAGE,Poage Substation,exact,0.99,31.0641469,-97.4403807
+PORTLAND_L_A,Portland Substation,ercot_reference_exact,1.0,27.8878114,-97.3224165
+PORTLAND_L_B,Portland Substation,ercot_reference_exact,1.0,27.8878114,-97.3224165
+PORTSL_UNIT1,Port Substation,ercot_reference_exact,1.0,29.7531369,-95.1846261
+PORT_A_BUS1,Port Substation,ercot_reference_exact,1.0,29.7531369,-95.1846261
+PORT_A_BUS2,Port Substation,ercot_reference_exact,1.0,29.7531369,-95.1846261
+PORT_A_L_A,Port Substation,ercot_reference_exact,1.0,29.7531369,-95.1846261
+PORT_A_L_B,Port Substation,ercot_reference_exact,1.0,29.7531369,-95.1846261
+PORT_EB1,Port Substation,ercot_reference_exact,1.0,29.7531369,-95.1846261
+PORT_LD1,Port Substation,ercot_reference_exact,1.0,29.7531369,-95.1846261
+PORT_UN1,Port Substation,ercot_reference_exact,1.0,29.7531369,-95.1846261
+POWELL,Powell Substation,ercot_reference_exact,1.0,29.6264645,-95.0388483
+PRAXAIR_BT1,Praxair Substation,ercot_reference_exact,1.0,29.3678646,-94.9472041
+PRAXAIR_T1,Praxair Substation,ercot_reference_exact,1.0,29.3678646,-94.9472041
+PRAXAIR_T2,Praxair Substation,ercot_reference_exact,1.0,29.3678646,-94.9472041
+PREMONT_L_A,Premont Substation,ercot_reference_exact,1.0,27.3832569,-98.1260213
+PREMONT_L_B,Premont Substation,ercot_reference_exact,1.0,27.3832569,-98.1260213
+PUEBLO_1001,Pueblo Substation,ercot_reference_exact,1.0,28.6789845,-100.4637508
+PUEBLO_4461,Pueblo Substation,ercot_reference_exact,1.0,28.6789845,-100.4637508
+PUEBLO_L1,Pueblo Substation,ercot_reference_exact,1.0,28.6789845,-100.4637508
+PUEBLO_L2,Pueblo Substation,ercot_reference_exact,1.0,28.6789845,-100.4637508
+PUNCHER_LD1,Puncher Substation,ercot_reference_exact,1.0,30.5622978,-99.261792
+PURDON,Purdon Substation,ercot_reference_exact,1.0,31.9780158,-96.6419689
+PYOTE_8403,Pyote Substation,ercot_reference_exact,1.0,31.4506038,-103.0980024
+PYOTE_8423,Pyote Substation,ercot_reference_exact,1.0,31.4506038,-103.0980024
+PYOTE_8427,Pyote Substation,ercot_reference_exact,1.0,31.4506038,-103.0980024
+PYOTE_RN,Pyote Substation,ercot_reference_exact,1.0,31.4506038,-103.0980024
+P_LAVACA_V_A,Port Lavaca Substation,alias,1.0,28.6107228,-96.6582959
+QUINTANA_A,Quintana Road Substation,alias,1.0,29.3729749,-98.5565184
+QUINTANA_B,Quintana Road Substation,alias,1.0,29.3729749,-98.5565184
+RACHAL_L_A,Rachal Substation,ercot_reference_exact,1.0,26.8901417,-98.1638131
+RADIUMMT_8,Radium Substation,ercot_reference_exact,1.0,32.8268178,-99.9935163
+RADIUM_V_B,Radium Substation,ercot_reference_exact,1.0,32.8268178,-99.9935163
+RANDADO_4593,Randado Substation,ercot_reference_exact,1.0,27.0840868,-98.9285684
+RANDADO_L163,Randado Substation,ercot_reference_exact,1.0,27.0840868,-98.9285684
+RANDADO_L_A,Randado Substation,ercot_reference_exact,1.0,27.0840868,-98.9285684
+RANDOLPH_A,Randolph Field Substation,alias,1.0,29.543545,-98.2906459
+RANDOLPH_B,Randolph Field Substation,alias,1.0,29.543545,-98.2906459
+RANDOLPH_C,Randolph Field Substation,alias,1.0,29.543545,-98.2906459
+RANK_L_A,Rankin Substation,ercot_reference_exact,1.0,31.2179139,-101.9374979
+REFUGIO_L_A,Refugio Substation,ercot_reference_exact,1.0,28.349435,-97.3449358
+REFUGIO_L_B,Refugio Substation,ercot_reference_exact,1.0,28.349435,-97.3449358
+REFUGIO_V_A,Refugio Substation,ercot_reference_exact,1.0,28.349435,-97.3449358
+REVEILLE_LD1,Reveille Substation,ercot_reference_exact,1.0,28.414759,-99.2581054
+REVEILLE_LD2,Reveille Substation,ercot_reference_exact,1.0,28.414759,-99.2581054
+REVEILLE_LD5,Reveille Substation,ercot_reference_exact,1.0,28.414759,-99.2581054
+RHOME,Rhome Substation,exact,0.99,33.0765203,-97.4742819
+RHOME_8,Rhome Substation,ercot_reference_exact,1.0,33.0765203,-97.4742819
+RHOME_8V,Rhome Substation,ercot_reference_exact,1.0,33.0765203,-97.4742819
+RHOME_8W,Rhome Substation,ercot_reference_exact,1.0,33.0765203,-97.4742819
+RH_0003,Railhead Substation,ercot_reference_exact,1.0,35.4022323,-101.1538371
+RH_0006,Railhead Substation,ercot_reference_exact,1.0,35.4022323,-101.1538371
+RH_0009,Railhead Substation,ercot_reference_exact,1.0,35.4022323,-101.1538371
+RH_0012,Railhead Substation,ercot_reference_exact,1.0,35.4022323,-101.1538371
+RH_0017,Railhead Substation,ercot_reference_exact,1.0,35.4022323,-101.1538371
+RH_0018,Railhead Substation,ercot_reference_exact,1.0,35.4022323,-101.1538371
+RH_0024,Railhead Substation,ercot_reference_exact,1.0,35.4022323,-101.1538371
+RH_LN,Railhead Substation,ercot_reference_exact,1.0,35.4022323,-101.1538371
+RIDGE_K,Ridge Substation,ercot_reference_exact,1.0,31.1047961,-96.2946075
+RIDGE_KG,Ridge Substation,ercot_reference_exact,1.0,31.1047961,-96.2946075
+RIGGINS_0001,Riggins Substation,ercot_reference_exact,1.0,31.0543937,-102.8510042
+RIGGINS_0003,Riggins Substation,ercot_reference_exact,1.0,31.0543937,-102.8510042
+RIGGIN_UN1,Riggins Substation,ercot_reference_exact,1.0,31.0543937,-102.8510042
+RIGGIN_UNIT1,Riggins Substation,ercot_reference_exact,1.0,31.0543937,-102.8510042
+RILEY_L243,Riley Substation,ercot_reference_exact,1.0,34.0852615,-99.1453349
+RILEY_L413,Riley Substation,ercot_reference_exact,1.0,34.0852615,-99.1453349
+RILEY_L618,Riley Substation,ercot_reference_exact,1.0,34.0852615,-99.1453349
+RILEY_L625,Riley Substation,ercot_reference_exact,1.0,34.0852615,-99.1453349
+RILEY_L827,Riley Substation,ercot_reference_exact,1.0,34.0852615,-99.1453349
+RILEY_LBO1,Riley Substation,ercot_reference_exact,1.0,34.0852615,-99.1453349
+RILEY_LBO2,Riley Substation,ercot_reference_exact,1.0,34.0852615,-99.1453349
+RILEY_LED1,Riley Substation,ercot_reference_exact,1.0,34.0852615,-99.1453349
+RILEY_LED2,Riley Substation,ercot_reference_exact,1.0,34.0852615,-99.1453349
+RILEY_LFI1,Riley Substation,ercot_reference_exact,1.0,34.0852615,-99.1453349
+RILEY_LOK1,Riley Substation,ercot_reference_exact,1.0,34.0852615,-99.1453349
+RILEY_S959,Riley Substation,ercot_reference_exact,1.0,34.0852615,-99.1453349
+RINCON_V_A,Rincon Substation,ercot_reference_exact,1.0,27.9868046,-97.3297132
+RINCON_V_B,Rincon Substation,ercot_reference_exact,1.0,27.9868046,-97.3297132
+RINCON_V_C,Rincon Substation,ercot_reference_exact,1.0,27.9868046,-97.3297132
+RIVERYT2,Rivery Substation,ercot_reference_exact,1.0,30.6485016,-97.6896452
+RN_OCI_ALAMO,Oci Alamo 1,hybrid_fuzzy,0.76,29.2714325,-98.4556671
+ROANOKE,Roanoke Substation,ercot_reference_exact,1.0,32.9918953,-97.2615896
+ROANOKE_K,Roanoke Substation,ercot_reference_exact,1.0,32.9918953,-97.2615896
+ROANOKE_KC,Roanoke Substation,ercot_reference_exact,1.0,32.9918953,-97.2615896
+ROBERTSON,Robertson Substation,exact,0.99,30.9451326,-96.5693046
+ROBSTOWN_L_A,Robstown Substation,ercot_reference_exact,1.0,27.7686133,-97.6361069
+ROBY_9BB1,Roby Substation,ercot_reference_exact,1.0,32.7486564,-100.3778314
+ROBY_L_A,Roby Substation,ercot_reference_exact,1.0,32.7486564,-100.3778314
+ROCHESTER,Rochester Substation,exact,0.99,33.3171025,-99.8567827
+ROCKPORT_LD1,Rockport Substation,ercot_reference_exact,1.0,27.9775952,-97.1420783
+ROCKPORT_V_A,Rockport Substation,ercot_reference_exact,1.0,27.9775952,-97.1420783
+ROCKP_BUS2,Rockport Substation,ercot_reference_exact,1.0,27.9775952,-97.1420783
+RODGERS_EB1,Rodgers Substation,ercot_reference_exact,1.0,30.6687793,-96.3467671
+RODGERS_EB2,Rodgers Substation,ercot_reference_exact,1.0,30.6687793,-96.3467671
+ROUTE66_RN,Route 66 Wind Substation,ercot_reference_exact,1.0,35.205911,-101.4349646
+RULE_L_A,Rule Substation,ercot_reference_exact,1.0,33.1892507,-99.8899411
+RULE_V_A,Rule Substation,ercot_reference_exact,1.0,33.1892507,-99.8899411
+RUNGE_LD01,Runge Substation,ercot_reference_exact,1.0,28.8706549,-97.7015437
+RUNGE_LD02,Runge Substation,ercot_reference_exact,1.0,28.8706549,-97.7015437
+R_ATKINS_1,Atkins Substation,ercot_reference_exact,1.0,30.6466224,-96.3742315
+R_ATKINS_2,Atkins Substation,ercot_reference_exact,1.0,30.6466224,-96.3742315
+R_DANSBY_1,Dansby Substation,ercot_reference_exact,1.0,30.7221456,-96.4588366
+R_DANSBY_2,Dansby Substation,ercot_reference_exact,1.0,30.7221456,-96.4588366
+R_DANSBY_3,Dansby Substation,ercot_reference_exact,1.0,30.7221456,-96.4588366
+R_TNP_ONE_1,Tnp One Substation,ercot_reference_exact,1.0,31.0912725,-96.6935559
+R_TRENT_1,Trent Substation,ercot_reference_exact,1.0,32.4927396,-100.1179747
+S1_BS2,Howard Substation,ercot_reference_exact,1.0,35.4308009,-100.2799081
+S1_BUS1,Howard Substation,ercot_reference_exact,1.0,35.4308009,-100.2799081
+S1_BUS2,Howard Substation,ercot_reference_exact,1.0,35.4308009,-100.2799081
+S1_BUS3,Howard Substation,ercot_reference_exact,1.0,35.4308009,-100.2799081
+S1_EB,Solara Substation,ercot_reference_exact,1.0,33.0065718,-99.6054348
+S3K2,Matador Substation,ercot_reference_exact,1.0,34.0112867,-100.8318732
+S3K8,Matador Substation,ercot_reference_exact,1.0,34.0112867,-100.8318732
+SABINAL_L_A,Sabinal Substation,ercot_reference_exact,1.0,29.298851,-99.4635889
+SACK_KV_BUS,Rusthill Substation,ercot_reference_exact,1.0,31.4517257,-100.4248235
+SALEM,Salem Substation,exact,0.99,30.1112125,-96.4256642
+SALEM_HB_EB,Salem Substation,ercot_reference_exact,1.0,30.1112125,-96.4256642
+SALTY,Salty Substation,exact,0.99,30.5962787,-97.1326174
+SAMSON_ALL,Samson Substation,exact,0.99,33.3658796,-104.4610937
+SANDY,Sandy Substation,ercot_reference_exact,1.0,30.597507,-95.7272219
+SANDY2,Sandy Substation,ercot_reference_exact,1.0,30.597507,-95.7272219
+SANTIAGO_002,Santiago Substation,ercot_reference_exact,1.0,31.1162658,-100.5132428
+SANTIAGO_223,Santiago Substation,ercot_reference_exact,1.0,31.1162658,-100.5132428
+SEAHM8T,Seaholm Substation,ercot_reference_exact,1.0,30.2668613,-97.7513792
+SEAHM8U,Seaholm Substation,ercot_reference_exact,1.0,30.2668613,-97.7513792
+SEAHM8V,Seaholm Substation,ercot_reference_exact,1.0,30.2668613,-97.7513792
+SEAHM8W,Seaholm Substation,ercot_reference_exact,1.0,30.2668613,-97.7513792
+SEAHM8X,Seaholm Substation,ercot_reference_exact,1.0,30.2668613,-97.7513792
+SEAHM8Y,Seaholm Substation,ercot_reference_exact,1.0,30.2668613,-97.7513792
+SEAHM8Z,Seaholm Substation,ercot_reference_exact,1.0,30.2668613,-97.7513792
+SEAHOLM_K,Seaholm Substation,ercot_reference_exact,1.0,30.2668613,-97.7513792
+SEAWALL_L_A,Seawall Substation,ercot_reference_exact,1.0,27.8999332,-97.1453767
+SEAWALL_L_B,Seawall Substation,ercot_reference_exact,1.0,27.8999332,-97.1453767
+SECOSUB8,Seco Substation,ercot_reference_exact,1.0,29.4364938,-99.2383605
+SEKV,Port Substation,ercot_reference_exact,1.0,29.7531369,-95.1846261
+SELDEN,Selden Substation,exact,0.99,32.1867705,-98.1572759
+SEMI_EB34,Seminole,ercot_reference_exact,1.0,32.7828601,-102.6756116
+SEMI_EB36,Seminole,ercot_reference_exact,1.0,32.7828601,-102.6756116
+SEYMOUR,Seymour Substation,exact,0.99,33.5946798,-99.2545766
+SEYMOUR_9,Seymour Substation,alias,1.0,33.5946798,-99.2545766
+SHAMROCK_RN,Shamrock Substation,ercot_reference_exact,1.0,34.853864,-100.2096328
+SHAM_BESS1,Shamrock Substation,ercot_reference_exact,1.0,34.853864,-100.2096328
+SHAW_LD1,V. B. Shaw Substation,ercot_reference_exact,1.0,32.741928,-95.2856157
+SHAW_LN1,V. B. Shaw Substation,ercot_reference_exact,1.0,32.741928,-95.2856157
+SHAW_SLR_RN,V. B. Shaw Substation,ercot_reference_exact,1.0,32.741928,-95.2856157
+SHA_U1,V. B. Shaw Substation,ercot_reference_exact,1.0,32.741928,-95.2856157
+SHILOH,Shiloh Substation,exact,0.99,32.9004807,-96.6668772
+SIGMOR_BB6,Sigmor Substation,ercot_reference_exact,1.0,28.4553414,-98.1868027
+SIGMOR_BB8,Sigmor Substation,ercot_reference_exact,1.0,28.4553414,-98.1868027
+SIGMOR_LD06,Sigmor Substation,ercot_reference_exact,1.0,28.4553414,-98.1868027
+SIGMOR_LD07,Sigmor Substation,ercot_reference_exact,1.0,28.4553414,-98.1868027
+SIGMOR_L_A,Sigmor Substation,ercot_reference_exact,1.0,28.4553414,-98.1868027
+SIGMOR_L_B,Sigmor Substation,ercot_reference_exact,1.0,28.4553414,-98.1868027
+SIGMOR_L_C,Sigmor Substation,ercot_reference_exact,1.0,28.4553414,-98.1868027
+SIGMOR_L_D,Sigmor Substation,ercot_reference_exact,1.0,28.4553414,-98.1868027
+SIGMOR_L_E,Sigmor Substation,ercot_reference_exact,1.0,28.4553414,-98.1868027
+SIGMOR_V_A,Sigmor Substation,ercot_reference_exact,1.0,28.4553414,-98.1868027
+SIGMOR_V_B,Sigmor Substation,ercot_reference_exact,1.0,28.4553414,-98.1868027
+SIGMOR_V_C,Sigmor Substation,ercot_reference_exact,1.0,28.4553414,-98.1868027
+SIGMOR_V_D,Sigmor Substation,ercot_reference_exact,1.0,28.4553414,-98.1868027
+SIGMOR_V_E,Sigmor Substation,ercot_reference_exact,1.0,28.4553414,-98.1868027
+SILR_L_A,Silver Substation,ercot_reference_exact,1.0,32.0704066,-100.678143
+SINTON_L_A,Sinton Substation,ercot_reference_exact,1.0,28.0308611,-97.5125951
+SINTON_L_B,Sinton Substation,ercot_reference_exact,1.0,28.0308611,-97.5125951
+SINTON_V_A,Sinton Substation,ercot_reference_exact,1.0,28.0308611,-97.5125951
+SIRIUS_UNIT1,Sirius Substation,ercot_reference_exact,1.0,30.9821054,-102.2740698
+SI_LINE_EB,Sirius Substation,ercot_reference_exact,1.0,30.9821054,-102.2740698
+SI_UNIT1,Sirius Substation,ercot_reference_exact,1.0,30.9821054,-102.2740698
+SI_UNIT2,Sirius Substation,ercot_reference_exact,1.0,30.9821054,-102.2740698
+SKIDMORE_L_A,Skidmore Substation,ercot_reference_exact,1.0,28.2552108,-97.6763101
+SLVN,Sylvan Substation,ercot_reference_exact,1.0,29.654623,-95.0402382
+SL_LD_EB,Solara Substation,ercot_reference_exact,1.0,33.0065718,-99.6054348
+SL_LINE_EB,Solara Substation,ercot_reference_exact,1.0,33.0065718,-99.6054348
+SMITH_L_A,Smith Substation,ercot_reference_exact,1.0,27.8678166,-97.6321521
+SMITH_L_B,Smith Substation,ercot_reference_exact,1.0,27.8678166,-97.6321521
+SMS,Sms Substation,ercot_reference_exact,1.0,33.2896675,-100.9477811
+SMT,Butler Substation,ercot_reference_exact,1.0,30.3894531,-97.3247387
+SOLARA_UNIT1,Solara Substation,ercot_reference_exact,1.0,33.0065718,-99.6054348
+SOLSTICEL020,Solstice Substation,ercot_reference_exact,1.0,30.9483202,-103.3617143
+SOLSTICEL208,Solstice Substation,ercot_reference_exact,1.0,30.9483202,-103.3617143
+SOLSTICEL270,Solstice Substation,ercot_reference_exact,1.0,30.9483202,-103.3617143
+SOLSTICEL409,Solstice Substation,ercot_reference_exact,1.0,30.9483202,-103.3617143
+SOLSTICEL700,Solstice Substation,ercot_reference_exact,1.0,30.9483202,-103.3617143
+SOLSTICES409,Solstice Substation,ercot_reference_exact,1.0,30.9483202,-103.3617143
+SOL_1,Solstice Substation,ercot_reference_exact,1.0,30.9483202,-103.3617143
+SOMERSET_A,Somerset Substation,exact,0.99,29.2420977,-98.6493785
+SOMERSET_B,Somerset Substation,exact,0.99,29.2420977,-98.6493785
+SOMMERS,O. W. Sommers Switchyard,alias,1.0,29.3102638,-98.3236095
+SONTERRA_K,Sonterra Substation,ercot_reference_exact,1.0,30.8022868,-97.6076207
+SOUTH,South Substation,exact,0.99,33.0062875,-97.0108813
+SPENCE_L_A,Spence Pump Substation,alias,1.0,31.9505861,-100.5971847
+SPRINKLEY,Sprinkle Substation,ercot_reference_exact,1.0,30.3531039,-97.6455302
+SPRINKLEZ,Sprinkle Substation,ercot_reference_exact,1.0,30.3531039,-97.6455302
+SPRINKLE_K,Sprinkle Substation,ercot_reference_exact,1.0,30.3531039,-97.6455302
+SPRINKLE_L,Sprinkle Substation,ercot_reference_exact,1.0,30.3531039,-97.6455302
+SPRUCE,J. K. Spruce Switchyard,alias,1.0,29.3124345,-98.3202134
+SPUR_ASP,Spur Substation,ercot_reference_exact,1.0,33.4737594,-100.857231
+SPUR_ESP,Spur Substation,ercot_reference_exact,1.0,33.4737594,-100.857231
+SPUR_GIR,Spur Substation,ercot_reference_exact,1.0,33.4737594,-100.857231
+SPUR_L_A,Spur Substation,ercot_reference_exact,1.0,33.4737594,-100.857231
+SPUR_L_B,Spur Substation,ercot_reference_exact,1.0,33.4737594,-100.857231
+SPUR_MCA,Spur Substation,ercot_reference_exact,1.0,33.4737594,-100.857231
+SPUR_SCK,Spur Substation,ercot_reference_exact,1.0,33.4737594,-100.857231
+SPUR_SMS,Spur Substation,ercot_reference_exact,1.0,33.4737594,-100.857231
+SPUR_V_A,Spur Substation,ercot_reference_exact,1.0,33.4737594,-100.857231
+SPUR_V_B,Spur Substation,ercot_reference_exact,1.0,33.4737594,-100.857231
+SR_TL,Shamrock Substation,ercot_reference_exact,1.0,34.853864,-100.2096328
+SR_U1,Shamrock Substation,ercot_reference_exact,1.0,34.853864,-100.2096328
+SR_U2,Shamrock Substation,ercot_reference_exact,1.0,34.853864,-100.2096328
+SS1,Wirtz Substation,ercot_reference_exact,1.0,30.5596814,-98.3374716
+SS2,Wirtz Substation,ercot_reference_exact,1.0,30.5596814,-98.3374716
+STADIUM_L_A,Stadium Substation,ercot_reference_exact,1.0,27.7460816,-98.0538397
+STADIUM_L_B,Stadium Substation,ercot_reference_exact,1.0,27.7460816,-98.0538397
+STADIUM_RN,Stadium Substation,ercot_reference_exact,1.0,27.7460816,-98.0538397
+STADIUM_V_A,Stadium Substation,ercot_reference_exact,1.0,27.7460816,-98.0538397
+STECK,Steck Substation,ercot_reference_exact,1.0,30.3672645,-97.7415848
+STECKX,Steck Substation,ercot_reference_exact,1.0,30.3672645,-97.7415848
+STECKY,Steck Substation,ercot_reference_exact,1.0,30.3672645,-97.7415848
+STECKZ,Steck Substation,ercot_reference_exact,1.0,30.3672645,-97.7415848
+STEVENS_L_A,Stevens Substation,ercot_reference_exact,1.0,27.8601223,-97.6194419
+STEVENS_L_B,Stevens Substation,ercot_reference_exact,1.0,27.8601223,-97.6194419
+STONEY_R,Stoney Ridge Substation,alias,1.0,30.1588713,-97.6356623
+STREICH_A,Streich Road Substation,alias,1.0,29.2758077,-98.3739793
+ST_AL_LN,Stadium Substation,ercot_reference_exact,1.0,27.7460816,-98.0538397
+ST_GL_LN,Stadium Substation,ercot_reference_exact,1.0,27.7460816,-98.0538397
+ST_K,Saint Hedwig Substation,alias,1.0,29.4271595,-98.3966963
+SUMMITN,Summit Substation,ercot_reference_exact,1.0,30.3981165,-97.7237882
+SUMMITNW,Summit Substation,ercot_reference_exact,1.0,30.3981165,-97.7237882
+SUMMITNX,Summit Substation,ercot_reference_exact,1.0,30.3981165,-97.7237882
+SUMMITS,Summit Substation,ercot_reference_exact,1.0,30.3981165,-97.7237882
+SUMMITSY,Summit Substation,ercot_reference_exact,1.0,30.3981165,-97.7237882
+SUMMITSZ,Summit Substation,ercot_reference_exact,1.0,30.3981165,-97.7237882
+SUMMIT_K,Summit Substation,ercot_reference_exact,1.0,30.3981165,-97.7237882
+SUTTON,Sutton Substation,exact,0.99,30.8152846,-96.5277378
+SUTTON_LD01,Sutton Substation,ercot_reference_exact,1.0,30.8152846,-96.5277378
+SUTTON_T2,Sutton Substation,ercot_reference_exact,1.0,30.8152846,-96.5277378
+SWEENY_3826,Sweeny Substation,ercot_reference_exact,1.0,29.0554086,-95.6871314
+SWOOSE1_U1,Pyote Substation,ercot_reference_exact,1.0,31.4506038,-103.0980024
+SWOOSEII_RN,Pyote Substation,ercot_reference_exact,1.0,31.4506038,-103.0980024
+SYLVAN1,Sylvan Substation,ercot_reference_exact,1.0,29.654623,-95.0402382
+SYLVAN2,Sylvan Substation,ercot_reference_exact,1.0,29.654623,-95.0402382
+SYLVAN3,Sylvan Substation,ercot_reference_exact,1.0,29.654623,-95.0402382
+S_BENITO_L_A,San Benito Substation,alias,1.0,26.1438025,-97.6430012
+S_BENITO_L_B,San Benito Substation,alias,1.0,26.1438025,-97.6430012
+S_LOAD1_EB,Sirius Substation,ercot_reference_exact,1.0,30.9821054,-102.2740698
+T12,Evant Substation,ercot_reference_exact,1.0,31.433615,-98.1731642
+T13,Wirtz Substation,ercot_reference_exact,1.0,30.5596814,-98.3374716
+T15,Paige Substation,ercot_reference_exact,1.0,30.2144346,-97.1346902
+T160,Mcneil Substation,ercot_reference_exact,1.0,30.3929592,-97.6892898
+T170EB,Warda Substation,ercot_reference_exact,1.0,30.050317,-96.9208608
+T308,Divide Substation,ercot_reference_exact,1.0,31.8695145,-100.7771803
+T3EE,Lehigh Substation,ercot_reference_exact,1.0,30.0290386,-97.8659726
+T442,Arco Substation,ercot_reference_exact,1.0,29.3481669,-94.9394131
+T5K,Helena Substation,ercot_reference_exact,1.0,28.9379598,-97.7999956
+T63,Dimmit Substation,ercot_reference_exact,1.0,28.5091892,-99.8736653
+T644,Arco Substation,ercot_reference_exact,1.0,29.3481669,-94.9394131
+T667,Warda Substation,ercot_reference_exact,1.0,30.050317,-96.9208608
+T6K,Helena Substation,ercot_reference_exact,1.0,28.9379598,-97.7999956
+T705,Marion Substation,ercot_reference_exact,1.0,29.6208306,-98.1487571
+T97,Dimmit Substation,ercot_reference_exact,1.0,28.5091892,-99.8736653
+TABOR_031,Tabor Substation,ercot_reference_exact,1.0,30.7159983,-96.3646632
+TABOR_AG1,Tabor Substation,ercot_reference_exact,1.0,30.7159983,-96.3646632
+TABOR_K,Tabor Substation,ercot_reference_exact,1.0,30.7159983,-96.3646632
+TABOR_KD,Tabor Substation,ercot_reference_exact,1.0,30.7159983,-96.3646632
+TABOR_KW,Tabor Substation,ercot_reference_exact,1.0,30.7159983,-96.3646632
+TAD,Evant Substation,ercot_reference_exact,1.0,31.433615,-98.1731642
+TAFTSUB9X,Taft Substation,ercot_reference_exact,1.0,27.969762,-97.3985783
+TAFT_L_A,Taft Substation,ercot_reference_exact,1.0,27.969762,-97.3985783
+TAFT_L_B,Taft Substation,ercot_reference_exact,1.0,27.969762,-97.3985783
+TATTON_LD01,Tatton Substation,ercot_reference_exact,1.0,28.2095445,-96.9899938
+TE6,Marion Substation,ercot_reference_exact,1.0,29.6208306,-98.1487571
+TEASLEY138X,Teasley Substation,ercot_reference_exact,1.0,33.1449438,-97.1082821
+TEASLEY138Y,Teasley Substation,ercot_reference_exact,1.0,33.1449438,-97.1082821
+TEJAS_KM,Tejas Substation,ercot_reference_exact,1.0,29.3801432,-94.9229792
+TENARIS_LD1,Tenaris Substation,ercot_reference_exact,1.0,28.9930882,-95.9120064
+TENARIS_LD2,Tenaris Substation,ercot_reference_exact,1.0,28.9930882,-95.9120064
+TESLA_BUS_1A,Tesla Substation,ercot_reference_exact,1.0,34.3733936,-100.0868415
+TESLA_BUS_1B,Tesla Substation,ercot_reference_exact,1.0,34.3733936,-100.0868415
+TESLA_BUS_2A,Tesla Substation,ercot_reference_exact,1.0,34.3733936,-100.0868415
+TESLA_BUS_2B,Tesla Substation,ercot_reference_exact,1.0,34.3733936,-100.0868415
+TILD_T1,Tilden Substation,ercot_reference_exact,1.0,28.4593869,-98.5185235
+TILD_T2,Tilden Substation,ercot_reference_exact,1.0,28.4593869,-98.5185235
+TINSLEY_LD01,Tinsley Substation,ercot_reference_exact,1.0,30.5658275,-100.6574902
+TNALVIN___1N,Alvin Substation,ercot_reference_exact,1.0,29.4333127,-95.2494409
+TNALVIN___1P,Alvin Substation,ercot_reference_exact,1.0,29.4333127,-95.2494409
+TNALVIN___1Q,Alvin Substation,ercot_reference_exact,1.0,29.4333127,-95.2494409
+TNALVIN___1R,Alvin Substation,ercot_reference_exact,1.0,29.4333127,-95.2494409
+TNALVIN___1S,Alvin Substation,ercot_reference_exact,1.0,29.4333127,-95.2494409
+TNALVIN___1T,Alvin Substation,ercot_reference_exact,1.0,29.4333127,-95.2494409
+TNALVIN___1U,Alvin Substation,ercot_reference_exact,1.0,29.4333127,-95.2494409
+TNALVIN___1V,Alvin Substation,ercot_reference_exact,1.0,29.4333127,-95.2494409
+TNANGLETON1,Angleton Substation,ercot_reference_exact,1.0,29.1669775,-95.4406374
+TNANGLETON1P,Angleton Substation,ercot_reference_exact,1.0,29.1669775,-95.4406374
+TNANGLETON1Q,Angleton Substation,ercot_reference_exact,1.0,29.1669775,-95.4406374
+TNANGLETON1R,Angleton Substation,ercot_reference_exact,1.0,29.1669775,-95.4406374
+TNANGLETON1S,Angleton Substation,ercot_reference_exact,1.0,29.1669775,-95.4406374
+TNANGLETON1T,Angleton Substation,ercot_reference_exact,1.0,29.1669775,-95.4406374
+TNANGLETON1W,Angleton Substation,ercot_reference_exact,1.0,29.1669775,-95.4406374
+TNANGLETON1X,Angleton Substation,ercot_reference_exact,1.0,29.1669775,-95.4406374
+TNANGLETON1Y,Angleton Substation,ercot_reference_exact,1.0,29.1669775,-95.4406374
+TNANGLETON1Z,Angleton Substation,ercot_reference_exact,1.0,29.1669775,-95.4406374
+TNAPACHE__1,Apache Substation,ercot_reference_exact,1.0,29.3787017,-94.9475574
+TNAPACHE__1X,Apache Substation,ercot_reference_exact,1.0,29.3787017,-94.9475574
+TNAPACHE__1Y,Apache Substation,ercot_reference_exact,1.0,29.3787017,-94.9475574
+TNAPACHE__1Z,Apache Substation,ercot_reference_exact,1.0,29.3787017,-94.9475574
+TNBAYVIEW_0V,Bayview Substation,ercot_reference_exact,1.0,29.3676648,-94.9012546
+TNBAYVIEW_0W,Bayview Substation,ercot_reference_exact,1.0,29.3676648,-94.9012546
+TNBAYVIEW_0X,Bayview Substation,ercot_reference_exact,1.0,29.3676648,-94.9012546
+TNBRAZORIA0,Brazoria Substation,ercot_reference_exact,1.0,29.0622656,-95.5775752
+TNBRAZORIA1T,Brazoria Substation,ercot_reference_exact,1.0,29.0622656,-95.5775752
+TNBRAZORIA1U,Brazoria Substation,ercot_reference_exact,1.0,29.0622656,-95.5775752
+TNBRAZORIA1V,Brazoria Substation,ercot_reference_exact,1.0,29.0622656,-95.5775752
+TNBRAZORIA1W,Brazoria Substation,ercot_reference_exact,1.0,29.0622656,-95.5775752
+TNBRAZORIA1X,Brazoria Substation,ercot_reference_exact,1.0,29.0622656,-95.5775752
+TNBRAZORIA1Z,Brazoria Substation,ercot_reference_exact,1.0,29.0622656,-95.5775752
+TNBUCKEYE_0A,Buckeye Substation,ercot_reference_exact,1.0,32.8281471,-103.6075603
+TNBUCKEYE_0B,Buckeye Substation,ercot_reference_exact,1.0,32.8281471,-103.6075603
+TNBUCKEYE_0C,Buckeye Substation,ercot_reference_exact,1.0,32.8281471,-103.6075603
+TNBUCKEYE_0D,Buckeye Substation,ercot_reference_exact,1.0,32.8281471,-103.6075603
+TNCHOCTAW_0,Choctaw Substation,ercot_reference_exact,1.0,34.75316,-97.6933451
+TNCHOCTAW_0Z,Choctaw Substation,ercot_reference_exact,1.0,34.75316,-97.6933451
+TNDOW_PUMP0Z,Dow Pump Substation,ercot_reference_exact,1.0,29.0532155,-95.5520019
+TNFAULKNER1A,Faulkner Substation,ercot_reference_exact,1.0,31.261031,-103.7931847
+TNFAULKNER1P,Faulkner Substation,ercot_reference_exact,1.0,31.261031,-103.7931847
+TNFAULKNER1V,Faulkner Substation,ercot_reference_exact,1.0,31.261031,-103.7931847
+TNFAULKNER1W,Faulkner Substation,ercot_reference_exact,1.0,31.261031,-103.7931847
+TNFAULKNER1X,Faulkner Substation,ercot_reference_exact,1.0,31.261031,-103.7931847
+TNFAULKNER1Y,Faulkner Substation,ercot_reference_exact,1.0,31.261031,-103.7931847
+TNFAULKNER1Z,Faulkner Substation,ercot_reference_exact,1.0,31.261031,-103.7931847
+TNFLATTOP_1V,Flat Top Substation,ercot_reference_exact,1.0,31.1995472,-103.3595185
+TNFLATTOP_1W,Flat Top Substation,ercot_reference_exact,1.0,31.1995472,-103.3595185
+TNFLATTOP_1X,Flat Top Substation,ercot_reference_exact,1.0,31.1995472,-103.3595185
+TNFLATTOP_1Y,Flat Top Substation,ercot_reference_exact,1.0,31.1995472,-103.3595185
+TNFLATTOP_1Z,Flat Top Substation,ercot_reference_exact,1.0,31.1995472,-103.3595185
+TNHANDLEY_0,Handley Substation,ercot_reference_exact,1.0,31.7306412,-97.5523606
+TNHASTINGS1,Hastings Substation,ercot_reference_exact,1.0,35.2503002,-101.8499428
+TNHASTINGS1V,Hastings Substation,ercot_reference_exact,1.0,35.2503002,-101.8499428
+TNHASTINGS1W,Hastings Substation,ercot_reference_exact,1.0,35.2503002,-101.8499428
+TNHASTINGS1X,Hastings Substation,ercot_reference_exact,1.0,35.2503002,-101.8499428
+TNKERMIT1_0Z,Kermit #1 Substation,ercot_reference_exact,1.0,31.8483729,-103.0815778
+TNKEYSTONE0,Keystone Substation,ercot_reference_exact,1.0,33.9830336,-96.006445
+TNLINDE___0Z,Linde Substation,ercot_reference_exact,1.0,29.963356,-93.9220696
+TNLONESTAR1P,Lonestar Substation,ercot_reference_exact,1.0,31.5942755,-103.2484104
+TNLONESTAR1Q,Lonestar Substation,ercot_reference_exact,1.0,31.5942755,-103.2484104
+TNLONESTAR1R,Lonestar Substation,ercot_reference_exact,1.0,31.5942755,-103.2484104
+TNLONESTAR1S,Lonestar Substation,ercot_reference_exact,1.0,31.5942755,-103.2484104
+TNLONESTAR1T,Lonestar Substation,ercot_reference_exact,1.0,31.5942755,-103.2484104
+TNLONESTAR1U,Lonestar Substation,ercot_reference_exact,1.0,31.5942755,-103.2484104
+TNLONESTAR1V,Lonestar Substation,ercot_reference_exact,1.0,31.5942755,-103.2484104
+TNLONESTAR1W,Lonestar Substation,ercot_reference_exact,1.0,31.5942755,-103.2484104
+TNLONESTAR1X,Lonestar Substation,ercot_reference_exact,1.0,31.5942755,-103.2484104
+TNLONESTAR1Y,Lonestar Substation,ercot_reference_exact,1.0,31.5942755,-103.2484104
+TNLONESTAR1Z,Lonestar Substation,ercot_reference_exact,1.0,31.5942755,-103.2484104
+TNOCOTILO_X,Ocotillo Wind Substation,ercot_reference_exact,1.0,32.1319887,-101.3938182
+TNOCOTILO_Y,Ocotillo Wind Substation,ercot_reference_exact,1.0,32.1319887,-101.3938182
+TNOCOTILO_Z,Ocotillo Wind Substation,ercot_reference_exact,1.0,32.1319887,-101.3938182
+TNOLSEN___0,Olsen Substation,ercot_reference_exact,1.0,31.7767374,-97.5642983
+TNOLSEN___1,Olsen Substation,ercot_reference_exact,1.0,31.7767374,-97.5642983
+TNOLSEN___1Z,Olsen Substation,ercot_reference_exact,1.0,31.7767374,-97.5642983
+TNP1___1,Tnp One Substation,ercot_reference_exact,1.0,31.0912725,-96.6935559
+TNPECOS___1A,Pecos,ercot_reference_exact,1.0,31.4288846,-103.4987037
+TNPECOS___1B,Pecos,ercot_reference_exact,1.0,31.4288846,-103.4987037
+TNPECOS___1C,Pecos,ercot_reference_exact,1.0,31.4288846,-103.4987037
+TNPECOS___1D,Pecos,ercot_reference_exact,1.0,31.4288846,-103.4987037
+TNPECOS___1E,Pecos,ercot_reference_exact,1.0,31.4288846,-103.4987037
+TNPECOS___1F,Pecos,ercot_reference_exact,1.0,31.4288846,-103.4987037
+TNPECOS___1G,Pecos,ercot_reference_exact,1.0,31.4288846,-103.4987037
+TNPECOS___1H,Pecos,ercot_reference_exact,1.0,31.4288846,-103.4987037
+TNPECOS___1I,Pecos,ercot_reference_exact,1.0,31.4288846,-103.4987037
+TNPECOS___1J,Pecos,ercot_reference_exact,1.0,31.4288846,-103.4987037
+TNPECOS___1K,Pecos,ercot_reference_exact,1.0,31.4288846,-103.4987037
+TNPECOS___1L,Pecos,ercot_reference_exact,1.0,31.4288846,-103.4987037
+TNPECOS___1M,Pecos,ercot_reference_exact,1.0,31.4288846,-103.4987037
+TNPECOS___1N,Pecos,ercot_reference_exact,1.0,31.4288846,-103.4987037
+TNPECOS___1O,Pecos,ercot_reference_exact,1.0,31.4288846,-103.4987037
+TNPUCKTFLD0Z,Puckett Substation,ercot_reference_exact,1.0,30.6296616,-102.5483452
+TNPYOTE___1V,Pyote Substation,ercot_reference_exact,1.0,31.4506038,-103.0980024
+TNPYOTE___1W,Pyote Substation,ercot_reference_exact,1.0,31.4506038,-103.0980024
+TNPYOTE___1X,Pyote Substation,ercot_reference_exact,1.0,31.4506038,-103.0980024
+TNPYOTE___1Y,Pyote Substation,ercot_reference_exact,1.0,31.4506038,-103.0980024
+TNPYOTE___1Z,Pyote Substation,ercot_reference_exact,1.0,31.4506038,-103.0980024
+TNP_ONE_1,Tnp One Substation,ercot_reference_exact,1.0,31.0912725,-96.6935559
+TNP_ONE_5110,Tnp One Substation,ercot_reference_exact,1.0,31.0912725,-96.6935559
+TNP_ONE_5200,Tnp One Substation,ercot_reference_exact,1.0,31.0912725,-96.6935559
+TNP_ONE_5210,Tnp One Substation,ercot_reference_exact,1.0,31.0912725,-96.6935559
+TNP_ONE_6756,Tnp One Substation,ercot_reference_exact,1.0,31.0912725,-96.6935559
+TNP_ONE_K,Tnp One Substation,ercot_reference_exact,1.0,31.0912725,-96.6935559
+TNP_ONE_KI,Tnp One Substation,ercot_reference_exact,1.0,31.0912725,-96.6935559
+TNP_ONE_KW,Tnp One Substation,ercot_reference_exact,1.0,31.0912725,-96.6935559
+TNP_TNP_O_1,Tnp One Substation,ercot_reference_exact,1.0,31.0912725,-96.6935559
+TNP_TNP_O_2,Tnp One Substation,ercot_reference_exact,1.0,31.0912725,-96.6935559
+TNSEMINOLE1W,Seminole,ercot_reference_exact,1.0,32.7828601,-102.6756116
+TNSEMINOLE1X,Seminole,ercot_reference_exact,1.0,32.7828601,-102.6756116
+TNSEMINOLE1Y,Seminole,ercot_reference_exact,1.0,32.7828601,-102.6756116
+TNSEMINOLE1Z,Seminole,ercot_reference_exact,1.0,32.7828601,-102.6756116
+TNSWEENY__1V,Sweeny Substation,ercot_reference_exact,1.0,29.0554086,-95.6871314
+TNSWEENY__1W,Sweeny Substation,ercot_reference_exact,1.0,29.0554086,-95.6871314
+TNSWEENY__1X,Sweeny Substation,ercot_reference_exact,1.0,29.0554086,-95.6871314
+TNSWEENY__1Y,Sweeny Substation,ercot_reference_exact,1.0,29.0554086,-95.6871314
+TNSWEENY__1Z,Sweeny Substation,ercot_reference_exact,1.0,29.0554086,-95.6871314
+TNSYCAMORE0Y,Sycamore Substation,ercot_reference_exact,1.0,31.4753019,-97.7199776
+TNTEJAS___1V,Tejas Substation,ercot_reference_exact,1.0,29.3801432,-94.9229792
+TNTEJAS___1W,Tejas Substation,ercot_reference_exact,1.0,29.3801432,-94.9229792
+TNTEJAS___1X,Tejas Substation,ercot_reference_exact,1.0,29.3801432,-94.9229792
+TNTEJAS___1Y,Tejas Substation,ercot_reference_exact,1.0,29.3801432,-94.9229792
+TNTEJAS___1Z,Tejas Substation,ercot_reference_exact,1.0,29.3801432,-94.9229792
+TNTERMINAL0,Terminal Substation,ercot_reference_exact,1.0,29.3705796,-94.9112886
+TNTERMINAL0Q,Terminal Substation,ercot_reference_exact,1.0,29.3705796,-94.9112886
+TNTERMINAL0T,Terminal Substation,ercot_reference_exact,1.0,29.3705796,-94.9112886
+TNTERMINAL0U,Terminal Substation,ercot_reference_exact,1.0,29.3705796,-94.9112886
+TNTERMINAL0V,Terminal Substation,ercot_reference_exact,1.0,29.3705796,-94.9112886
+TNTERMINAL0Y,Terminal Substation,ercot_reference_exact,1.0,29.3705796,-94.9112886
+TNTERMINAL0Z,Terminal Substation,ercot_reference_exact,1.0,29.3705796,-94.9112886
+TNTNPONE_28,Tnp One Substation,ercot_reference_exact,1.0,31.0912725,-96.6935559
+TNWHITNEY_0Y,Whitney Substation,ercot_reference_exact,1.0,32.4697175,-94.7152066
+TNWICKETT_0T,Wickett Substation,ercot_reference_exact,1.0,31.5980443,-103.0212035
+TNWICKETT_0U,Wickett Substation,ercot_reference_exact,1.0,31.5980443,-103.0212035
+TNWICKETT_0Z,Wickett Substation,ercot_reference_exact,1.0,31.5980443,-103.0212035
+TNWICKETT_1V,Wickett Substation,ercot_reference_exact,1.0,31.5980443,-103.0212035
+TNWICKETT_1W,Wickett Substation,ercot_reference_exact,1.0,31.5980443,-103.0212035
+TNWICKETT_1X,Wickett Substation,ercot_reference_exact,1.0,31.5980443,-103.0212035
+TNWICKETT_1Y,Wickett Substation,ercot_reference_exact,1.0,31.5980443,-103.0212035
+TNWICKETT_1Z,Wickett Substation,ercot_reference_exact,1.0,31.5980443,-103.0212035
+TNWINK_1,Wink Substation,ercot_reference_exact,1.0,31.763284,-103.1628419
+TNWINK____1Y,Wink Substation,ercot_reference_exact,1.0,31.763284,-103.1628419
+TNWINK____1Z,Wink Substation,ercot_reference_exact,1.0,31.763284,-103.1628419
+TOBORDAS2,Bordas Substation,ercot_reference_exact,1.0,27.3211338,-98.9980687
+TOMATO1_BB,Tomato Substation,ercot_reference_exact,1.0,32.3450966,-99.2972192
+TOMATO2_BB,Tomato Substation,ercot_reference_exact,1.0,32.3450966,-99.2972192
+TORR_ALL,Lobo Substation,ercot_reference_exact,1.0,27.5789332,-99.2756424
+TORT_ESS_RN,Alvin Substation,ercot_reference_exact,1.0,29.4333127,-95.2494409
+TORT_ESS_TL,Alvin Substation,ercot_reference_exact,1.0,29.4333127,-95.2494409
+TOYOTA_A,Toyota Substation,exact,0.99,29.268979,-98.5372461
+TOYOTA_B,Toyota Substation,exact,0.99,29.268979,-98.5372461
+TR1_BUS,Eden Substation,ercot_reference_exact,1.0,31.2157406,-99.8362262
+TREB_SOLAR1,Joslin Substation,ercot_reference_exact,1.0,28.6487411,-96.5464448
+TRENT_0004,Trent Substation,ercot_reference_exact,1.0,32.4927396,-100.1179747
+TRENT_TRENT,Trent Substation,ercot_reference_exact,1.0,32.4927396,-100.1179747
+TSM,Butler Substation,ercot_reference_exact,1.0,30.3894531,-97.3247387
+TULETA_BS2,Tuleta Substation,ercot_reference_exact,1.0,28.5982273,-97.7885435
+TULETA_LD2,Tuleta Substation,ercot_reference_exact,1.0,28.5982273,-97.7885435
+TURK_L_A,Turkey Substation,ercot_reference_exact,1.0,34.3916597,-100.8891595
+TUTTLE_I,Tuttle Switchyard,alias,1.0,29.529181,-98.4186763
+TUTTLE_J,Tuttle Switchyard,alias,1.0,29.529181,-98.4186763
+TUTTLE_K,Tuttle Switchyard,alias,1.0,29.529181,-98.4186763
+TUTTLE_L,Tuttle Switchyard,alias,1.0,29.529181,-98.4186763
+TYLER_XFR3,Tyler Substation,ercot_reference_exact,1.0,32.2798012,-95.3464743
+TYLER_XFR4,Tyler Substation,ercot_reference_exact,1.0,32.2798012,-95.3464743
+TYNAN_BESS1,Tynan Substation,ercot_reference_exact,1.0,28.1831975,-97.7722993
+TYNAN_RN,Tynan Substation,ercot_reference_exact,1.0,28.1831975,-97.7722993
+UCC_COG_PUN2,Apache Substation,ercot_reference_exact,1.0,29.3787017,-94.9475574
+UN1,Fluvanna Substation,ercot_reference_exact,1.0,32.859328,-101.1151431
+UN2,Fluvanna Substation,ercot_reference_exact,1.0,32.859328,-101.1151431
+UN2_EB,Fluvanna Substation,ercot_reference_exact,1.0,32.859328,-101.1151431
+UNIT,Hovey Substation,ercot_reference_exact,1.0,30.9526276,-103.3614053
+UNIT_1B,Trent Substation,ercot_reference_exact,1.0,32.4927396,-100.1179747
+UNIT_2,Trent Substation,ercot_reference_exact,1.0,32.4927396,-100.1179747
+UNIT_3A,Trent Substation,ercot_reference_exact,1.0,32.4927396,-100.1179747
+UNIT_3B,Trent Substation,ercot_reference_exact,1.0,32.4927396,-100.1179747
+UT3LOAD,Formosa Substation,ercot_reference_exact,1.0,28.6836299,-96.5510875
+UTOPIA_7665,Utopia Substation,ercot_reference_exact,1.0,29.6461984,-99.5217823
+UTOPIA_7666,Utopia Substation,ercot_reference_exact,1.0,29.6461984,-99.5217823
+UTOPIA_RN,Utopia Substation,ercot_reference_exact,1.0,29.6461984,-99.5217823
+UTSA_A,Utsa Substation,exact,0.99,29.5865268,-98.6259333
+UTSA_B,Utsa Substation,exact,0.99,29.5865268,-98.6259333
+UTSA_C,Utsa Substation,exact,0.99,29.5865268,-98.6259333
+UTSA_L_B,Utsa Substation,exact,0.99,29.5865268,-98.6259333
+UVALDE_BUS1,Uvalde Substation,ercot_reference_exact,1.0,29.2129414,-99.7985937
+UVALDE_L_A,Uvalde Substation,ercot_reference_exact,1.0,29.2129414,-99.7985937
+UVALDE_L_B,Uvalde Substation,ercot_reference_exact,1.0,29.2129414,-99.7985937
+UVALDE_V_A,Uvalde Substation,ercot_reference_exact,1.0,29.2129414,-99.7985937
+UVALDE_V_B,Uvalde Substation,ercot_reference_exact,1.0,29.2129414,-99.7985937
+VALERO_3593,Osm_Way_488508137,ercot_reference_hybrid_fuzzy,1.0,27.8152704,-97.480535
+VALERO_BS1,Osm_Way_488508137,ercot_reference_hybrid_fuzzy,1.0,27.8152704,-97.480535
+VALERO_BS2,Osm_Way_488508137,ercot_reference_hybrid_fuzzy,1.0,27.8152704,-97.480535
+VALERO_BS4,Osm_Way_488508137,ercot_reference_hybrid_fuzzy,1.0,27.8152704,-97.480535
+VALERO_E_LD4,Osm_Way_488508137,ercot_reference_hybrid_fuzzy,1.0,27.8152704,-97.480535
+VALERO_E_L_A,Osm_Way_488508137,ercot_reference_hybrid_fuzzy,1.0,27.8152704,-97.480535
+VALERO_LD1,Osm_Way_488508137,ercot_reference_hybrid_fuzzy,1.0,27.8152704,-97.480535
+VALERO_LD2,Osm_Way_488508137,ercot_reference_hybrid_fuzzy,1.0,27.8152704,-97.480535
+VALERO_L_A,Osm_Way_488508137,ercot_reference_hybrid_fuzzy,1.0,27.8152704,-97.480535
+VALERO_L_B,Osm_Way_488508137,ercot_reference_hybrid_fuzzy,1.0,27.8152704,-97.480535
+VALERO_R_A,Osm_Way_488508137,ercot_reference_hybrid_fuzzy,1.0,27.8152704,-97.480535
+VALERO_R_B,Osm_Way_488508137,ercot_reference_hybrid_fuzzy,1.0,27.8152704,-97.480535
+VALLEY_B,Denton Valley Substation,alias,1.0,32.2575524,-99.5394519
+VALLEY_C,Denton Valley Substation,alias,1.0,32.2575524,-99.5394519
+VEGA_K,Vega Substation,ercot_reference_exact,1.0,35.2534718,-102.4164982
+VEGA_L_A,Vega Substation,ercot_reference_exact,1.0,35.2534718,-102.4164982
+VERTIGO_UN1,Vertigo Wind Substation,ercot_reference_exact,1.0,33.6446357,-99.4213944
+VICTORIA_CC1,North Victoria Substation,alias,1.0,28.8070816,-96.9834428
+VICTORIA_L_A,North Victoria Substation,alias,1.0,28.8070816,-96.9834428
+VICTORIA_L_B,North Victoria Substation,alias,1.0,28.8070816,-96.9834428
+VICTORIA_L_C,North Victoria Substation,alias,1.0,28.8070816,-96.9834428
+VICTORIA_L_D,North Victoria Substation,alias,1.0,28.8070816,-96.9834428
+VICTORIA_V_B,North Victoria Substation,alias,1.0,28.8070816,-96.9834428
+VICTORIA_V_C,North Victoria Substation,alias,1.0,28.8070816,-96.9834428
+VICTORIA_V_D,North Victoria Substation,alias,1.0,28.8070816,-96.9834428
+VISTRON_2980,Vistron Substation,ercot_reference_exact,1.0,28.5745707,-96.8330241
+VISTRON_2982,Vistron Substation,ercot_reference_exact,1.0,28.5745707,-96.8330241
+VISTRON_E_1,Vistron Substation,ercot_reference_exact,1.0,28.5745707,-96.8330241
+VISTRON_E_2,Vistron Substation,ercot_reference_exact,1.0,28.5745707,-96.8330241
+VISTRON_K,Vistron Substation,ercot_reference_exact,1.0,28.5745707,-96.8330241
+VISTRON_KC,Vistron Substation,ercot_reference_exact,1.0,28.5745707,-96.8330241
+VISTRON_KT,Vistron Substation,ercot_reference_exact,1.0,28.5745707,-96.8330241
+VISTRON_TG1,Vistron Substation,ercot_reference_exact,1.0,28.5745707,-96.8330241
+VISTRON_TG2,Vistron Substation,ercot_reference_exact,1.0,28.5745707,-96.8330241
+VISTRON_V_B,Vistron Substation,ercot_reference_exact,1.0,28.5745707,-96.8330241
+VLSI_A,Vlsi Substation,exact,0.99,29.4735314,-98.6785475
+VLSI_B,Vlsi Substation,exact,0.99,29.4735314,-98.6785475
+VLSI_K,Vlsi Substation,exact,0.99,29.4735314,-98.6785475
+VLSI_L_A,Vlsi Substation,exact,0.99,29.4735314,-98.6785475
+VNSN_WLKR,Walker Substation,ercot_reference_exact,1.0,32.35839,-99.7002086
+VNSN_WLKR2,Walker Substation,ercot_reference_exact,1.0,32.35839,-99.7002086
+W1,Lockett Substation,ercot_reference_exact,1.0,34.0510911,-99.3753229
+WALNUTCK,Walnut Substation,ercot_reference_exact,1.0,32.9164484,-96.6318372
+WALNUTCKZ,Walnut Substation,ercot_reference_exact,1.0,32.9164484,-96.6318372
+WALZEM_A,Walzem Road Substation,alias,1.0,29.5096409,-98.3692673
+WALZEM_B,Walzem Road Substation,alias,1.0,29.5096409,-98.3692673
+WALZEM_C,Walzem Road Substation,alias,1.0,29.5096409,-98.3692673
+WALZEM_D,Walzem Road Substation,alias,1.0,29.5096409,-98.3692673
+WARREN,Warren Substation,ercot_reference_exact,1.0,30.310659,-97.7582
+WARRENY,Warren Substation,ercot_reference_exact,1.0,30.310659,-97.7582
+WARRENZ,Warren Substation,ercot_reference_exact,1.0,30.310659,-97.7582
+WESTSIDE_V_A,Westside Substation,ercot_reference_exact,1.0,29.4397815,-98.5609105
+WESTSIDE_V_B,Westside Substation,ercot_reference_exact,1.0,29.4397815,-98.5609105
+WEST_OSO,West Oso Substation,ercot_reference_exact,1.0,27.7662046,-97.4521276
+WEST_OSO_L_A,West Oso Substation,ercot_reference_exact,1.0,27.7662046,-97.4521276
+WFTANK_ESS1,Lobo Substation,ercot_reference_exact,1.0,27.5789332,-99.2756424
+WHELESS_K,Wheless Lane Substation,alias,1.0,30.3130498,-97.6850192
+WILSON_K,Wilson Substation,ercot_reference_exact,1.0,29.3376671,-98.1728307
+WINDSOR,Windsor Substation,ercot_reference_exact,1.0,31.5078256,-97.3009708
+WIND_II,Vertigo Wind Substation,ercot_reference_exact,1.0,33.6446357,-99.4213944
+WIRTZ_1111,Wirtz Substation,ercot_reference_exact,1.0,30.5596814,-98.3374716
+WIRTZ_1389,Wirtz Substation,ercot_reference_exact,1.0,30.5596814,-98.3374716
+WIRTZ_3810,Wirtz Substation,ercot_reference_exact,1.0,30.5596814,-98.3374716
+WIRTZ_3842,Wirtz Substation,ercot_reference_exact,1.0,30.5596814,-98.3374716
+WIRTZ_3845,Wirtz Substation,ercot_reference_exact,1.0,30.5596814,-98.3374716
+WIRTZ_3852,Wirtz Substation,ercot_reference_exact,1.0,30.5596814,-98.3374716
+WIRTZ_EPS1,Wirtz Substation,ercot_reference_exact,1.0,30.5596814,-98.3374716
+WIRTZ_EPS3,Wirtz Substation,ercot_reference_exact,1.0,30.5596814,-98.3374716
+WIRTZ_E_1,Wirtz Substation,ercot_reference_exact,1.0,30.5596814,-98.3374716
+WIRTZ_E_2,Wirtz Substation,ercot_reference_exact,1.0,30.5596814,-98.3374716
+WIRTZ_K,Wirtz Substation,ercot_reference_exact,1.0,30.5596814,-98.3374716
+WIRTZ_KB,Wirtz Substation,ercot_reference_exact,1.0,30.5596814,-98.3374716
+WIR_WIRTZ_G1,Wirtz Substation,ercot_reference_exact,1.0,30.5596814,-98.3374716
+WIR_WIRTZ_G2,Wirtz Substation,ercot_reference_exact,1.0,30.5596814,-98.3374716
+WOLFCAMP_9,Wolfcamp,alias,1.0,32.1617996,-103.8297394
+WOODWRD1_RN,Lynx Substation,ercot_reference_exact,1.0,31.0718593,-102.3935068
+WOODWRD2_RN,Lynx Substation,ercot_reference_exact,1.0,31.0718593,-102.3935068
+WRIGHT8,Wright Substation,ercot_reference_exact,1.0,32.2629217,-98.1910947
+WWKS_T_LINE,Lon Hill Substation,ercot_reference_exact,1.0,27.8438525,-97.6155988
+W_PECO_UNIT1,Pecos Substation,ercot_reference_exact,1.0,31.4295051,-103.4987029
+XFMR1_2,Formosa Substation,ercot_reference_exact,1.0,28.6836299,-96.5510875
+XFMR1_PARIS,Paris Substation,ercot_reference_exact,1.0,33.6390776,-95.58098
+X_1,Hindes Substation,ercot_reference_exact,1.0,28.6463294,-98.9026564
+YUCCA_LD01,Yucca Substation,ercot_reference_exact,1.0,30.9905365,-101.0773295
+ZEPHYR,Zephyr Substation,ercot_reference_exact,1.0,31.7094614,-98.8616336

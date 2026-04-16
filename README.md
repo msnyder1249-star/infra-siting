@@ -50,6 +50,12 @@ Optional flags:
 python main.py --refresh-cache --lookback 7 --min-voltage 138
 ```
 
+To also sync the latest map and CSVs into `docs/` for GitHub Pages:
+
+```bash
+python main.py --publish-docs
+```
+
 ## Dev Mode Without ERCOT Credentials
 
 If `ERCOT_USERNAME`, `ERCOT_PASSWORD`, and `ERCOT_SUBSCRIPTION_KEY` are not set, the pipeline:
@@ -61,6 +67,31 @@ If `ERCOT_USERNAME`, `ERCOT_PASSWORD`, and `ERCOT_SUBSCRIPTION_KEY` are not set,
 ## Open the Map
 
 Open `output/capacity_map.html` in a browser.
+
+## GitHub Pages
+
+This repo includes a publish-friendly `docs/` folder for GitHub Pages.
+
+After generating fresh outputs:
+
+```bash
+python main.py --publish-docs
+```
+
+Then in GitHub:
+
+1. Open `Settings`
+2. Open `Pages`
+3. Set `Source` to `Deploy from a branch`
+4. Select branch `main`
+5. Select folder `/docs`
+
+The Pages site will serve:
+
+- `docs/index.html`
+- `docs/capacity_map.html`
+- `docs/data/processed/substation_capacity_scores.csv`
+- `docs/data/processed/bus_substation_crosswalk.csv`
 
 ## CSV Outputs
 
@@ -116,3 +147,4 @@ Tier cutoffs:
 - Bus-to-substation matching is approximate and depends on settlement point metadata plus name heuristics.
 - True thermal capacity and interconnection feasibility require formal transmission studies and utility review.
 - The project reuses the existing private-substation CSV, so public-only substations may still depend on HIFLD fetch availability.
+- The published Pages site is a static snapshot of the latest generated outputs, not a live application.

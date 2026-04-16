@@ -846,7 +846,7 @@ KEO_KEO_SM1,Keo Substation,ercot_reference_exact,1.0,30.8184194,-102.3659149
 KEPLER_LD1,Kepler Substation,ercot_reference_exact,1.0,27.8186367,-97.5047657
 KEPLER_LDE1,Kepler Substation,ercot_reference_exact,1.0,27.8186367,-97.5047657
 KEPLER_LDE2,Kepler Substation,ercot_reference_exact,1.0,27.8186367,-97.5047657
-KEPLER_LN,Osm_Way_488508137,ercot_reference_owner_canonical_exact,0.92,27.8152704,-97.480535
+KEPLER_LN,Osm_Way_488508137,ercot_reference_hybrid_fuzzy,1.0,27.8152704,-97.480535
 KING,King Substation,exact,0.99,33.5189029,-100.1574201
 KIRBY_A,Kirby Substation,exact,0.99,29.4653848,-98.3924152
 KIRBY_B,Kirby Substation,exact,0.99,29.4653848,-98.3924152
@@ -917,7 +917,7 @@ LINE_EB,Hovey Substation,ercot_reference_exact,1.0,30.9526276,-103.3614053
 LIVE_OAK_L_A,Live Oak Substation,ercot_reference_exact,1.0,30.2658895,-98.8881897
 LKT1,Lockett Substation,ercot_reference_exact,1.0,34.0510911,-99.3753229
 LN_16TH_ST,Lynx Substation,ercot_reference_exact,1.0,31.0718593,-102.3935068
-LN_AIR_LIQC,Osm_Way_488508137,ercot_reference_owner_canonical_exact,0.92,27.8152704,-97.480535
+LN_AIR_LIQC,Osm_Way_488508137,ercot_reference_hybrid_fuzzy,1.0,27.8152704,-97.480535
 LN_ASHERTON,Asherton Substation,ercot_reference_exact,1.0,28.4423395,-99.7557185
 LN_BAY_CITY,Magill Substation,ercot_reference_exact,1.0,29.0123491,-95.9693286
 LN_BROOKT,Joslin Substation,ercot_reference_exact,1.0,28.6487411,-96.5464448
@@ -945,7 +945,7 @@ LN_TENARIS,Magill Substation,ercot_reference_exact,1.0,29.0123491,-95.9693286
 LN_TORTUGA1,Gila Substation,ercot_reference_exact,1.0,27.8197488,-97.4213144
 LN_TREB_SLR,Joslin Substation,ercot_reference_exact,1.0,28.6487411,-96.5464448
 LN_VALERO1,Kepler Substation,ercot_reference_exact,1.0,27.8186367,-97.5047657
-LN_VALERO2,Osm_Way_488508137,ercot_reference_owner_canonical_exact,0.92,27.8152704,-97.480535
+LN_VALERO2,Osm_Way_488508137,ercot_reference_hybrid_fuzzy,1.0,27.8152704,-97.480535
 LOAD01,Taylor Substation,ercot_reference_exact,1.0,30.5670969,-97.3973345
 LOADT1,Beback Substation,ercot_reference_exact,1.0,29.7971016,-97.9556043
 LOADT1_,Blanco Substation,ercot_reference_exact,1.0,30.0825998,-98.4121882
@@ -1838,18 +1838,18 @@ UVALDE_L_A,Uvalde Substation,ercot_reference_exact,1.0,29.2129414,-99.7985937
 UVALDE_L_B,Uvalde Substation,ercot_reference_exact,1.0,29.2129414,-99.7985937
 UVALDE_V_A,Uvalde Substation,ercot_reference_exact,1.0,29.2129414,-99.7985937
 UVALDE_V_B,Uvalde Substation,ercot_reference_exact,1.0,29.2129414,-99.7985937
-VALERO_3593,Osm_Way_488508137,ercot_reference_owner_canonical_exact,0.92,27.8152704,-97.480535
-VALERO_BS1,Osm_Way_488508137,ercot_reference_owner_canonical_exact,0.92,27.8152704,-97.480535
-VALERO_BS2,Osm_Way_488508137,ercot_reference_owner_canonical_exact,0.92,27.8152704,-97.480535
-VALERO_BS4,Osm_Way_488508137,ercot_reference_owner_canonical_exact,0.92,27.8152704,-97.480535
-VALERO_E_LD4,Osm_Way_488508137,ercot_reference_owner_canonical_exact,0.92,27.8152704,-97.480535
-VALERO_E_L_A,Osm_Way_488508137,ercot_reference_owner_canonical_exact,0.92,27.8152704,-97.480535
-VALERO_LD1,Osm_Way_488508137,ercot_reference_owner_canonical_exact,0.92,27.8152704,-97.480535
-VALERO_LD2,Osm_Way_488508137,ercot_reference_owner_canonical_exact,0.92,27.8152704,-97.480535
-VALERO_L_A,Osm_Way_488508137,ercot_reference_owner_canonical_exact,0.92,27.8152704,-97.480535
-VALERO_L_B,Osm_Way_488508137,ercot_reference_owner_canonical_exact,0.92,27.8152704,-97.480535
-VALERO_R_A,Osm_Way_488508137,ercot_reference_owner_canonical_exact,0.92,27.8152704,-97.480535
-VALERO_R_B,Osm_Way_488508137,ercot_reference_owner_canonical_exact,0.92,27.8152704,-97.480535
+VALERO_3593,Osm_Way_488508137,ercot_reference_hybrid_fuzzy,1.0,27.8152704,-97.480535
+VALERO_BS1,Osm_Way_488508137,ercot_reference_hybrid_fuzzy,1.0,27.8152704,-97.480535
+VALERO_BS2,Osm_Way_488508137,ercot_reference_hybrid_fuzzy,1.0,27.8152704,-97.480535
+VALERO_BS4,Osm_Way_488508137,ercot_reference_hybrid_fuzzy,1.0,27.8152704,-97.480535
+VALERO_E_LD4,Osm_Way_488508137,ercot_reference_hybrid_fuzzy,1.0,27.8152704,-97.480535
+VALERO_E_L_A,Osm_Way_488508137,ercot_reference_hybrid_fuzzy,1.0,27.8152704,-97.480535
+VALERO_LD1,Osm_Way_488508137,ercot_reference_hybrid_fuzzy,1.0,27.8152704,-97.480535
+VALERO_LD2,Osm_Way_488508137,ercot_reference_hybrid_fuzzy,1.0,27.8152704,-97.480535
+VALERO_L_A,Osm_Way_488508137,ercot_reference_hybrid_fuzzy,1.0,27.8152704,-97.480535
+VALERO_L_B,Osm_Way_488508137,ercot_reference_hybrid_fuzzy,1.0,27.8152704,-97.480535
+VALERO_R_A,Osm_Way_488508137,ercot_reference_hybrid_fuzzy,1.0,27.8152704,-97.480535
+VALERO_R_B,Osm_Way_488508137,ercot_reference_hybrid_fuzzy,1.0,27.8152704,-97.480535
 VALLEY_B,Denton Valley Substation,alias,1.0,32.2575524,-99.5394519
 VALLEY_C,Denton Valley Substation,alias,1.0,32.2575524,-99.5394519
 VEGA_K,Vega Substation,ercot_reference_exact,1.0,35.2534718,-102.4164982

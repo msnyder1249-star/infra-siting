@@ -14,6 +14,7 @@ from src.crosswalk import build_crosswalk
 from src.fetch_ercot import fetch_all_ercot_data
 from src.fetch_substations import get_tx_substations
 from src.map_output import build_capacity_map
+from src.publish_site import publish_docs
 
 
 def parse_args() -> argparse.Namespace:
@@ -22,6 +23,7 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("--lookback", type=int, default=7, help="Lookback window in days for ERCOT data.")
     parser.add_argument("--min-voltage", type=float, default=0, help="Minimum kV threshold for rendered map markers.")
     parser.add_argument("--live", action="store_true", help="Stub for future ERCOT API integration.")
+    parser.add_argument("--publish-docs", action="store_true", help="Sync latest outputs into docs/ for GitHub Pages.")
     return parser.parse_args()
 
 
@@ -68,6 +70,11 @@ def main() -> None:
 
     print("6. Export complete.")
     print(f"   CSV written to: {csv_path}")
+    if args.publish_docs:
+        published = publish_docs()
+        print("7. Published docs for GitHub Pages.")
+        print(f"   Docs map: {published['map']}")
+        print(f"   Docs CSV: {published['scores_csv']}")
 
 
 if __name__ == "__main__":

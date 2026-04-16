@@ -372,12 +372,13 @@ def _score_candidate(bus_name: str, reference_name: str | None, candidate_row: p
     ref_canonical = _canonical_name(reference_name)
     sub_canonical = candidate_row["canonical_name"]
     owner_canonical = candidate_row["canonical_owner"]
+    is_placeholder_name = str(candidate_row["NAME"]).startswith("Osm_")
 
     if bus_canonical and bus_canonical == sub_canonical:
         return 0.99, "canonical_exact"
     if ref_canonical and ref_canonical == sub_canonical:
         return 0.97, "reference_canonical_exact"
-    if bus_canonical and bus_canonical == owner_canonical:
+    if bus_canonical and bus_canonical == owner_canonical and not is_placeholder_name:
         return 0.92, "owner_canonical_exact"
 
     token_score = max(

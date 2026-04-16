@@ -1,0 +1,145 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>ERCOT Capacity Map</title>
+  <style>
+    :root {
+      --bg: #f5f4ef;
+      --card: #fffdf8;
+      --ink: #182026;
+      --muted: #5b6670;
+      --line: #d8d3c8;
+      --accent: #0f766e;
+      --accent-2: #b45309;
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      font-family: Georgia, "Times New Roman", serif;
+      background:
+        radial-gradient(circle at top left, rgba(15,118,110,0.12), transparent 28rem),
+        radial-gradient(circle at bottom right, rgba(180,83,9,0.12), transparent 24rem),
+        var(--bg);
+      color: var(--ink);
+    }
+    .wrap {
+      max-width: 980px;
+      margin: 0 auto;
+      padding: 48px 20px 64px;
+    }
+    .hero {
+      background: var(--card);
+      border: 1px solid var(--line);
+      border-radius: 22px;
+      padding: 32px;
+      box-shadow: 0 18px 40px rgba(24,32,38,0.06);
+    }
+    h1 {
+      margin: 0 0 12px;
+      font-size: clamp(2.2rem, 5vw, 4rem);
+      line-height: 0.95;
+      letter-spacing: -0.03em;
+    }
+    p {
+      margin: 0;
+      color: var(--muted);
+      line-height: 1.6;
+      font-size: 1.05rem;
+    }
+    .cta-row {
+      display: flex;
+      gap: 14px;
+      flex-wrap: wrap;
+      margin-top: 28px;
+    }
+    .button {
+      text-decoration: none;
+      padding: 14px 18px;
+      border-radius: 999px;
+      border: 1px solid var(--line);
+      background: white;
+      color: var(--ink);
+      font-weight: 700;
+    }
+    .button.primary {
+      background: var(--accent);
+      border-color: var(--accent);
+      color: white;
+    }
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+      gap: 16px;
+      margin-top: 22px;
+    }
+    .card {
+      background: rgba(255,255,255,0.82);
+      border: 1px solid var(--line);
+      border-radius: 18px;
+      padding: 18px;
+      backdrop-filter: blur(6px);
+    }
+    .card h2 {
+      margin: 0 0 10px;
+      font-size: 1.05rem;
+    }
+    .meta {
+      margin-top: 28px;
+      font-size: 0.95rem;
+      color: var(--muted);
+    }
+    ul {
+      margin: 10px 0 0;
+      padding-left: 18px;
+      color: var(--muted);
+      line-height: 1.5;
+    }
+  </style>
+</head>
+<body>
+  <main class="wrap">
+    <section class="hero">
+      <h1>ERCOT Substation Capacity Index</h1>
+      <p>
+        A public-data screening tool for Texas substations that combines ERCOT market signals,
+        ERCOT reference mappings, and substation voltage context to identify relatively promising
+        large-load interconnection candidates.
+      </p>
+      <div class="cta-row">
+        <a class="button primary" href="./capacity_map.html">Open Interactive Map</a>
+        <a class="button" href="./data/processed/substation_capacity_scores.csv">Download Scored CSV</a>
+        <a class="button" href="./data/processed/bus_substation_crosswalk.csv">Download Crosswalk CSV</a>
+      </div>
+      <div class="grid">
+        <article class="card">
+          <h2>What This Is</h2>
+          <p>
+            A screening index, not a formal interconnection study. Use it to shortlist substations
+            for deeper utility and ERCOT diligence.
+          </p>
+        </article>
+        <article class="card">
+          <h2>What It Includes</h2>
+          <ul>
+            <li>ERCOT bus and resource-node mappings</li>
+            <li>LMP, hub-price, and shadow-price signals</li>
+            <li>Normalized Texas substation inventory</li>
+          </ul>
+        </article>
+        <article class="card">
+          <h2>Important Limitation</h2>
+          <p>
+            The map does not report exact MW headroom. True usable capacity still requires
+            planning cases, facility ratings, and interconnection studies.
+          </p>
+        </article>
+      </div>
+      <p class="meta">
+        Published from the repository’s latest generated outputs in <code>docs/</code> for GitHub Pages.
+      </p>
+    </section>
+  </main>
+</body>
+</html>

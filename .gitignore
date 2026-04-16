@@ -1,6 +1,8 @@
 .venv/
 .env
+.DS_Store
 __pycache__/
 *.pyc
 data/raw/*.zip
 data/raw/ercot_settlement_points.zip
+data/raw/ercot_settlement_points.csv
