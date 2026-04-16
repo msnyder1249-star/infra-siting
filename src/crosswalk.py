@@ -474,6 +474,14 @@ def _build_review_export(
     return review_df
 
 
+def load_zone_reference() -> pd.DataFrame:
+    """Return ELECTRICAL_BUS → SETTLEMENT_LOAD_ZONE from the local reference file."""
+    return _load_reference_csv(
+        REFERENCE_SETTLEMENT_POINTS_PATH,
+        ["ELECTRICAL_BUS", "SETTLEMENT_LOAD_ZONE"],
+    ).drop_duplicates("ELECTRICAL_BUS")
+
+
 def build_crosswalk(
     substations_df: pd.DataFrame,
     ercot_bundle: Any,

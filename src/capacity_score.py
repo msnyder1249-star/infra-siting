@@ -8,6 +8,8 @@ import pandas as pd
 from src.utils import clean_name, iso_timestamp
 
 HUBS = {"HB_NORTH", "HB_SOUTH", "HB_WEST", "HB_HOUSTON"}
+LZ_ZONES = {"LZ_NORTH", "LZ_SOUTH", "LZ_WEST", "LZ_HOUSTON"}
+ZONE_ESTIMATE_HAIRCUT = 0.80
 
 
 def _series_or_default(df: pd.DataFrame, column: str, default: Any = None) -> pd.Series:
@@ -19,6 +21,9 @@ def _series_or_default(df: pd.DataFrame, column: str, default: Any = None) -> pd
 def _tier_from_score(score: float | None, data_source: str) -> str:
     if data_source == "unscored" or pd.isna(score):
         return "UNSCORED"
+    # Zone estimates capped at MARGINAL — never AVAILABLE (conservative screening)
+    if data_source == "zone_estimate":
+        return "MARGINAL" if score >= 40 else "CONSTRAINED"
     if score >= 70:
         return "AVAILABLE"
     if score >= 40:
@@ -30,6 +35,7 @@ def score_substations(
     substations_df: pd.DataFrame,
     crosswalk_df: pd.DataFrame,
     ercot_bundle: Any,
+    zone_series: "pd.Series | None" = None,
 ) -> pd.DataFrame:
     substations = substations_df.copy()
     substations["substation_key"] = substations["NAME"].map(clean_name)
@@ -87,6 +93,19 @@ def score_substations(
 
     if hub_avg is None and not lmp_df.empty:
         hub_avg = float(lmp_df["LMP"].mean())
+
+    # Zone-level LMP stats for fallback scoring of unmatched substations
+    zone_lmp_stats: dict[str, tuple[float, float]] = {}
+    if not settlement_prices_df.empty:
+        lz_rows = settlement_prices_df[
+            settlement_prices_df["SettlementPointName"].isin(LZ_ZONES)
+        ]
+        if not lz_rows.empty:
+            for zone, grp in lz_rows.groupby("SettlementPointName"):
+                zone_lmp_stats[str(zone)] = (
+                    float(grp["SettlementPointPrice"].mean()),
+                    float(grp["SettlementPointPrice"].std(ddof=0)),
+                )
 
     crosswalk = crosswalk_df.copy()
     if crosswalk.empty:
@@ -191,6 +210,40 @@ def score_substations(
         _tier_from_score(score, data_source)
         for score, data_source in zip(scored["CAPACITY_SCORE"], scored["data_source"])
     ]
+
+    # Assign ERCOT zone to all rows
+    scored["ercot_zone"] = zone_series.values if zone_series is not None else ""
+
+    # Zone-level fallback: score the UNSCORED rows that have a valid ERCOT zone
+    if zone_lmp_stats and hub_avg is not None and zone_series is not None:
+        unscored_mask = scored["data_source"] == "unscored"
+        for idx in scored.index[unscored_mask]:
+            zone = str(scored.at[idx, "ercot_zone"])
+            if zone not in zone_lmp_stats:
+                continue
+            zone_avg, zone_std = zone_lmp_stats[zone]
+            hub_spread = abs(zone_avg - hub_avg)
+            lmp_score = max(0.0, 100.0 - hub_spread * 5.0)
+            vol_score = max(0.0, 100.0 - zone_std * 2.0)
+            constraint_score = 100.0  # no shadow price data; assume uncongested
+            max_volt = float(scored.at[idx, "max_voltage"])
+            volt_score = min(100.0, (max_volt / 500.0) * 100.0) if max_volt > 0 else 0.0
+            raw = lmp_score * 0.35 + vol_score * 0.20 + constraint_score * 0.30 + volt_score * 0.15
+            zone_score = round(raw * ZONE_ESTIMATE_HAIRCUT, 2)
+            scored.at[idx, "lmp_avg"] = round(zone_avg, 2)
+            scored.at[idx, "lmp_hub_spread"] = round(hub_spread, 2)
+            scored.at[idx, "lmp_std"] = round(zone_std, 2)
+            scored.at[idx, "CAPACITY_SCORE"] = zone_score
+            scored.at[idx, "data_source"] = "zone_estimate"
+        # Re-compute tier for updated rows
+        scored["TIER"] = [
+            _tier_from_score(score, ds)
+            for score, ds in zip(scored["CAPACITY_SCORE"], scored["data_source"])
+        ]
+
+    scored["score_basis"] = scored["data_source"].map(
+        lambda ds: "unscored" if ds == "unscored" else ("zone_estimate" if ds == "zone_estimate" else "bus_match")
+    )
     scored["score_timestamp"] = iso_timestamp()
 
     output_columns = [
@@ -217,6 +270,8 @@ def score_substations(
         "ercot_bus_matched",
         "match_confidence",
         "data_source",
+        "score_basis",
+        "ercot_zone",
         "score_timestamp",
     ]
     return scored[output_columns].sort_values(["TIER", "CAPACITY_SCORE", "MAX_VOLT"], ascending=[True, False, False])

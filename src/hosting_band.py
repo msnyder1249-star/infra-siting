@@ -17,21 +17,15 @@ def _canonical_root(value: Any) -> str:
     return text
 
 
-def _normalize_external_frame(df: pd.DataFrame) -> pd.DataFrame:
-    if df.empty:
-        return df
-    frame = df.copy()
-    frame.columns = [str(column) for column in frame.columns]
-    likely_name_columns = [
-        column
-        for column in frame.columns
-        if any(token in column.lower() for token in ["station", "substation", "node", "resource", "bus", "point", "project", "facility"])
-    ]
-    if not likely_name_columns:
-        likely_name_columns = list(frame.columns[:3])
-    frame["match_blob"] = frame[likely_name_columns].fillna("").astype(str).agg(" ".join, axis=1)
-    frame["match_key"] = frame["match_blob"].map(_canonical_root)
-    return frame
+# Map from ERCOT queue Zone column values to standard LZ_* identifiers
+_QUEUE_ZONE_MAP: dict[str, str] = {
+    "NORTH": "LZ_NORTH",
+    "SOUTH": "LZ_SOUTH",
+    "WEST": "LZ_WEST",
+    "HOUSTON": "LZ_HOUSTON",
+    "COASTAL": "LZ_SOUTH",
+    "PANHANDLE": "NOIE",
+}
 
 
 def apply_hosting_bands(
@@ -42,20 +36,25 @@ def apply_hosting_bands(
     df = scored_df.copy()
     df["substation_key"] = df["NAME"].map(_canonical_root)
 
-    queue_df = _normalize_external_frame(queue_df)
-    project_df = _normalize_external_frame(project_df)
-
-    if not queue_df.empty:
-        queue_counts = queue_df[queue_df["match_key"] != ""].groupby("match_key").size().rename("queue_hits")
-        df["queue_hits"] = df["substation_key"].map(queue_counts).fillna(0).astype(int)
+    # Queue hits: zone-level density (queue projects per substation in same ERCOT zone).
+    # Requires ercot_zone column populated by capacity_score.score_substations.
+    if not queue_df.empty and "Zone" in queue_df.columns and "ercot_zone" in df.columns:
+        mapped_zones = queue_df["Zone"].str.strip().str.upper().map(_QUEUE_ZONE_MAP)
+        zone_queue_totals = mapped_zones.value_counts()
+        zone_sub_counts = df["ercot_zone"].value_counts()
+        # Density = queue projects per substation in zone, rounded to nearest integer (min 0)
+        zone_density = (
+            zone_queue_totals
+            .divide(zone_sub_counts.reindex(zone_queue_totals.index).fillna(1))
+            .round()
+            .clip(lower=0)
+            .astype(int)
+        )
+        df["queue_hits"] = df["ercot_zone"].map(zone_density).fillna(0).astype(int)
     else:
         df["queue_hits"] = 0
 
-    if not project_df.empty:
-        project_counts = project_df[project_df["match_key"] != ""].groupby("match_key").size().rename("project_hits")
-        df["project_hits"] = df["substation_key"].map(project_counts).fillna(0).astype(int)
-    else:
-        df["project_hits"] = 0
+    df["project_hits"] = 0
 
     df["upgrade_pressure"] = "medium"
     df.loc[df["project_hits"] >= 2, "upgrade_pressure"] = "high"

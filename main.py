@@ -10,7 +10,8 @@ import pandas as pd
 
 from config import PROCESSED_DIR
 from src.capacity_score import score_substations
-from src.crosswalk import build_crosswalk
+from src.crosswalk import build_crosswalk, load_zone_reference
+from src.zone_lookup import assign_zones
 from src.fetch_ercot import fetch_all_ercot_data
 from src.fetch_projects import load_project_data
 from src.fetch_queue import load_queue_data
@@ -24,7 +25,7 @@ def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(description="Build the ERCOT substation capacity index.")
     parser.add_argument("--refresh-cache", action="store_true", help="Force refetch of cached raw data.")
     parser.add_argument("--lookback", type=int, default=7, help="Lookback window in days for ERCOT data.")
-    parser.add_argument("--min-voltage", type=float, default=0, help="Minimum kV threshold for rendered map markers.")
+    parser.add_argument("--min-voltage", type=float, default=69, help="Minimum kV threshold for rendered map markers.")
     parser.add_argument("--live", action="store_true", help="Stub for future ERCOT API integration.")
     parser.add_argument("--publish-docs", action="store_true", help="Sync latest outputs into docs/ for GitHub Pages.")
     return parser.parse_args()
@@ -58,8 +59,14 @@ def main() -> None:
         match_rate = (crosswalk_df["ercot_bus"].nunique() / unique_buses * 100) if unique_buses else 0.0
     print(f"   Crosswalk rows: {len(crosswalk_df):,} | Match rate: {match_rate:.1f}%")
 
+    print("3b. Assigning ERCOT zones...")
+    settlement_zone_ref = load_zone_reference()
+    zone_series = assign_zones(substations_df, crosswalk_df, settlement_zone_ref)
+    zone_counts = zone_series[zone_series != ""].value_counts().to_dict()
+    print(f"   Zone assignments: {zone_counts}")
+
     print("4. Scoring substations...")
-    scored_df = score_substations(substations_df, crosswalk_df, ercot_bundle)
+    scored_df = score_substations(substations_df, crosswalk_df, ercot_bundle, zone_series=zone_series)
     print("5. Applying Phase 2 hosting bands...")
     queue_bundle = load_queue_data()
     project_bundle = load_project_data()

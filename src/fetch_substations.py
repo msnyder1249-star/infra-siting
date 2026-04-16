@@ -130,10 +130,15 @@ def _finalize_substation_frame(df: pd.DataFrame) -> pd.DataFrame:
     return df.reset_index(drop=True)[OUTPUT_COLUMNS]
 
 
+MIN_VOLTAGE_KV = 69.0
+
+
 def get_tx_substations(refresh_cache: bool = False) -> pd.DataFrame:
     ensure_directory(RAW_OUTPUT_PATH.parent)
     if RAW_OUTPUT_PATH.exists() and cache_is_fresh(RAW_OUTPUT_PATH) and not refresh_cache:
-        return pd.read_csv(RAW_OUTPUT_PATH)
+        df = pd.read_csv(RAW_OUTPUT_PATH)
+        df["MAX_VOLT"] = pd.to_numeric(df["MAX_VOLT"], errors="coerce")
+        return df[df["MAX_VOLT"] > MIN_VOLTAGE_KV].reset_index(drop=True)
 
     legacy_df = _normalize_legacy_substations(LEGACY_SUBSTATIONS_PATH)
     hifld_df = pd.DataFrame(columns=OUTPUT_COLUMNS)
@@ -146,4 +151,4 @@ def get_tx_substations(refresh_cache: bool = False) -> pd.DataFrame:
     combined = pd.concat(frames, ignore_index=True) if frames else pd.DataFrame(columns=OUTPUT_COLUMNS)
     combined = _finalize_substation_frame(combined)
     combined.to_csv(RAW_OUTPUT_PATH, index=False)
-    return combined
+    return combined[combined["MAX_VOLT"] > MIN_VOLTAGE_KV].reset_index(drop=True)

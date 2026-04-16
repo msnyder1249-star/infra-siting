@@ -39,11 +39,18 @@ def _score_bar(score: float | None) -> str:
 
 def _popup_html(row: pd.Series) -> str:
     tier_color = COLOR_BY_TIER.get(row["TIER"], "#94a3b8")
+    score_basis = str(row.get("score_basis", ""))
+    zone = str(row.get("ercot_zone", ""))
+    zone_label = f"{escape(zone)}" if zone else "unknown"
+    if score_basis == "zone_estimate":
+        zone_label += " <small style='color:#888'>(zone estimate)</small>"
+    queue_hits = row.get("queue_hits", 0)
     return f"""
     <div style="min-width: 260px; font-family: Arial, sans-serif;">
       <div style="font-size: 16px; font-weight: 700; margin-bottom: 6px;">{escape(str(row['NAME']))}</div>
       <div><strong>Owner:</strong> {escape(str(row.get('OWNER', '')))}</div>
       <div><strong>County:</strong> {escape(str(row.get('COUNTY', '')))}</div>
+      <div><strong>ERCOT Zone:</strong> {zone_label}</div>
       <div><strong>Voltage:</strong> {row.get('MAX_VOLT', 'N/A')} kV</div>
       <div><strong>Lines:</strong> {row.get('LINES', 'N/A')}</div>
       <div style="margin-top: 10px;"><strong>Capacity Score</strong></div>
@@ -58,21 +65,26 @@ def _popup_html(row: pd.Series) -> str:
       <div style="margin-top: 8px;"><strong>LMP avg:</strong> {row.get('lmp_avg', 'N/A')}</div>
       <div><strong>Hub spread:</strong> {row.get('lmp_hub_spread', 'N/A')}</div>
       <div><strong>Shadow price:</strong> {row.get('shadow_price_nearby', 'N/A')}</div>
-      <div style="margin-top: 8px; color: #475569;"><strong>Data:</strong> {escape(str(row.get('data_source', '')))} | {escape(str(row.get('score_timestamp', '')))}</div>
+      <div style="margin-top: 8px; color: #475569;">
+        <strong>Score basis:</strong> {escape(score_basis)} |
+        <strong>Queue:</strong> ~{queue_hits} proj/sub in zone
+      </div>
+      <div style="color: #475569;"><strong>Data:</strong> {escape(str(row.get('data_source', '')))} | {escape(str(row.get('score_timestamp', '')))}</div>
     </div>
     """
 
 
 def _add_marker(group: folium.FeatureGroup, row: pd.Series) -> None:
+    is_estimate = str(row.get("score_basis", "")) == "zone_estimate"
     folium.CircleMarker(
         location=[row["LATITUDE"], row["LONGITUDE"]],
         radius=_marker_radius(row["MAX_VOLT"]),
         color=COLOR_BY_TIER.get(row["TIER"], "#94a3b8"),
         weight=1,
         fill=True,
-        fill_opacity=0.8,
+        fill_opacity=0.5 if is_estimate else 0.8,
         popup=folium.Popup(_popup_html(row), max_width=320),
-        tooltip=f"{row['NAME']} — {row['TIER']} — {row['CAPACITY_SCORE'] if pd.notna(row['CAPACITY_SCORE']) else 'N/A'}",
+        tooltip=f"{row['NAME']} — {row['TIER']} — {row['CAPACITY_SCORE'] if pd.notna(row['CAPACITY_SCORE']) else 'N/A'}{'*' if is_estimate else ''}",
     ).add_to(group)
 
 
@@ -106,21 +118,32 @@ def build_capacity_map(
     layers = {
         "All substations": folium.FeatureGroup(name="All substations", show=True),
         "AVAILABLE only": folium.FeatureGroup(name="AVAILABLE only", show=False),
-        "MARGINAL only": folium.FeatureGroup(name="MARGINAL only", show=False),
+        "MARGINAL only (bus-matched)": folium.FeatureGroup(name="MARGINAL only (bus-matched)", show=False),
         "CONSTRAINED only": folium.FeatureGroup(name="CONSTRAINED only", show=False),
-        "500kV+ substations only": folium.FeatureGroup(name="500kV+ substations only", show=False),
+        "Zone estimates only": folium.FeatureGroup(name="Zone estimates only", show=False),
+        "345kV+ substations": folium.FeatureGroup(name="345kV+ substations", show=False),
+        "LZ_NORTH": folium.FeatureGroup(name="Zone: LZ_NORTH", show=False),
+        "LZ_SOUTH": folium.FeatureGroup(name="Zone: LZ_SOUTH", show=False),
+        "LZ_WEST": folium.FeatureGroup(name="Zone: LZ_WEST", show=False),
+        "LZ_HOUSTON": folium.FeatureGroup(name="Zone: LZ_HOUSTON", show=False),
     }
 
     for _, row in df.iterrows():
         _add_marker(layers["All substations"], row)
+        score_basis = str(row.get("score_basis", ""))
         if row["TIER"] == "AVAILABLE":
             _add_marker(layers["AVAILABLE only"], row)
-        if row["TIER"] == "MARGINAL":
-            _add_marker(layers["MARGINAL only"], row)
+        if row["TIER"] == "MARGINAL" and score_basis == "bus_match":
+            _add_marker(layers["MARGINAL only (bus-matched)"], row)
         if row["TIER"] == "CONSTRAINED":
             _add_marker(layers["CONSTRAINED only"], row)
-        if row["MAX_VOLT"] >= 500:
-            _add_marker(layers["500kV+ substations only"], row)
+        if score_basis == "zone_estimate":
+            _add_marker(layers["Zone estimates only"], row)
+        if pd.notna(row["MAX_VOLT"]) and row["MAX_VOLT"] >= 345:
+            _add_marker(layers["345kV+ substations"], row)
+        zone = str(row.get("ercot_zone", ""))
+        if zone in layers:
+            _add_marker(layers[zone], row)
 
     for layer in layers.values():
         layer.add_to(fmap)
@@ -132,10 +155,13 @@ def build_capacity_map(
                 padding: 12px 14px; border: 1px solid #cbd5e1; border-radius: 8px;
                 box-shadow: 0 4px 12px rgba(0,0,0,0.08); font-family: Arial, sans-serif; font-size: 13px;">
       <div style="font-weight: 700; margin-bottom: 8px;">Index Legend</div>
-      <div><span style="color:#22c55e;">●</span> AVAILABLE (70-100)</div>
-      <div><span style="color:#f59e0b;">●</span> MARGINAL (40-69)</div>
-      <div><span style="color:#ef4444;">●</span> CONSTRAINED (&lt;40)</div>
-      <div><span style="color:#94a3b8;">●</span> UNSCORED (no ERCOT match)</div>
+      <div><span style="color:#22c55e;">●</span> AVAILABLE (score 70-100, bus-matched)</div>
+      <div><span style="color:#f59e0b;">●</span> MARGINAL (score 40-69)</div>
+      <div><span style="color:#ef4444;">●</span> CONSTRAINED (score &lt;40)</div>
+      <div><span style="color:#94a3b8;">●</span> UNSCORED (no zone or ERCOT match)</div>
+      <div style="margin-top: 6px; color: #475569; font-size: 11px;">
+        Faded markers = zone-level estimate (not bus-matched)
+      </div>
     </div>
     """
     fmap.get_root().html.add_child(folium.Element(legend_html))
