@@ -1,0 +1,6 @@
+.venv/
+.env
+__pycache__/
+*.pyc
+data/raw/*.zip
+data/raw/ercot_settlement_points.zip

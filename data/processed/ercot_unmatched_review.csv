@@ -1,0 +1,751 @@
+ercot_name,canonical_name,occurrences,suggested_substation,suggested_confidence,suggested_method
+CARSON,CARSON,1,Carson County Substation,0.66,hybrid_fuzzy
+CRIST,CRIST,1,Crist Road Substation,0.66,hybrid_fuzzy
+ENNIS,ENNIS,1,Ennis Creek Substation,0.66,hybrid_fuzzy
+E_BLACK_RN,BLACK,1,Black Bayou Substation,0.66,hybrid_fuzzy
+FT_K,FORT,1,Fort Brown Substation,0.66,hybrid_fuzzy
+HAMILTON,HAMILTON,1,Hamilton Road Substation,0.66,hybrid_fuzzy
+HIGHLAND,HIGHLAND,1,Highland Park Substation,0.66,hybrid_fuzzy
+H_HOLLOW_E_1,HOLLOW 1,1,Horse Hollow 1 & 2 Substation,0.66,hybrid_fuzzy
+H_HOLLOW_V_A,HOLLOW,1,Wolf Hollow Substation,0.66,hybrid_fuzzy
+INADALE,INADALE,1,Inadale Wind Farm Substation,0.66,hybrid_fuzzy
+JOHNSON,JOHNSON,1,Johnson City Substation,0.66,hybrid_fuzzy
+KIOWA,KIOWA,1,Kiowa 2 Sub,0.66,hybrid_fuzzy
+LEON_SLR_RN,LEON,1,Leon Junction Substation,0.66,hybrid_fuzzy
+LONE,LONE,1,Lone Tree Substation,0.66,hybrid_fuzzy
+MAIN,MAIN,1,North Main Substation,0.66,hybrid_fuzzy
+MOUND,MOUND,1,Little Mound Substation,0.66,hybrid_fuzzy
+ONION_K,ONION,1,Onion Creek Substation,0.66,hybrid_fuzzy
+PINN_SLR_RN,PINN,1,Pinn Road Substation,0.66,hybrid_fuzzy
+RICHLAND,RICHLAND,1,Richland Chambers Substation,0.66,hybrid_fuzzy
+SAND_L_A,SAND,1,Sand Bluff Substation,0.66,hybrid_fuzzy
+SPRING,SPRING,1,Spring Branch Substation,0.66,hybrid_fuzzy
+ST,SAINT,1,Saint Hedwig Substation,0.66,hybrid_fuzzy
+STAR_SLR_RN,STAR,1,Rising Star Substation,0.66,hybrid_fuzzy
+S_HILLS_RN,HILLS,1,Castle Hills Substation,0.66,hybrid_fuzzy
+WESTOVER,WESTOVER,1,Westover Hills Substation,0.66,hybrid_fuzzy
+WHELESS,WHELESS,1,Wheless Lane Substation,0.66,hybrid_fuzzy
+WILLOW,WILLOW,1,Willow Springs Substation,0.66,hybrid_fuzzy
+YATES,YATES,1,Marathon Yates Substation,0.66,hybrid_fuzzy
+ZACATE_L_A,ZACATE,1,Zacate Creek Substation,0.66,hybrid_fuzzy
+LONESTAR_9,LONESTAR 9,1,Lonestar Substation,0.656,hybrid_fuzzy
+FASHING_1,FASHING 1,1,Fashing Substation,0.65,hybrid_fuzzy
+FASHING_2,FASHING 2,1,Fashing Substation,0.65,hybrid_fuzzy
+HELOTES_1,HELOTES 1,1,Helotes Substation,0.65,hybrid_fuzzy
+HELOTES_2,HELOTES 2,1,Helotes Substation,0.65,hybrid_fuzzy
+RANDADO_9,RANDADO 9,1,Randado Substation,0.65,hybrid_fuzzy
+TENASKA_8,TENASKA 8,1,Kiowa Switching Station,0.65,hybrid_fuzzy
+WHITNEY__8,WHITNEY 8,1,Whitney Substation,0.65,hybrid_fuzzy
+DIBOLL_8,DIBOLL 8,1,Diboll Substation,0.643,hybrid_fuzzy
+FIREWHEEL_B1,FIREWHEEL B1,1,Firewheel Substation,0.643,hybrid_fuzzy
+FIREWHEEL_T1,FIREWHEEL T1,1,Firewheel Substation,0.643,hybrid_fuzzy
+FIREWHEEL_T2,FIREWHEEL T2,1,Firewheel Substation,0.643,hybrid_fuzzy
+RANGER_9,RANGER 9,1,Ranger Substation,0.643,hybrid_fuzzy
+SNYDER_9,SNYDER 9,1,Snyder Substation,0.643,hybrid_fuzzy
+BURLESON_8U,BURLESON 8U,1,Burleson Substation,0.637,hybrid_fuzzy
+BURLESON_8X,BURLESON 8X,1,Burleson Substation,0.637,hybrid_fuzzy
+BURLESON_8Y,BURLESON 8Y,1,Burleson Substation,0.637,hybrid_fuzzy
+COMANCHE_8Z,COMANCHE 8Z,1,Comanche Substation,0.637,hybrid_fuzzy
+CROCKETT_8V,CROCKETT 8V,1,Crockett Substation,0.637,hybrid_fuzzy
+CROCKETT_8W,CROCKETT 8W,1,Crockett Substation,0.637,hybrid_fuzzy
+LN_PORTLAND,LN PORTLAND,1,Portland Substation,0.637,hybrid_fuzzy
+LN_ROCKPORT,LN ROCKPORT,1,Rockport Substation,0.637,hybrid_fuzzy
+LN_STRATTON,LN STRATTON,1,Stratton Substation,0.637,hybrid_fuzzy
+LONESTAR_9X,LONESTAR 9X,1,Lonestar Substation,0.637,hybrid_fuzzy
+LONESTAR_9Y,LONESTAR 9Y,1,Lonestar Substation,0.637,hybrid_fuzzy
+LONESTAR_9Z,LONESTAR 9Z,1,Lonestar Substation,0.637,hybrid_fuzzy
+GOMEZ_1__Z,GOMEZ 1,1,Gomez Substation,0.633,hybrid_fuzzy
+PARIS_E_8,PARIS 8,1,Paris Substation,0.633,hybrid_fuzzy
+PARIS_N_8,PARIS 8,1,Paris Substation,0.633,hybrid_fuzzy
+ACKERLY_9X,ACKERLY 9X,1,Ackerly Substation,0.629,hybrid_fuzzy
+BANDERA_B2,BANDERA B2,1,Bandera Substation,0.629,hybrid_fuzzy
+BANDERA_BA,BANDERA BA,1,Bandera Substation,0.629,hybrid_fuzzy
+BANDERA_BB,BANDERA BB,1,Bandera Substation,0.629,hybrid_fuzzy
+HANDLEY_4G,HANDLEY 4G,1,Handley Substation,0.629,hybrid_fuzzy
+HANDLEY_5G,HANDLEY 5G,1,Handley Substation,0.629,hybrid_fuzzy
+LN_ECLIPSE,LN ECLIPSE,1,Eclipse Substation,0.629,hybrid_fuzzy
+LN_GREGORY,LN GREGORY,1,Gregory Substation,0.629,hybrid_fuzzy
+LN_SEAWALL,LN SEAWALL,1,Seawall Substation,0.629,hybrid_fuzzy
+LN_WHITING,LN WHITING,1,Whiting Substation,0.629,hybrid_fuzzy
+SEYMOUR_9X,SEYMOUR 9X,1,Seymour Substation,0.629,hybrid_fuzzy
+BNB_MESQUITE,BNB MESQUITE,1,Mesquite Substation,0.62,hybrid_fuzzy
+CASTLE_LD,CASTLE LD,1,Castle Substation,0.62,hybrid_fuzzy
+DIBOLL_8T,DIBOLL 8T,1,Diboll Substation,0.62,hybrid_fuzzy
+DIBOLL_8U,DIBOLL 8U,1,Diboll Substation,0.62,hybrid_fuzzy
+EB_ATKINS,EB ATKINS,1,Atkins Substation,0.62,hybrid_fuzzy
+LN_HECKER,LN HECKER,1,Hecker Substation,0.62,hybrid_fuzzy
+LN_KEPLER,LN KEPLER,1,Kepler Substation,0.62,hybrid_fuzzy
+LN_RINCON,LN RINCON,1,Rincon Substation,0.62,hybrid_fuzzy
+PARKER_5E,PARKER 5E,1,Parker Substation,0.62,hybrid_fuzzy
+PARKER_5W,PARKER 5W,1,Parker Substation,0.62,hybrid_fuzzy
+RANGER_9X,RANGER 9X,1,Ranger Substation,0.62,hybrid_fuzzy
+SNYDER_9Y,SNYDER 9Y,1,Snyder Substation,0.62,hybrid_fuzzy
+SNYDER_9Z,SNYDER 9Z,1,Snyder Substation,0.62,hybrid_fuzzy
+TEXOMA_T8,TEXOMA T8,1,Texoma Substation,0.62,hybrid_fuzzy
+TURKEY_EB,TURKEY EB,1,Turkey Substation,0.62,hybrid_fuzzy
+UVALDE_KV,UVALDE KV,1,Uvalde Substation,0.62,hybrid_fuzzy
+WND_WHITNEY,WND WHITNEY,1,Whitney Substation,0.611,hybrid_fuzzy
+BRAND_8A,BRAND 8A,1,Brand Substation,0.608,hybrid_fuzzy
+CROSS_E1,CROSS E1,1,Cross Substation,0.608,hybrid_fuzzy
+CROSS_E2,CROSS E2,1,Cross Substation,0.608,hybrid_fuzzy
+CROSS_W1,CROSS W1,1,Cross Substation,0.608,hybrid_fuzzy
+CROSS_W2,CROSS W2,1,Cross Substation,0.608,hybrid_fuzzy
+EB_HOVEY,EB HOVEY,1,Hovey Substation,0.608,hybrid_fuzzy
+HB_NORTH,HB NORTH,1,North Substation,0.608,hybrid_fuzzy
+HB_SOUTH,HB SOUTH,1,South Substation,0.608,hybrid_fuzzy
+LN_GAUSS,LN GAUSS,1,Gauss Substation,0.608,hybrid_fuzzy
+LZ_NORTH,LZ NORTH,1,North Substation,0.608,hybrid_fuzzy
+LZ_SOUTH,LZ SOUTH,1,South Substation,0.608,hybrid_fuzzy
+MV_BURNS_L_A,MV BURNS,1,Burns Substation,0.608,hybrid_fuzzy
+MV_BURNS_L_B,MV BURNS,1,Burns Substation,0.608,hybrid_fuzzy
+PARIS_E_8X,PARIS 8X,1,Paris Substation,0.608,hybrid_fuzzy
+PARIS_E_8Y,PARIS 8Y,1,Paris Substation,0.608,hybrid_fuzzy
+PARIS_N_8V,PARIS 8V,1,Paris Substation,0.608,hybrid_fuzzy
+PARIS_N_8W,PARIS 8W,1,Paris Substation,0.608,hybrid_fuzzy
+PARIS_N_8X,PARIS 8X,1,Paris Substation,0.608,hybrid_fuzzy
+PC_SOUTH_ALL,PC SOUTH,1,South Substation,0.608,hybrid_fuzzy
+PC_SOUTH_K,PC SOUTH,1,South Substation,0.608,hybrid_fuzzy
+SOUTH_PL_L_A,SOUTH PL,1,South Substation,0.608,hybrid_fuzzy
+SOUTH_PL_L_B,SOUTH PL,1,South Substation,0.608,hybrid_fuzzy
+SOUTH_SI_L_A,SOUTH SI,1,South Substation,0.608,hybrid_fuzzy
+SOUTH_SI_L_B,SOUTH SI,1,South Substation,0.608,hybrid_fuzzy
+SOUTH_SI_L_C,SOUTH SI,1,South Substation,0.608,hybrid_fuzzy
+SOUTH_SI_L_D,SOUTH SI,1,South Substation,0.608,hybrid_fuzzy
+SOUTH_SI_V_A,SOUTH SI,1,South Substation,0.608,hybrid_fuzzy
+SOUTH_SI_V_B,SOUTH SI,1,South Substation,0.608,hybrid_fuzzy
+WYLIE_RC_L_A,WYLIE RC,1,Wylie Substation,0.608,hybrid_fuzzy
+WYLIE_RC_L_B,WYLIE RC,1,Wylie Substation,0.608,hybrid_fuzzy
+HUNTER__TR7,HUNTER TR7,1,Hunter Substation,0.6,hybrid_fuzzy
+HUNTER__TR8,HUNTER TR8,1,Hunter Substation,0.6,hybrid_fuzzy
+LA_PALMA_1,LA PALMA 1,1,La Palma 138 Kv Substation,0.6,hybrid_fuzzy
+BLOSSOM_BUS2,BLOSSOM BUS2,1,Blossom Substation,0.595,hybrid_fuzzy
+IVEY_BOOSTER,IVEY BOOSTER,1,Booster Substation,0.595,hybrid_fuzzy
+HB_WEST,HB WEST,1,West Substation,0.591,hybrid_fuzzy
+LN_LOBO,LN LOBO,1,Lobo Substation,0.591,hybrid_fuzzy
+LZ_WEST,LZ WEST,1,West Substation,0.591,hybrid_fuzzy
+MESA_TL,MESA TL,1,Mesa Substation,0.591,hybrid_fuzzy
+TRENT_EPS,TRENT EPS,1,Trent Substation,0.586,hybrid_fuzzy
+ST_HEDWG_A,SAINT HEDWG,1,Saint Hedwig Substation,0.583,hybrid_fuzzy
+ST_HEDWG_C,SAINT HEDWG,1,Saint Hedwig Substation,0.583,hybrid_fuzzy
+ARMAND__138A,ARMAND 138A,1,Armand Substation,0.582,hybrid_fuzzy
+ARMAND__138T,ARMAND 138T,1,Armand Substation,0.582,hybrid_fuzzy
+ARMAND__138U,ARMAND 138U,1,Armand Substation,0.582,hybrid_fuzzy
+ARMAND__138Z,ARMAND 138Z,1,Armand Substation,0.582,hybrid_fuzzy
+BIPORT__138U,BIPORT 138U,1,Biport Substation,0.582,hybrid_fuzzy
+CAVERN__800X,CAVERN 800X,1,Cavern Substation,0.582,hybrid_fuzzy
+CELNEC__138S,CELNEC 138S,1,Celnec Substation,0.582,hybrid_fuzzy
+CELNEC__138T,CELNEC 138T,1,Celnec Substation,0.582,hybrid_fuzzy
+CELNEC__138U,CELNEC 138U,1,Celnec Substation,0.582,hybrid_fuzzy
+CENTER__345A,CENTER 345A,1,Center Point Substation,0.582,hybrid_fuzzy
+CENTER__345U,CENTER 345U,1,Center Point Substation,0.582,hybrid_fuzzy
+CENTER__345V,CENTER 345V,1,Center Point Substation,0.582,hybrid_fuzzy
+DAVSON__138A,DAVSON 138A,1,Davson Substation,0.582,hybrid_fuzzy
+DAVSON__138T,DAVSON 138T,1,Davson Substation,0.582,hybrid_fuzzy
+DAVSON__138U,DAVSON 138U,1,Davson Substation,0.582,hybrid_fuzzy
+DAVSON__138Z,DAVSON 138Z,1,Davson Substation,0.582,hybrid_fuzzy
+DIVIDE_9107,DIVIDE 9107,1,Divide Substation,0.582,hybrid_fuzzy
+DIVIDE_LINE,DIVIDE LINE,1,Divide Substation,0.582,hybrid_fuzzy
+FANNIN__138A,FANNIN 138A,1,Fannin Substation,0.582,hybrid_fuzzy
+FANNIN__138B,FANNIN 138B,1,Fannin Substation,0.582,hybrid_fuzzy
+FANNIN__138V,FANNIN 138V,1,Fannin Substation,0.582,hybrid_fuzzy
+FANNIN__138W,FANNIN 138W,1,Fannin Substation,0.582,hybrid_fuzzy
+HIMONT__805P,HIMONT 805P,1,Himont Substation,0.582,hybrid_fuzzy
+HIMONT__805Q,HIMONT 805Q,1,Himont Substation,0.582,hybrid_fuzzy
+HIMONT__805R,HIMONT 805R,1,Himont Substation,0.582,hybrid_fuzzy
+HIMONT__805S,HIMONT 805S,1,Himont Substation,0.582,hybrid_fuzzy
+HIMONT__805T,HIMONT 805T,1,Himont Substation,0.582,hybrid_fuzzy
+HUNTER_138P,HUNTER 138P,1,Hunter Substation,0.582,hybrid_fuzzy
+HUNTER__137P,HUNTER 137P,1,Hunter Substation,0.582,hybrid_fuzzy
+HUNTER__138P,HUNTER 138P,1,Hunter Substation,0.582,hybrid_fuzzy
+HUNTER__138Q,HUNTER 138Q,1,Hunter Substation,0.582,hybrid_fuzzy
+HUNTER__138R,HUNTER 138R,1,Hunter Substation,0.582,hybrid_fuzzy
+HUNTER__138S,HUNTER 138S,1,Hunter Substation,0.582,hybrid_fuzzy
+HUNTER__138T,HUNTER 138T,1,Hunter Substation,0.582,hybrid_fuzzy
+PETSON__138A,PETSON 138A,1,Petson Substation,0.582,hybrid_fuzzy
+PETSON__138T,PETSON 138T,1,Petson Substation,0.582,hybrid_fuzzy
+PETSON__138U,PETSON 138U,1,Petson Substation,0.582,hybrid_fuzzy
+PETSON__138Z,PETSON 138Z,1,Petson Substation,0.582,hybrid_fuzzy
+POWELL__138U,POWELL 138U,1,Powell Substation,0.582,hybrid_fuzzy
+PSARCO__138A,PSARCO 138A,1,Psarco Substation,0.582,hybrid_fuzzy
+PSARCO__138N,PSARCO 138N,1,Psarco Substation,0.582,hybrid_fuzzy
+PSARCO__138S,PSARCO 138S,1,Psarco Substation,0.582,hybrid_fuzzy
+PSARCO__138Z,PSARCO 138Z,1,Psarco Substation,0.582,hybrid_fuzzy
+RIWOOD__138A,RIWOOD 138A,1,Riwood Substation,0.582,hybrid_fuzzy
+RIWOOD__138T,RIWOOD 138T,1,Riwood Substation,0.582,hybrid_fuzzy
+RIWOOD__138U,RIWOOD 138U,1,Riwood Substation,0.582,hybrid_fuzzy
+RIWOOD__138Z,RIWOOD 138Z,1,Riwood Substation,0.582,hybrid_fuzzy
+SEAWAY__8005,SEAWAY 8005,1,Seaway Substation,0.582,hybrid_fuzzy
+SEPTON__801X,SEPTON 801X,1,Septon Substation,0.582,hybrid_fuzzy
+STRATT__138V,STRATT 138V,1,Stratt Substation,0.582,hybrid_fuzzy
+STRATT__138W,STRATT 138W,1,Stratt Substation,0.582,hybrid_fuzzy
+SYLVAN__800X,SYLVAN 800X,1,Sylvan Substation,0.582,hybrid_fuzzy
+TAYLOR__801Y,TAYLOR 801Y,1,Taylor Substation,0.582,hybrid_fuzzy
+WARVUE__138A,WARVUE 138A,1,Warvue Substation,0.582,hybrid_fuzzy
+WARVUE__138T,WARVUE 138T,1,Warvue Substation,0.582,hybrid_fuzzy
+WARVUE__138U,WARVUE 138U,1,Warvue Substation,0.582,hybrid_fuzzy
+SAN_DIEG_L_A,SAN DIEG,1,San Diego Substation,0.576,hybrid_fuzzy
+SAN_DIEG_L_B,SAN DIEG,1,San Diego Substation,0.576,hybrid_fuzzy
+AMOCO_PUN1,AMOCO PUN1,1,Amoco Substation,0.567,hybrid_fuzzy
+AMOCO_PUN2,AMOCO PUN2,1,Amoco Substation,0.567,hybrid_fuzzy
+BRYN_NORTH,BRYN NORTH,1,North Substation,0.567,hybrid_fuzzy
+BUS1_NORTH,BUS1 NORTH,1,North Substation,0.567,hybrid_fuzzy
+BUS2_SOUTH,BUS2 SOUTH,1,South Substation,0.567,hybrid_fuzzy
+BYRD_LD1,BYRD LD1,1,Byrd Substation,0.567,hybrid_fuzzy
+CORAL_SLR1,CORAL SLR1,1,Coral Substation,0.567,hybrid_fuzzy
+CORAL_SLR2,CORAL SLR2,1,Coral Substation,0.567,hybrid_fuzzy
+HADEN___138U,HADEN 138U,1,Haden Substation,0.567,hybrid_fuzzy
+HADEN___138V,HADEN 138V,1,Haden Substation,0.567,hybrid_fuzzy
+HANNA___801X,HANNA 801X,1,Hanna Substation,0.567,hybrid_fuzzy
+LOMAX___138U,LOMAX 138U,1,Lomax Substation,0.567,hybrid_fuzzy
+LOMAX___138V,LOMAX 138V,1,Lomax Substation,0.567,hybrid_fuzzy
+MESA_MOB,MESA MOB,1,Mesa Substation,0.567,hybrid_fuzzy
+MHOS_TIE,MHOS TIE,1,Mhos Substation,0.567,hybrid_fuzzy
+MONT_LD1,MONT LD1,1,Mont Substation,0.567,hybrid_fuzzy
+MONT_LD2,MONT LD2,1,Mont Substation,0.567,hybrid_fuzzy
+MONT_LN1,MONT LN1,1,Mont Substation,0.567,hybrid_fuzzy
+MONT_WND,MONT WND,1,Mont Substation,0.567,hybrid_fuzzy
+MONT_WND_RN,MONT WND,1,Mont Substation,0.567,hybrid_fuzzy
+OASIS___345A,OASIS 345A,1,Oasis Substation,0.567,hybrid_fuzzy
+SHELL___138R,SHELL 138R,1,Pemex Substation,0.567,hybrid_fuzzy
+SHELL___138Y,SHELL 138Y,1,Pemex Substation,0.567,hybrid_fuzzy
+SHELL___138Z,SHELL 138Z,1,Pemex Substation,0.567,hybrid_fuzzy
+SOUTH___138V,SOUTH 138V,1,South Substation,0.567,hybrid_fuzzy
+SOUTH___138W,SOUTH 138W,1,South Substation,0.567,hybrid_fuzzy
+TMPP_RN3,TMPP RN3,1,Grandview Tmpp Substation,0.567,hybrid_fuzzy
+TMPP_RN4,TMPP RN4,1,Grandview Tmpp Substation,0.567,hybrid_fuzzy
+VLSI_AG1,VLSI AG1,1,Vlsi Substation,0.567,hybrid_fuzzy
+BUENA_VI_L_A,BUENA VI,1,Buena Vista Substation,0.56,hybrid_fuzzy
+BUFF_GAP_E_1,BUFF GAP 1,1,Buffalo Gap 1 & 3 Substation,0.56,hybrid_fuzzy
+EAGLE_HY_L_A,EAGLE HY,1,Eagle Hydro Substation,0.56,hybrid_fuzzy
+ED_BLUE,ED BLUE,1,Ed Bluestein Substation,0.56,hybrid_fuzzy
+FT_CHADB_K,FORT CHADB,1,Fort Chadbourne Substation,0.56,hybrid_fuzzy
+GREEN_MT_A,GREEN MOUNT,1,Green Mountain Substation,0.56,hybrid_fuzzy
+GREEN_MT_L_A,GREEN MOUNT,1,Green Mountain Substation,0.56,hybrid_fuzzy
+HAINE_DR_L_A,HAINE DR,1,Haine Drive Substation,0.56,hybrid_fuzzy
+HAINE_DR_L_B,HAINE DR,1,Haine Drive Substation,0.56,hybrid_fuzzy
+HUBBARD,HUBBARD,1,Hubbard Booster #1 Substation,0.56,hybrid_fuzzy
+KOCH_UP_K,KOCH UP,1,Koch Upriver Substation,0.56,hybrid_fuzzy
+KOCH_UP_L_A,KOCH UP,1,Koch Upriver Substation,0.56,hybrid_fuzzy
+KOCH_UP_L_B,KOCH UP,1,Koch Upriver Substation,0.56,hybrid_fuzzy
+KOCH_UP_R_A,KOCH UP,1,Koch Upriver Substation,0.56,hybrid_fuzzy
+KOCH_UP_V_A,KOCH UP,1,Koch Upriver Substation,0.56,hybrid_fuzzy
+KOCH_UP_V_B,KOCH UP,1,Koch Upriver Substation,0.56,hybrid_fuzzy
+MARIAH,MARIAH,1,Mariah Del Norte Wind Substation,0.56,hybrid_fuzzy
+MARIAH_ALL,MARIAH,1,Mariah Del Norte Wind Substation,0.56,hybrid_fuzzy
+N_PADRE_L_A,PADRE,1,North Padre Island Substation,0.56,hybrid_fuzzy
+N_PADRE_L_B,PADRE,1,North Padre Island Substation,0.56,hybrid_fuzzy
+PAULANN_L_A,PAULANN,1,San Angelo Paulann Substation,0.56,hybrid_fuzzy
+REBECCA_L_A,REBECCA,1,Abilene Rebecca Lane Substation,0.56,hybrid_fuzzy
+RENO,RENO,1,El Reno Southwest Substation,0.56,hybrid_fuzzy
+S_PADRE_L_A,PADRE,1,North Padre Island Substation,0.56,hybrid_fuzzy
+S_PADRE_L_B,PADRE,1,North Padre Island Substation,0.56,hybrid_fuzzy
+TANK_L_A,TANK,1,Phillips Tank Farm Substation,0.56,hybrid_fuzzy
+TWILIGHT_L_A,TWILIGHT,1,Abilene Twilight Trails Substation,0.56,hybrid_fuzzy
+WINKLER_L_A,WINKLER,1,Winkler County #6 Substation,0.56,hybrid_fuzzy
+WINKLER_L_B,WINKLER,1,Winkler County #6 Substation,0.56,hybrid_fuzzy
+EAGLE_PS_L_A,EAGLE PS,1,Eagle Pass Substation,0.556,hybrid_fuzzy
+EAGLE_PS_L_B,EAGLE PS,1,Eagle Pass Substation,0.556,hybrid_fuzzy
+EAGLE_PS_V_A,EAGLE PS,1,Eagle Pass Substation,0.556,hybrid_fuzzy
+EAGLE_PS_V_B,EAGLE PS,1,Eagle Pass Substation,0.556,hybrid_fuzzy
+HEARN_RD_L_A,HEARN RD,1,Hearn Road Substation,0.556,hybrid_fuzzy
+HEARN_RD_RN,HEARN RD,1,Hearn Road Substation,0.556,hybrid_fuzzy
+LEARY_LN_L_A,LEARY LN,1,Leary Lane Substation,0.556,hybrid_fuzzy
+LEARY_LN_L_B,LEARY LN,1,Leary Lane Substation,0.556,hybrid_fuzzy
+MINES_RD_L_A,MINES RD,1,Mines Road Substation,0.556,hybrid_fuzzy
+PILOT_KB,PILOT KB,1,Pilot Knob Substation,0.556,hybrid_fuzzy
+RODD_FLD_L_A,RODD FLD,1,Rodd Field Substation,0.556,hybrid_fuzzy
+RODD_FLD_L_B,RODD FLD,1,Rodd Field Substation,0.556,hybrid_fuzzy
+WEIL_TRC_L_A,WEIL TRC,1,Weil Tract Substation,0.556,hybrid_fuzzy
+WEIL_TRC_V_A,WEIL TRC,1,Weil Tract Substation,0.556,hybrid_fuzzy
+WEIL_TRC_V_B,WEIL TRC,1,Weil Tract Substation,0.556,hybrid_fuzzy
+MORGAN,MORGAN,1,Osm_Way_467959241,0.553,hybrid_fuzzy
+BECK_RD_A,BECK RD,1,Beck Road Substation,0.55,hybrid_fuzzy
+BECK_RD_C,BECK RD,1,Beck Road Substation,0.55,hybrid_fuzzy
+HIWAY_9_L_A,HIWAY 9,1,Highway 9 Substation,0.55,hybrid_fuzzy
+HIWAY_9_L_B,HIWAY 9,1,Highway 9 Substation,0.55,hybrid_fuzzy
+HIWAY_9_L_C,HIWAY 9,1,Highway 9 Substation,0.55,hybrid_fuzzy
+HIWAY_9_V_A,HIWAY 9,1,Highway 9 Substation,0.55,hybrid_fuzzy
+HIWAY_9_V_B,HIWAY 9,1,Highway 9 Substation,0.55,hybrid_fuzzy
+HIWAY_9_V_C,HIWAY 9,1,Highway 9 Substation,0.55,hybrid_fuzzy
+HIWAY_9_V_D,HIWAY 9,1,Highway 9 Substation,0.55,hybrid_fuzzy
+PINN_RD_B,PINN RD,1,Pinn Road Substation,0.55,hybrid_fuzzy
+BASF____138A,BASF 138A,1,Basf Substation,0.546,hybrid_fuzzy
+BASF____138N,BASF 138N,1,Basf Substation,0.546,hybrid_fuzzy
+BASF____138O,BASF 138O,1,Basf Substation,0.546,hybrid_fuzzy
+BASF____138P,BASF 138P,1,Basf Substation,0.546,hybrid_fuzzy
+BASF____138Q,BASF 138Q,1,Basf Substation,0.546,hybrid_fuzzy
+BASF____138Z,BASF 138Z,1,Basf Substation,0.546,hybrid_fuzzy
+KING____345A,KING 345A,1,King Substation,0.546,hybrid_fuzzy
+KING____345Z,KING 345Z,1,King Substation,0.546,hybrid_fuzzy
+MULA____138X,MULA 138X,1,Mula Substation,0.546,hybrid_fuzzy
+PORT____138A,PORT 138A,1,Port Substation,0.546,hybrid_fuzzy
+PORT____138V,PORT 138V,1,Port Substation,0.546,hybrid_fuzzy
+PORT____138W,PORT 138W,1,Port Substation,0.546,hybrid_fuzzy
+PORT____138X,PORT 138X,1,Port Substation,0.546,hybrid_fuzzy
+TECO_ECHB,TECO ECHB,1,Teco Substation,0.546,hybrid_fuzzy
+TORR_LOBO,TORR LOBO,1,Lobo Substation,0.546,hybrid_fuzzy
+WWR2_LYNX,WWR2 LYNX,1,Lynx Substation,0.546,hybrid_fuzzy
+KIOWA_5,KIOWA 5,1,Kiowa 2 Sub,0.543,hybrid_fuzzy
+AMD_SA_B,AMD SAN,1,Amd Substation,0.54,hybrid_fuzzy
+LA_PALMA_2,LA PALMA 2,1,La Palma 69 Kv Substation,0.54,hybrid_fuzzy
+FIVE_PTS_A,FIVE PTS,1,Five Points Substation,0.537,hybrid_fuzzy
+FIVE_PTS_B,FIVE PTS,1,Five Points Substation,0.537,hybrid_fuzzy
+FIVE_PTS_C,FIVE PTS,1,Five Points Substation,0.537,hybrid_fuzzy
+FIVE_PTS_D,FIVE PTS,1,Five Points Substation,0.537,hybrid_fuzzy
+FIVE_PTS_E,FIVE PTS,1,Five Points Substation,0.537,hybrid_fuzzy
+FIVE_PTS_F,FIVE PTS,1,Five Points Substation,0.537,hybrid_fuzzy
+HARLIN_1_L_A,HARLIN 1,1,Harlingen #1 Substation,0.537,hybrid_fuzzy
+HARLIN_1_L_B,HARLIN 1,1,Harlingen #1 Substation,0.537,hybrid_fuzzy
+HARLIN_1_RN,HARLIN 1,1,Harlingen #1 Substation,0.537,hybrid_fuzzy
+HARLIN_1_V_A,HARLIN 1,1,Harlingen #1 Substation,0.537,hybrid_fuzzy
+MUSTANG_8,MUSTANG 8,1,Mustang Ca Substation,0.537,hybrid_fuzzy
+PECAN_BY_K,PECAN BY,1,Pecan Bayou Substation,0.537,hybrid_fuzzy
+PRICE_RDY,PRICE RDY,1,Price Road Substation,0.537,hybrid_fuzzy
+PRICE_RDZ,PRICE RDZ,1,Price Road Substation,0.537,hybrid_fuzzy
+PC_SOUTH_2,PC SOUTH 2,1,South Plains Wind 2 Substation,0.533,hybrid_fuzzy
+LONE_STR_L_A,LONE STR,1,Lone Tree Substation,0.529,hybrid_fuzzy
+LN_N_SHARPE,LN SHARPE,1,Nelson Sharpe Substation,0.527,hybrid_fuzzy
+ALAMO_CM_A,ALAMO CM,1,Alamo Cement Substation,0.52,hybrid_fuzzy
+ALAMO_CM_C,ALAMO CM,1,Alamo Cement Substation,0.52,hybrid_fuzzy
+CAGNON_AA,CAGNON AA,1,Cagnon Road Substation,0.52,hybrid_fuzzy
+CAGNON_DD,CAGNON DD,1,Cagnon Road Substation,0.52,hybrid_fuzzy
+KIOWA_5Y,KIOWA 5Y,1,Kiowa 2 Sub,0.52,hybrid_fuzzy
+KIOWA_5Z,KIOWA 5Z,1,Kiowa 2 Sub,0.52,hybrid_fuzzy
+KOENIG_EB,KOENIG EB,1,Koenig Lane Substation,0.52,hybrid_fuzzy
+MCCOY_1,MCCOY 1,1,Mccook 1 Substation,0.52,hybrid_fuzzy
+BRISCOE_LFL,BRISCOE LFL,1,Briscoe Wind Farm Substation,0.513,hybrid_fuzzy
+DUKE_CC1,DUKE,1,Notrees Substation,0.513,hybrid_fuzzy
+GRISSOM_AG1,GRISSOM AG1,1,Grissom Road Substation,0.513,hybrid_fuzzy
+KING_KINGNW,KING KINGNW,1,King Substation,0.513,hybrid_fuzzy
+KING_KINGSE,KING KINGSE,1,King Substation,0.513,hybrid_fuzzy
+EB1_DAVIS,EB1 DAVIS,1,Ben Davis Substation,0.511,hybrid_fuzzy
+EB2_DAVIS,EB2 DAVIS,1,Ben Davis Substation,0.511,hybrid_fuzzy
+RIVER_SD_L_A,RIVER SD,1,River Oaks Substation,0.511,hybrid_fuzzy
+R_NUECES_B_3,NUECES 3,1,Nueces Bay Substation,0.511,hybrid_fuzzy
+WHITE_PT_K,WHITE PT,1,White City Substation,0.511,hybrid_fuzzy
+EL_TR1,EL TR1,1,El Toro Substation,0.508,hybrid_fuzzy
+EXN_4,EXN 4,1,Exelon Wind 4 Substation,0.508,hybrid_fuzzy
+USAA_H0,USAA H0,1,Usaa #1 Substation,0.508,hybrid_fuzzy
+BRISCOE_5,BRISCOE 5,1,Briscoe Wind Farm Substation,0.505,hybrid_fuzzy
+BROOKS_KF,BROOKS KF,1,Brooks Field Substation,0.505,hybrid_fuzzy
+COTTON_EB1,COTTON EB1,1,Cotton Belt Substation,0.505,hybrid_fuzzy
+EULESS_8O,EULESS 8O,1,Euless South Substation,0.505,hybrid_fuzzy
+EULESS_S_8U,EULESS 8U,1,Euless South Substation,0.505,hybrid_fuzzy
+STONEY_RX,STONEY RX,1,Stoney Ridge Substation,0.505,hybrid_fuzzy
+STONEY_RY,STONEY RY,1,Stoney Ridge Substation,0.505,hybrid_fuzzy
+STONEY_RZ,STONEY RZ,1,Stoney Ridge Substation,0.505,hybrid_fuzzy
+TURTLE_KV,TURTLE KV,1,Turtle Creek Substation,0.505,hybrid_fuzzy
+VALLEY_AG1,VALLEY AG1,1,Valley Road Substation,0.505,hybrid_fuzzy
+VALLEY_AG2,VALLEY AG2,1,Valley Road Substation,0.505,hybrid_fuzzy
+WALZEM_AG1,WALZEM AG1,1,Walzem Road Substation,0.505,hybrid_fuzzy
+BRISCOE_LFL2,BRISCOE LFL2,1,Briscoe Wind Farm Substation,0.5,hybrid_fuzzy
+CHAMPION_8X,CHAMPION 8X,1,Champion Wind Farm Substation,0.5,hybrid_fuzzy
+CHAMPION_8Y,CHAMPION 8Y,1,Champion Wind Farm Substation,0.5,hybrid_fuzzy
+DC_ROAD_L_B,DC ROAD,1,Beck Road Substation,0.5,hybrid_fuzzy
+DC_ROAD_R_B,DC ROAD,1,Beck Road Substation,0.5,hybrid_fuzzy
+EB1_BATTERY,EB1 BATTERY,1,Tesla Battery Substation,0.5,hybrid_fuzzy
+RANKIN4_EAST,RANKIN4 EAST,1,East Substation,0.5,hybrid_fuzzy
+CARRIZO_ESR1,CARRIZO ESR1,1,Carrizo Springs Substation,0.496,hybrid_fuzzy
+AIR_LIQC_L_A,AIR LIQC,1,Bimont Substation,0.495,hybrid_fuzzy
+ENCINO_2,ENCINO 2,1,Encino Park Substation,0.495,hybrid_fuzzy
+GRAHAM_9,GRAHAM 9,1,Graham Road Substation,0.495,hybrid_fuzzy
+LOMA_ALT_AG1,LOMA ALT AG1,1,Loma Alta Substation,0.493,hybrid_fuzzy
+COTTON_L152,COTTON L152,1,Cotton Belt Substation,0.491,hybrid_fuzzy
+PANDA_T1_CC1,PANDA T1,1,Panda Temple 1 Substation,0.491,hybrid_fuzzy
+PANDA_T1_CT1,PANDA T1,1,Panda Temple 1 Substation,0.491,hybrid_fuzzy
+PANDA_T1_CT2,PANDA T1,1,Panda Temple 1 Substation,0.491,hybrid_fuzzy
+PANDA_T1_ST1,PANDA T1,1,Panda Temple 1 Substation,0.491,hybrid_fuzzy
+PANDA_T2_CC1,PANDA T2,1,Panda Temple 2 Substation,0.491,hybrid_fuzzy
+PANDA_T2_CT1,PANDA T2,1,Panda Temple 2 Substation,0.491,hybrid_fuzzy
+PANDA_T2_CT2,PANDA T2,1,Panda Temple 2 Substation,0.491,hybrid_fuzzy
+PANDA_T2_ST1,PANDA T2,1,Panda Temple 2 Substation,0.491,hybrid_fuzzy
+PSA_1,PSA 1,1,Usaa #1 Substation,0.491,hybrid_fuzzy
+PSA_2,PSA 2,1,Usaa #2 Substation,0.491,hybrid_fuzzy
+SWEETWN3_3,SWEETWN3 3,1,Sweetwater Wind 3 Substation,0.491,hybrid_fuzzy
+SWEETWND_1,SWEETWND 1,1,Sweetwater Wind 1 Substation,0.491,hybrid_fuzzy
+CALLAHAN_E_1,CALLAHAN 1,1,Callahan Divide Wind Substation,0.488,hybrid_fuzzy
+CHAMPION_595,CHAMPION 595,1,Champion Wind Farm Substation,0.488,hybrid_fuzzy
+NAVARRO_BUS1,NAVARRO BUS1,1,Navarro Mills Substation,0.488,hybrid_fuzzy
+NAVARRO_BUS2,NAVARRO BUS2,1,Navarro Mills Substation,0.488,hybrid_fuzzy
+ST_HEDWG_AA,SAINT HEDWG AA,1,Saint Hedwig Substation,0.488,hybrid_fuzzy
+ST_HEDWG_BB,SAINT HEDWG BB,1,Saint Hedwig Substation,0.488,hybrid_fuzzy
+WESTOVER_8W,WESTOVER 8W,1,Westover Hills Substation,0.488,hybrid_fuzzy
+EL_RAYO_ALL,EL RAYO,1,El Toro Substation,0.486,hybrid_fuzzy
+CLAYTN_1,CLAYTN 1,1,Clifton 1 Substation,0.482,hybrid_fuzzy
+FIVE_EB,FIVE EB,1,Five Wells Substation,0.482,hybrid_fuzzy
+FT_KV,FORT KV,1,Fort Davis Substation,0.482,hybrid_fuzzy
+FT_KW,FORT KW,1,Fort Brown Substation,0.482,hybrid_fuzzy
+PINN_LD1,PINN LD1,1,Pinn Road Substation,0.482,hybrid_fuzzy
+PINN_LD2,PINN LD2,1,Pinn Road Substation,0.482,hybrid_fuzzy
+PINN_LD3,PINN LD3,1,Pinn Road Substation,0.482,hybrid_fuzzy
+RIO_RICO_L_A,RIO RICO,1,Rio Pecos Substation,0.482,hybrid_fuzzy
+RIO_RICO_L_B,RIO RICO,1,Rio Pecos Substation,0.482,hybrid_fuzzy
+ROCK_ATL_L_A,ROCK ATL,1,Rock Hill Substation,0.482,hybrid_fuzzy
+R_COLETO_1,COLETO 1,1,Clifton 1 Substation,0.482,hybrid_fuzzy
+SODA_LD1,SODA LD1,1,Soda Lake Substation,0.482,hybrid_fuzzy
+SODA_LN1,SODA LN1,1,Soda Lake Substation,0.482,hybrid_fuzzy
+CAGNON_EE,CAGNON EE,1,Cagnon Road Substation,0.48,hybrid_fuzzy
+EAGLE___138A,EAGLE 138A,1,Eagle Lake Substation,0.48,hybrid_fuzzy
+ED_BLUEX,ED BLUEX,1,Ed Bluestein Substation,0.48,hybrid_fuzzy
+ED_BLUEY,ED BLUEY,1,Ed Bluestein Substation,0.48,hybrid_fuzzy
+ED_BLUEZ,ED BLUEZ,1,Ed Bluestein Substation,0.48,hybrid_fuzzy
+EULESS_8,EULESS 8,1,Euless South Substation,0.48,hybrid_fuzzy
+GOODLAND_1,GOODLAND 1,1,Woodward Wind 1 Substation,0.48,hybrid_fuzzy
+GOODLAND_2,GOODLAND 2,1,Woodward Wind 2 Substation,0.48,hybrid_fuzzy
+GRAHAM_9S,GRAHAM 9S,1,Graham Road Substation,0.48,hybrid_fuzzy
+GRAHAM_9T,GRAHAM 9T,1,Graham Road Substation,0.48,hybrid_fuzzy
+HILLCITY_2,HILLCITY 2,1,Phillips #2 Substation,0.48,hybrid_fuzzy
+KARNES_LD,KARNES LD,1,Karnes City Substation,0.48,hybrid_fuzzy
+MINES_LD02,MINES LD02,1,Mines Road Substation,0.48,hybrid_fuzzy
+SIXTH_EB,SIXTH EB,1,Sixth Street Substation,0.48,hybrid_fuzzy
+ST_KE,SAINT KE,1,Saint Hedwig Substation,0.48,hybrid_fuzzy
+ST_KW,SAINT KW,1,Saint Hedwig Substation,0.48,hybrid_fuzzy
+VON_ROSE,VON ROSE,1,Arthur Von Rosenberg Switchyard,0.48,hybrid_fuzzy
+ALAMO_ST_RN,ALAMO SAINT,1,Alamo Cement Substation,0.478,hybrid_fuzzy
+BEEVILLES_1,BEEVILLES 1,1,Gatesville #1 Substation,0.478,hybrid_fuzzy
+CRYSTAL_LD1,CRYSTAL LD1,1,Crystal City Substation,0.478,hybrid_fuzzy
+CRYSTAL_LD2,CRYSTAL LD2,1,Crystal City Substation,0.478,hybrid_fuzzy
+DRESDEN_KA,DRESDEN KA,1,Dresden Drive Substation,0.478,hybrid_fuzzy
+SIXTH_ST_L_A,SIXTH SAINT,1,Sixth Street Substation,0.478,hybrid_fuzzy
+SIXTH_ST_L_B,SIXTH SAINT,1,Sixth Street Substation,0.478,hybrid_fuzzy
+TENTH_ST_A,TENTH SAINT,1,Tenth Street Substation,0.478,hybrid_fuzzy
+TENTH_ST_B,TENTH SAINT,1,Tenth Street Substation,0.478,hybrid_fuzzy
+TENTH_ST_C,TENTH SAINT,1,Tenth Street Substation,0.478,hybrid_fuzzy
+TENTH_ST_D,TENTH SAINT,1,Tenth Street Substation,0.478,hybrid_fuzzy
+TENTH_ST_E,TENTH SAINT,1,Tenth Street Substation,0.478,hybrid_fuzzy
+TENTH_ST_F,TENTH SAINT,1,Tenth Street Substation,0.478,hybrid_fuzzy
+TENTH_ST_G,TENTH SAINT,1,Tenth Street Substation,0.478,hybrid_fuzzy
+TENTH_ST_H,TENTH SAINT,1,Tenth Street Substation,0.478,hybrid_fuzzy
+LOMA_ALT_KY,LOMA ALT KY,1,Loma Alta Substation,0.47,hybrid_fuzzy
+LON_HILL1_LN,LON HILL1 LN,1,Lon Hill Substation,0.47,hybrid_fuzzy
+AMOCOOIL_E_1,AMOCOOIL 1,1,Mccook 1 Substation,0.467,hybrid_fuzzy
+AMOCOOIL_E_2,AMOCOOIL 2,1,Mccook 2 Substation,0.467,hybrid_fuzzy
+BL_BROWN_L_A,BL BROWN,1,Fort Brown Substation,0.467,hybrid_fuzzy
+BRDSW_1,BRDSW 1,1,Brazos Wind 1 Substation,0.467,hybrid_fuzzy
+BRDSW_2,BRDSW 2,1,Brazos Wind 2 Substation,0.467,hybrid_fuzzy
+BUS1_1,BUS1 1,1,Usaa #1 Substation,0.467,hybrid_fuzzy
+BUS2_1,BUS2 1,1,Usaa #1 Substation,0.467,hybrid_fuzzy
+CLAYTN_2,CLAYTN 2,1,Cliffton 2 Substation,0.467,hybrid_fuzzy
+CV_KA,CV KA,1,Cv Lusk Substation,0.467,hybrid_fuzzy
+CV_KO,CV KO,1,Cv Lusk Substation,0.467,hybrid_fuzzy
+CV_KZ,CV KZ,1,Cv Lusk Substation,0.467,hybrid_fuzzy
+DOW_E_1,DOW 1,1,Kiowa 1 Sub,0.467,hybrid_fuzzy
+DOW_E_2,DOW 2,1,Kiowa 2 Sub,0.467,hybrid_fuzzy
+EB_DANSBY_LN,EB DANSBY LN,1,Dansby Substation,0.467,hybrid_fuzzy
+ET_1,ET 1,1,Kermit #1 Substation,0.467,hybrid_fuzzy
+EULESS_8P,EULESS 8P,1,Euless South Substation,0.467,hybrid_fuzzy
+EULESS_8Q,EULESS 8Q,1,Euless South Substation,0.467,hybrid_fuzzy
+EULESS_8R,EULESS 8R,1,Euless South Substation,0.467,hybrid_fuzzy
+EULESS_8Y,EULESS 8Y,1,Euless South Substation,0.467,hybrid_fuzzy
+EULESS_8Z,EULESS 8Z,1,Euless South Substation,0.467,hybrid_fuzzy
+EULESS_S_8V,EULESS 8V,1,Euless South Substation,0.467,hybrid_fuzzy
+EULESS_S_8Z,EULESS 8Z,1,Euless South Substation,0.467,hybrid_fuzzy
+FIVE_LD1,FIVE LD1,1,Five Wells Substation,0.467,hybrid_fuzzy
+FIVE_LD2,FIVE LD2,1,Five Wells Substation,0.467,hybrid_fuzzy
+FT_138C,FORT 138C,1,Fort Cobb,0.467,hybrid_fuzzy
+FT_KK,FORT KK,1,Fort Sam Substation,0.467,hybrid_fuzzy
+FT_KZ,FORT KZ,1,Fort Sam Substation,0.467,hybrid_fuzzy
+GRISSOM_L145,GRISSOM L145,1,Grissom Road Substation,0.467,hybrid_fuzzy
+GRISSOM_L215,GRISSOM L215,1,Grissom Road Substation,0.467,hybrid_fuzzy
+GRISSOM_L605,GRISSOM L605,1,Grissom Road Substation,0.467,hybrid_fuzzy
+GRISSOM_LS12,GRISSOM LS12,1,Grissom Road Substation,0.467,hybrid_fuzzy
+HAYSEN_E_2,HAYSEN 2,1,Hagerman #2 Substation,0.467,hybrid_fuzzy
+KOCH_UPG1,KOCH UPG1,1,Koch Upriver Substation,0.467,hybrid_fuzzy
+LN_HAMILTON,LN HAMILTON,1,Hamilton Road Substation,0.467,hybrid_fuzzy
+L_WESER_9_1Y,WESER 9 1Y,1,Weser Substation,0.467,hybrid_fuzzy
+L_WESER_9_2Y,WESER 9 2Y,1,Weser Substation,0.467,hybrid_fuzzy
+NUECES__0002,NUECES 0002,1,Nueces Bay Substation,0.467,hybrid_fuzzy
+NUECES__0003,NUECES 0003,1,Nueces Bay Substation,0.467,hybrid_fuzzy
+NUECES__0004,NUECES 0004,1,Nueces Bay Substation,0.467,hybrid_fuzzy
+NUECES__0005,NUECES 0005,1,Nueces Bay Substation,0.467,hybrid_fuzzy
+NUECES__3417,NUECES 3417,1,Nueces Bay Substation,0.467,hybrid_fuzzy
+NUECES__3418,NUECES 3418,1,Nueces Bay Substation,0.467,hybrid_fuzzy
+NUECES__L189,NUECES L189,1,Nueces Bay Substation,0.467,hybrid_fuzzy
+OXY_EB,OXY EB,1,Oxy Petro Substation,0.467,hybrid_fuzzy
+OXY_EQ,OXY EQ,1,Oxy Petro Substation,0.467,hybrid_fuzzy
+OXY_PUN1,OXY PUN1,1,Oxy Tap Substation,0.467,hybrid_fuzzy
+OXY_PUN2,OXY PUN2,1,Oxy Tap Substation,0.467,hybrid_fuzzy
+PC_NORTH_1,PC NORTH 1,1,North Substation,0.467,hybrid_fuzzy
+PC_SOUTH_3,PC SOUTH 3,1,South Substation,0.467,hybrid_fuzzy
+RED_TR1,RED TR1,1,Red Rock Substation,0.467,hybrid_fuzzy
+RED_TR2,RED TR2,1,Red Rock Substation,0.467,hybrid_fuzzy
+RED_TR3,RED TR3,1,Red Rock Substation,0.467,hybrid_fuzzy
+ROCK_A_ROCKS,ROCK ROCKS,1,Red Rock Substation,0.467,hybrid_fuzzy
+R_STEAM_2,STEAM 2,1,Strata #2 Substation,0.467,hybrid_fuzzy
+R_TUTTLE_1,TUTTLE 1,1,Tuttle Conoco,0.467,hybrid_fuzzy
+R_VICTORIA_2,VICTORIA 2,1,North Victoria Substation,0.467,hybrid_fuzzy
+R_VICTORIA_3,VICTORIA 3,1,North Victoria Substation,0.467,hybrid_fuzzy
+SALV_1,SALV 1,1,Usaa #1 Substation,0.467,hybrid_fuzzy
+SALV_2,SALV 2,1,Usaa #2 Substation,0.467,hybrid_fuzzy
+SA_KG,SAN KG,1,San Diego Substation,0.467,hybrid_fuzzy
+TAYLOR_W1_8X,TAYLOR W1 8X,1,Taylor Substation,0.467,hybrid_fuzzy
+TEMPT_1,TEMPT 1,1,Kermit #1 Substation,0.467,hybrid_fuzzy
+TR_2,TR 2,1,Strata #2 Substation,0.467,hybrid_fuzzy
+WAL_BESS_1,WAL 1,1,Kiowa 1 Sub,0.467,hybrid_fuzzy
+WAP_1,WAP 1,1,Kiowa 1 Sub,0.467,hybrid_fuzzy
+WAP_2,WAP 2,1,Kiowa 2 Sub,0.467,hybrid_fuzzy
+WAP_E_1,WAP 1,1,Kiowa 1 Sub,0.467,hybrid_fuzzy
+WAP_E_2,WAP 2,1,Kiowa 2 Sub,0.467,hybrid_fuzzy
+WOOD_LD01,WOOD LD01,1,Wood Draw Substation,0.467,hybrid_fuzzy
+_AZ_E_1,AZ 1,1,Brazos Wind 1 Substation,0.467,hybrid_fuzzy
+9_EB,9 EB,1,#9,0.46,hybrid_fuzzy
+EB_9,EB 9,1,#9,0.46,hybrid_fuzzy
+TN_9,TN 9,1,#9,0.46,hybrid_fuzzy
+BRAUNIG_KH,BRAUNIG KH,1,Braunig Switchyard,0.457,hybrid_fuzzy
+SHAFR_SHARPE,SHAFR SHARPE,1,Nelson Sharpe Substation,0.456,hybrid_fuzzy
+BALL_PARK_B,BALL PARK,1,Triangle Park Substation,0.455,hybrid_fuzzy
+BALL_PARK_C,BALL PARK,1,Triangle Park Substation,0.455,hybrid_fuzzy
+BUFF_GAP_ALL,BUFF GAP,1,Buffalo Gap 2 Substation,0.455,hybrid_fuzzy
+CASL_GAP_01,CASL GAP 01,1,Castle Gap Substation,0.455,hybrid_fuzzy
+COTTON_PAP2,COTTON PAP2,1,Cotton Belt Substation,0.455,hybrid_fuzzy
+EAGLE_HY_E_1,EAGLE HY 1,1,Eagle Hydro Substation,0.455,hybrid_fuzzy
+FIVE_PTS_1,FIVE PTS 1,1,Five Points Substation,0.455,hybrid_fuzzy
+SCURRY_9,SCURRY 9,1,Scurry Chevron Substation,0.455,hybrid_fuzzy
+SENATEWD_1,SENATEWD 1,1,Sweetwater Wind 1 Substation,0.455,hybrid_fuzzy
+WHITE_PT0015,WHITE PT0015,1,White City Substation,0.455,hybrid_fuzzy
+WHITE_PT3547,WHITE PT3547,1,White City Substation,0.455,hybrid_fuzzy
+WHITE_PTL380,WHITE PTL380,1,White City Substation,0.455,hybrid_fuzzy
+BLUE_UN1,BLUE UN1,1,Blue Summit Wind Substation,0.453,hybrid_fuzzy
+BLUE_UN2,BLUE UN2,1,Blue Summit Wind Substation,0.453,hybrid_fuzzy
+EB_MINE,EB MINE,1,Shafter Mine Substation,0.453,hybrid_fuzzy
+FIVE_UN1,FIVE UN1,1,Five Points Substation,0.453,hybrid_fuzzy
+FIVE_UN2,FIVE UN2,1,Five Points Substation,0.453,hybrid_fuzzy
+FT_138G,FORT 138G,1,Fort Gates Substation,0.453,hybrid_fuzzy
+GALLO_1,GALLO 1,1,Gatesville #1 Substation,0.453,hybrid_fuzzy
+HAYSEN1_2,HAYSEN1 2,1,Hagerman #2 Substation,0.453,hybrid_fuzzy
+HAYSEN_E_1,HAYSEN 1,1,Harlingen #1 Substation,0.453,hybrid_fuzzy
+HOLLIDAY_9,HOLLIDAY 9,1,Highway 9 Substation,0.453,hybrid_fuzzy
+OATES_B_2,OATES 2,1,Gatesville #2 Substation,0.453,hybrid_fuzzy
+OLINGR_1,OLINGR 1,1,Harlingen #1 Substation,0.453,hybrid_fuzzy
+OXY_INGL_L_C,OXY INGL,1,Oxy Cogdell Substation,0.453,hybrid_fuzzy
+OXY_INGL_L_F,OXY INGL,1,Oxy Cogdell Substation,0.453,hybrid_fuzzy
+OXY_INGL_L_G,OXY INGL,1,Oxy Cogdell Substation,0.453,hybrid_fuzzy
+OXY_INGL_L_H,OXY INGL,1,Oxy Cogdell Substation,0.453,hybrid_fuzzy
+OXY_INGL_L_I,OXY INGL,1,Oxy Cogdell Substation,0.453,hybrid_fuzzy
+R_INKSDA_1,INKSDA 1,1,Kingsland 1 Substation,0.453,hybrid_fuzzy
+R_OLINGR_1,OLINGR 1,1,Harlingen #1 Substation,0.453,hybrid_fuzzy
+SA_HILND_L_A,SAN HILND,1,San Andres Substation,0.453,hybrid_fuzzy
+SCLPCOGN_E_1,SCLPCOGN 1,1,Clifton 1 Substation,0.453,hybrid_fuzzy
+S_LCOGEN_1,LCOGEN 1,1,Harlingen #1 Substation,0.453,hybrid_fuzzy
+TNHILL_CO_1,TNHILL CO 1,1,Newell Salvage Co. #1 Substation,0.453,hybrid_fuzzy
+WL_RANCH_RN,WL RANCH,1,Baker Ranch Substation,0.453,hybrid_fuzzy
+AGUAYO_1,AGUAYO 1,1,Navajo #1 Substation,0.45,hybrid_fuzzy
+AMO_AMOCO_1,AMO AMOCO 1,1,Amoco Substation,0.45,hybrid_fuzzy
+AMO_AMOCO_2,AMO AMOCO 2,1,Amoco Substation,0.45,hybrid_fuzzy
+AMO_AMOCO_5,AMO AMOCO 5,1,Amoco Substation,0.45,hybrid_fuzzy
+BEE_TR1,BEE TR1,1,Bee Creek Substation,0.45,hybrid_fuzzy
+BEN_138B,BEN 138B,1,Ben Bolt Substation,0.45,hybrid_fuzzy
+BEN_LD02,BEN LD02,1,Ben Bolt Substation,0.45,hybrid_fuzzy
+BOND_KV,BOND KV,1,Bond Road,0.45,hybrid_fuzzy
+BURORC_1,BURORC 1,1,Brazos Wind 1 Substation,0.45,hybrid_fuzzy
+BURORC_2,BURORC 2,1,Brazos Wind 2 Substation,0.45,hybrid_fuzzy
+B_DAVIS_3,DAVIS 3,1,Ben Davis Substation,0.45,hybrid_fuzzy
+B_DAVIS_4,DAVIS 4,1,Ben Davis Substation,0.45,hybrid_fuzzy
+CORONA_E_1,CORONA 1,1,Mccook 1 Substation,0.45,hybrid_fuzzy
+COSDN_1,COSDN 1,1,Clifton 1 Substation,0.45,hybrid_fuzzy
+DECKER_1,DECKER 1,1,Kermit #1 Substation,0.45,hybrid_fuzzy
+DECKER_2,DECKER 2,1,Kermit #2 Substation,0.45,hybrid_fuzzy
+DECKER_E_1,DECKER 1,1,Kermit #1 Substation,0.45,hybrid_fuzzy
+DECKER_E_2,DECKER 2,1,Kermit #2 Substation,0.45,hybrid_fuzzy
+HONEY_GR_9Y,HONEY GR 9Y,1,Honey Substation,0.45,hybrid_fuzzy
+ITALY_9,ITALY 9,1,Highway 9 Substation,0.45,hybrid_fuzzy
+LGE_E_1,LGE 1,1,Harlingen #1 Substation,0.45,hybrid_fuzzy
+LN_SR_SOUTH,LN SR SOUTH,1,South Substation,0.45,hybrid_fuzzy
+MAIN_2,MAIN 2,1,Hagerman #2 Substation,0.45,hybrid_fuzzy
+OLD_UN1,OLD UN1,1,Old Ocean Substation,0.45,hybrid_fuzzy
+OLD_UN2,OLD UN2,1,Old Ocean Substation,0.45,hybrid_fuzzy
+PARIS_KC_8Y,PARIS KC 8Y,1,Paris Substation,0.45,hybrid_fuzzy
+PARIS_SW1_5,PARIS SW1 5,1,Paris Substation,0.45,hybrid_fuzzy
+PC_NORTH_KP,PC NORTH KP,1,North Substation,0.45,hybrid_fuzzy
+PC_NORTH_KZ,PC NORTH KZ,1,North Substation,0.45,hybrid_fuzzy
+RIO_BRAV_L_A,RIO BRAV,1,Rio Lago,0.45,hybrid_fuzzy
+RIO_BRAV_L_B,RIO BRAV,1,Rio Lago,0.45,hybrid_fuzzy
+RIO_GRAN_L_A,RIO GRAN,1,Rio Lago,0.45,hybrid_fuzzy
+RIO_GRAN_L_B,RIO GRAN,1,Rio Lago,0.45,hybrid_fuzzy
+RIO_GRAN_V_A,RIO GRAN,1,Rio Lago,0.45,hybrid_fuzzy
+RIO_GRAN_V_C,RIO GRAN,1,Rio Lago,0.45,hybrid_fuzzy
+R_B_DAVIS_1,DAVIS 1,1,Ben Davis Substation,0.45,hybrid_fuzzy
+R_B_DAVIS_2,DAVIS 2,1,Ben Davis Substation,0.45,hybrid_fuzzy
+R_SILASRAY_1,SILASRAY 1,1,Usaa #1 Substation,0.45,hybrid_fuzzy
+R_SILASRAY_2,SILASRAY 2,1,Usaa #2 Substation,0.45,hybrid_fuzzy
+SAN_138A,SAN 138A,1,San Saba Substation,0.45,hybrid_fuzzy
+SAN_138B,SAN 138B,1,San Saba Substation,0.45,hybrid_fuzzy
+SUNVAS_1,SUNVAS 1,1,Navajo #1 Substation,0.45,hybrid_fuzzy
+SUNVAS_2,SUNVAS 2,1,Navajo #2 Substation,0.45,hybrid_fuzzy
+BCK_1,BCK 1,1,Mccook 1 Substation,0.446,hybrid_fuzzy
+BSF_E_1,BSF 1,1,Brazos Wind 1 Substation,0.446,hybrid_fuzzy
+CAPITOL_0060,CAPITOL 0060,1,Capitol Cement Substation,0.446,hybrid_fuzzy
+DECKER_GT,DECKER GT,1,Decker Switchyard,0.446,hybrid_fuzzy
+ELK_1,ELK 1,1,Elk City Substation,0.446,hybrid_fuzzy
+ELK_2,ELK 2,1,Elk City Substation,0.446,hybrid_fuzzy
+ELK_3,ELK 3,1,Elk City Substation,0.446,hybrid_fuzzy
+GIBCRK_4,GIBCRK 4,1,Imc #4 Substation,0.446,hybrid_fuzzy
+GIGA_BESS_1,GIGA 1,1,Kiowa 1 Sub,0.446,hybrid_fuzzy
+ISSUE_20,ISSUE 20,1,Ih 20 Substation,0.446,hybrid_fuzzy
+KING_NE_2,KING NE 2,1,King Substation,0.446,hybrid_fuzzy
+KING_NW_5,KING NW 5,1,King Substation,0.446,hybrid_fuzzy
+LOAD_KATI_1,KATI 1,1,Kiowa 1 Sub,0.446,hybrid_fuzzy
+MB_ONE,MB ONE,1,Tnp One Substation,0.446,hybrid_fuzzy
+MIL_E_1,MIL 1,1,Kermit #1 Substation,0.446,hybrid_fuzzy
+MIL_E_2,MIL 2,1,Kermit #2 Substation,0.446,hybrid_fuzzy
+NCO_2,NCO 2,1,Mccook 2 Substation,0.446,hybrid_fuzzy
+OXY_CC_K,OXY CC,1,Oxy Tap Substation,0.446,hybrid_fuzzy
+OXY_CC_L_A,OXY CC,1,Oxy Tap Substation,0.446,hybrid_fuzzy
+OXY_CC_L_B,OXY CC,1,Oxy Tap Substation,0.446,hybrid_fuzzy
+OXY_CC_V_A,OXY CC,1,Oxy Tap Substation,0.446,hybrid_fuzzy
+OXY_CC_V_B,OXY CC,1,Oxy Tap Substation,0.446,hybrid_fuzzy
+OXY_CC_Z,OXY CC,1,Oxy Tap Substation,0.446,hybrid_fuzzy
+OXY_L1,OXY L1,1,Oxy Tap Substation,0.446,hybrid_fuzzy
+PL_ARCO_8,PL ARCO 8,1,Arco Substation,0.446,hybrid_fuzzy
+PL_WEST_8,PL WEST 8,1,West Substation,0.446,hybrid_fuzzy
+RAT_RN_1,RAT 1,1,Kermit #1 Substation,0.446,hybrid_fuzzy
+R_KING_NE_1,KING NE 1,1,King Substation,0.446,hybrid_fuzzy
+R_KING_NW_1,KING NW 1,1,King Substation,0.446,hybrid_fuzzy
+R_KING_SE_1,KING SE 1,1,King Substation,0.446,hybrid_fuzzy
+R_KING_SW_1,KING SW 1,1,King Substation,0.446,hybrid_fuzzy
+SAN_13,SAN 13,1,San Jon Substation,0.446,hybrid_fuzzy
+SA_KQ,SAN KQ,1,San Jon Substation,0.446,hybrid_fuzzy
+SA_KW,SAN KW,1,San Jon Substation,0.446,hybrid_fuzzy
+STP_E_2,STP 2,1,Strata #2 Substation,0.446,hybrid_fuzzy
+VICTORIA_AG1,VICTORIA AG1,1,North Victoria Substation,0.446,hybrid_fuzzy
+VICTORIA_AG2,VICTORIA AG2,1,North Victoria Substation,0.446,hybrid_fuzzy
+COLETO_B301,COLETO B301,1,Coleto Creek Substation,0.443,hybrid_fuzzy
+COLETO_B302,COLETO B302,1,Coleto Creek Substation,0.443,hybrid_fuzzy
+COLETO_L130,COLETO L130,1,Coleto Creek Substation,0.443,hybrid_fuzzy
+COLETO_L930,COLETO L930,1,Coleto Creek Substation,0.443,hybrid_fuzzy
+COLETO_S050,COLETO S050,1,Coleto Creek Substation,0.443,hybrid_fuzzy
+LYTTON_S_KJ,LYTTON KJ,1,Lytton Springs Substation,0.443,hybrid_fuzzy
+MT_0LNB131,MOUNT 0LNB131,1,Mount Zion Substation,0.443,hybrid_fuzzy
+SCURRY_9Z,SCURRY 9Z,1,Scurry Chevron Substation,0.443,hybrid_fuzzy
+CASL_GAP_UN1,CASL GAP UN1,1,Castle Gap Substation,0.441,hybrid_fuzzy
+HEARN_RD1_LN,HEARN RD1 LN,1,Hearn Road Substation,0.441,hybrid_fuzzy
+BRAUNIG_BUS2,BRAUNIG BUS2,1,Braunig Switchyard,0.44,hybrid_fuzzy
+BRAUNIG_VHB1,BRAUNIG VHB1,1,Braunig Switchyard,0.44,hybrid_fuzzy
+BRAUNIG_VHB2,BRAUNIG VHB2,1,Braunig Switchyard,0.44,hybrid_fuzzy
+BRAUNIG_VHB3,BRAUNIG VHB3,1,Braunig Switchyard,0.44,hybrid_fuzzy
+CBY_3,CBY 3,1,Imc #3 Substation,0.44,hybrid_fuzzy
+EAGLE___138T,EAGLE 138T,1,Eagle Lake Substation,0.44,hybrid_fuzzy
+EAGLE___138U,EAGLE 138U,1,Eagle Lake Substation,0.44,hybrid_fuzzy
+EAGLE___138Z,EAGLE 138Z,1,Eagle Lake Substation,0.44,hybrid_fuzzy
+EB_20,EB 20,1,Ih 20 Substation,0.44,hybrid_fuzzy
+HANNIBAL_1,HANNIBAL 1,1,Fluvanna Wind 1 Substation,0.44,hybrid_fuzzy
+HOTWELLS_1,HOTWELLS 1,1,Phillips #1 Substation,0.44,hybrid_fuzzy
+HOTWELLS_2,HOTWELLS 2,1,Phillips #2 Substation,0.44,hybrid_fuzzy
+H_HOLLOW_EB,HOLLOW EB,1,Wolf Hollow Substation,0.44,hybrid_fuzzy
+INDNENR_1_RN,INDNENR 1,1,Harlingen #1 Substation,0.44,hybrid_fuzzy
+LN_WEAVER,LN WEAVER,1,Weaver Road Substation,0.44,hybrid_fuzzy
+MIDLAIRP_2,MIDLAIRP 2,1,Phillips #2 Substation,0.44,hybrid_fuzzy
+MIL_E_3,MIL 3,1,Imc #3 Substation,0.44,hybrid_fuzzy
+MIL_E_4,MIL 4,1,Imc #4 Substation,0.44,hybrid_fuzzy
+MOORE_FL_L_A,MOORE FL,1,Moore County Substation,0.44,hybrid_fuzzy
+MOORE_FL_L_B,MOORE FL,1,Moore County Substation,0.44,hybrid_fuzzy
+MOORE_FL_RN,MOORE FL,1,Moore County Substation,0.44,hybrid_fuzzy
+R_INDNENR_1,INDNENR 1,1,Harlingen #1 Substation,0.44,hybrid_fuzzy
+SAINT_JO_K,SAINT JO,1,Saint Hedwig Substation,0.44,hybrid_fuzzy
+SAN_SANMIGG1,SAN SANMIGG1,1,San Saba Substation,0.44,hybrid_fuzzy
+SCLPCOGN_E_2,SCLPCOGN 2,1,Cliffton 2 Substation,0.44,hybrid_fuzzy
+SC_1,SC 1,1,Usaa #1 Substation,0.44,hybrid_fuzzy
+SODA_EB5202,SODA EB5202,1,Soda Lake Substation,0.44,hybrid_fuzzy
+SRWE1_MAIN,SRWE1 MAIN,1,North Main Substation,0.44,hybrid_fuzzy
+SR_WIND_1,SR 1,1,Usaa #1 Substation,0.44,hybrid_fuzzy
+ST_KO,SAINT KO,1,Saint Hedwig Substation,0.44,hybrid_fuzzy
+WEBBER_S_4,WEBBER 4,1,Sweetwater Wind 4 Substation,0.44,hybrid_fuzzy
+WHITE_P_0001,WHITE 0001,1,White City Substation,0.44,hybrid_fuzzy
+WHITE_P_0002,WHITE 0002,1,White City Substation,0.44,hybrid_fuzzy
+WHITE_P_0006,WHITE 0006,1,White City Substation,0.44,hybrid_fuzzy
+WHITE_P_0011,WHITE 0011,1,White City Substation,0.44,hybrid_fuzzy
+WHITE_P_3553,WHITE 3553,1,White City Substation,0.44,hybrid_fuzzy
+WHITE_P_8300,WHITE 8300,1,White City Substation,0.44,hybrid_fuzzy
+WHITE_P_9100,WHITE 9100,1,White City Substation,0.44,hybrid_fuzzy
+WHITE_P_9200,WHITE 9200,1,White City Substation,0.44,hybrid_fuzzy
+PANDA_T1_L2,PANDA T1 L2,1,Panda Temple 2 Substation,0.438,hybrid_fuzzy
+BRAUNIG_2,BRAUNIG 2,1,Braunig Switchyard,0.437,hybrid_fuzzy
+CAPELLA_BE01,CAPELLA BE01,1,Capella Station,0.437,hybrid_fuzzy
+CARRIZO_LD02,CARRIZO LD02,1,Carrizo Springs Substation,0.437,hybrid_fuzzy
+LATIMER_1,LATIMER 1,1,Latimer Switchyard,0.437,hybrid_fuzzy
+LATIMER_2,LATIMER 2,1,Latimer Switchyard,0.437,hybrid_fuzzy
+R_BRAUNIG_1,BRAUNIG 1,1,Braunig Switchyard,0.437,hybrid_fuzzy
+R_BRAUNIG_2,BRAUNIG 2,1,Braunig Switchyard,0.437,hybrid_fuzzy
+36TH_2,36TH 2,1,36Th Street Substation,0.435,hybrid_fuzzy
+36TH_3,36TH 3,1,36Th Street Substation,0.435,hybrid_fuzzy
+AMISTAD_1,AMISTAD 1,1,Kermit #1 Substation,0.435,hybrid_fuzzy
+AMISTAD_2,AMISTAD 2,1,Kermit #2 Substation,0.435,hybrid_fuzzy
+AMISTAD_E_1,AMISTAD 1,1,Kermit #1 Substation,0.435,hybrid_fuzzy
+AMO_AMOCO_G1,AMO AMOCO G1,1,Amoco Substation,0.435,hybrid_fuzzy
+AMO_AMOCO_G2,AMO AMOCO G2,1,Amoco Substation,0.435,hybrid_fuzzy
+AMO_AMOCO_G3,AMO AMOCO G3,1,Amoco Substation,0.435,hybrid_fuzzy
+AMO_AMOCO_S1,AMO AMOCO S1,1,Amoco Substation,0.435,hybrid_fuzzy
+AMO_AMOCO_S2,AMO AMOCO S2,1,Amoco Substation,0.435,hybrid_fuzzy
+BEN_138A,BEN 138A,1,Ben Davis Substation,0.435,hybrid_fuzzy
+BIG_W_D101,BIG D101,1,Big Sandy Substation,0.435,hybrid_fuzzy
+BOWIE_T_8,BOWIE 8,1,Camp Bowie Substation,0.435,hybrid_fuzzy
+BRP_LOOP_RN,BRP LOOP,1,Long Loop Substation,0.435,hybrid_fuzzy
+B_DAVIS_KA,DAVIS KA,1,Ben Davis Substation,0.435,hybrid_fuzzy
+COSDN_2,COSDN 2,1,Cliffton 2 Substation,0.435,hybrid_fuzzy
+FALCON_E_1,FALCON 1,1,Clifton 1 Substation,0.435,hybrid_fuzzy
+FLCNS_E_1,FLCNS 1,1,Fluvanna Wind 1 Substation,0.435,hybrid_fuzzy
+FT_8035,FORT 8035,1,Fort Sam Substation,0.435,hybrid_fuzzy
+FT_8081,FORT 8081,1,Fort Sam Substation,0.435,hybrid_fuzzy
+FT_8082,FORT 8082,1,Fort Sam Substation,0.435,hybrid_fuzzy
+FT_8083,FORT 8083,1,Fort Sam Substation,0.435,hybrid_fuzzy
+FT_8090,FORT 8090,1,Fort Sam Substation,0.435,hybrid_fuzzy
+FT_8092,FORT 8092,1,Fort Sam Substation,0.435,hybrid_fuzzy
+GIDEON_1,GIDEON 1,1,Clifton 1 Substation,0.435,hybrid_fuzzy
+GRAYBUS_1,GRAYBUS 1,1,Brazos Wind 1 Substation,0.435,hybrid_fuzzy
+GRAYBUS_2,GRAYBUS 2,1,Brazos Wind 2 Substation,0.435,hybrid_fuzzy
+HLSES_1,HLSES 1,1,Phillips #1 Substation,0.435,hybrid_fuzzy
+INDL_1,INDL 1,1,Kingsland 1 Substation,0.435,hybrid_fuzzy
+LHORN_N_U1_2,LHORN 2,1,Hagerman #2 Substation,0.435,hybrid_fuzzy
+MAIN_1,MAIN 1,1,Harlingen #1 Substation,0.435,hybrid_fuzzy
+MDANP_CT1_2,MDANP 2,1,Hagerman #2 Substation,0.435,hybrid_fuzzy
+PARIS_SW1_5X,PARIS SW1 5X,1,Paris Substation,0.435,hybrid_fuzzy
+PARIS_SW1_5Y,PARIS SW1 5Y,1,Paris Substation,0.435,hybrid_fuzzy
+PARIS_SW1_5Z,PARIS SW1 5Z,1,Paris Substation,0.435,hybrid_fuzzy
+PAWNEE_1,PAWNEE 1,1,Fayette Plant #1 Substation,0.435,hybrid_fuzzy
+PAWNEE_2,PAWNEE 2,1,Fayette Plant #2 Substation,0.435,hybrid_fuzzy
+PC_SOUTH_LD1,PC SOUTH LD1,1,South Substation,0.435,hybrid_fuzzy
+PC_SOUTH_LD2,PC SOUTH LD2,1,South Substation,0.435,hybrid_fuzzy
+PINN_LN1,PINN LN1,1,Pinn Road Substation,0.435,hybrid_fuzzy
+R_GIDEON_1,GIDEON 1,1,Clifton 1 Substation,0.435,hybrid_fuzzy
+R_HLSES_1,HLSES 1,1,Phillips #1 Substation,0.435,hybrid_fuzzy
+R_HLSES_2,HLSES 2,1,Phillips #2 Substation,0.435,hybrid_fuzzy
+SAN_138D,SAN 138D,1,San Diego Substation,0.435,hybrid_fuzzy
+TNAMOCO___1,TNAMOCO 1,1,Navajo #1 Substation,0.435,hybrid_fuzzy
+VANDRBLT_3,VANDRBLT 3,1,Duval #3 Substation,0.435,hybrid_fuzzy
+WFTANK_1,WFTANK 1,1,Clifton 1 Substation,0.435,hybrid_fuzzy
+BROADVEW_2,BROADVEW 2,1,Raymondville #2 Substation,0.433,hybrid_fuzzy
+LEON_LCPCT1,LEON LCPCT1,1,Leon Junction Substation,0.433,hybrid_fuzzy
+LEON_LCPCT2,LEON LCPCT2,1,Leon Junction Substation,0.433,hybrid_fuzzy
+LEON_LCPCT3,LEON LCPCT3,1,Leon Junction Substation,0.433,hybrid_fuzzy
+LEON_LCPCT4,LEON LCPCT4,1,Leon Junction Substation,0.433,hybrid_fuzzy
+SUN_9,SUN 9,1,#9,0.433,hybrid_fuzzy
+TUTTLE_1357,TUTTLE 1357,1,Tuttle Conoco,0.433,hybrid_fuzzy
+TUTTLE_1361,TUTTLE 1361,1,Tuttle Conoco,0.433,hybrid_fuzzy
+TUTTLE_1363,TUTTLE 1363,1,Tuttle Conoco,0.433,hybrid_fuzzy
+TUTTLE_1366,TUTTLE 1366,1,Tuttle Conoco,0.433,hybrid_fuzzy
+WAX_9,WAX 9,1,#9,0.433,hybrid_fuzzy
+COT_MAIN_1,COT MAIN 1,1,North Main Substation,0.43,hybrid_fuzzy
+ANTLP_3,ANTLP 3,1,Duval #3 Substation,0.429,hybrid_fuzzy
+BAYOU___138V,BAYOU 138V,1,Bayou Cogen Substation,0.429,hybrid_fuzzy
+BAYOU___138W,BAYOU 138W,1,Bayou Cogen Substation,0.429,hybrid_fuzzy
+BRAUNIG_KV,BRAUNIG KV,1,Braunig Switchyard,0.429,hybrid_fuzzy
+CAL_1,CAL 1,1,Clifton 1 Substation,0.429,hybrid_fuzzy
+CANEY___138A,CANEY 138A,1,Caney Creek Substation,0.429,hybrid_fuzzy
+CANEY___138X,CANEY 138X,1,Caney Creek Substation,0.429,hybrid_fuzzy
+CCEC_E_1,CCEC 1,1,Mccook 1 Substation,0.429,hybrid_fuzzy
+CCEC_E_2,CCEC 2,1,Mccook 2 Substation,0.429,hybrid_fuzzy
+COTULA_1,COTULA 1,1,Usaa #1 Substation,0.429,hybrid_fuzzy
+DECKER__138A,DECKER 138A,1,Decker Switchyard,0.429,hybrid_fuzzy
+DOW_64,DOW 64,1,Dow Pump Substation,0.429,hybrid_fuzzy
+EB_STEELE,EB STEELE,1,Steele Store Substation,0.429,hybrid_fuzzy
+FORSW_E_1,FORSW 1,1,Kiowa 1 Sub,0.429,hybrid_fuzzy
+FTR_1,FTR 1,1,Fayette Plant #1 Substation,0.429,hybrid_fuzzy
+GR_2,GR 2,1,Hagerman #2 Substation,0.429,hybrid_fuzzy
+JAY_RN_1,JAY 1,1,Fayette Plant #1 Substation,0.429,hybrid_fuzzy
+JUNO_1,JUNO 1,1,Navajo #1 Substation,0.429,hybrid_fuzzy
+KING_NE_KS,KING NE KS,1,King Substation,0.429,hybrid_fuzzy
+KING_SW_KX,KING SW KX,1,King Substation,0.429,hybrid_fuzzy
+LEON_CRK_T,LEON CRK,1,Leon Junction Substation,0.429,hybrid_fuzzy
+LEON_CRK_W,LEON CRK,1,Leon Junction Substation,0.429,hybrid_fuzzy
+LEON_LN1,LEON LN1,1,Leon Junction Substation,0.429,hybrid_fuzzy
+LN_COLETO,LN COLETO,1,Coleto Creek Substation,0.429,hybrid_fuzzy

@@ -1,0 +1,8 @@
+pandas>=2.0
+requests>=2.31
+folium>=0.15
+numpy>=1.24
+python-dotenv>=1.0
+tqdm>=4.65
+fuzzywuzzy>=0.18
+python-Levenshtein>=0.21
